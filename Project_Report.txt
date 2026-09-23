@@ -1,0 +1,47 @@
+OFFICE OPERATIONS & TASK MANAGEMENT DASHBOARD
+
+Project type: Portfolio / simulated business case
+Period covered: January-August 2026
+Task records: 1,200
+Meeting records: 260
+
+PROJECT OVERVIEW
+This project analyzes day-to-day office activities in a software-development environment.
+It tracks client communication, meeting coordination, manual user testing, screencast creation,
+office requirements, management support, documentation and follow-ups.
+
+BUSINESS PROBLEM
+Administrative work can be spread across emails, meetings and separate follow-up lists.
+A manager needs a quick view of workload, pending work, delays and recurring blockers.
+The dashboard brings those activities into one reporting view.
+
+TOOLS
+Excel, Python (Pandas/NumPy), MySQL and Power BI.
+
+KEY KPIs
+Total Tasks: 1,200
+Completed Tasks: 746
+Pending Tasks: 157
+In Progress: 267
+Cancelled: 30
+On-Time Completion Rate: 85.39%
+Average Delay: 0.35 days
+
+POWER BI PAGES
+1. Management Overview – KPI cards, monthly volume, task status and department performance.
+2. Task & Workload – task type, priority, assignee workload and pending work.
+3. Communication & Meetings – stakeholder activity, channels and meeting attendance.
+4. Issues & Delays – blockers, late tasks and delay patterns.
+
+INTERVIEW EXPLANATION
+“I created this project as a practical office-operations reporting case. I used a simulated
+dataset covering routine activities such as client communication, meeting coordination,
+manual user testing, screencast creation, management support and office requirements.
+I cleaned and analyzed the data with Python, wrote SQL queries for management questions,
+and designed a Power BI dashboard around completion rate, pending work, on-time performance
+and delays. The goal was to make it easy for a manager to see what needs follow-up and
+where operational issues are occurring.”
+
+DATA NOTE
+All names, clients and figures are fictional/simulated for portfolio use. They are designed
+to resemble normal office activity but do not represent actual BinaryFolks records.

@@ -1,0 +1,1201 @@
+Task_ID,Request_Date,Assigned_To,Department,Task_Type,Client_or_Stakeholder,Priority,Status,Due_Date,Completion_Date,Delay_Days,Communication_Channel,Meeting_Required,Communication_Required,Issue_or_Blocker,Satisfaction_Rating
+T0001,2026-01-29,Sayan Bose,QA,Client Communication,Japan Client E,Medium,Completed,2026-01-30,2026-01-28,0,Email,Yes,Yes,No Issue,5.0
+T0002,2026-05-10,Priyanka Roy,HR,Issue Tracking,US Client A,Medium,In Progress,2026-05-15,,0,In-person,No,No,No Issue,
+T0003,2026-07-27,Abhishek Paul,Development,Client Communication,Australia Client C,High,Completed,2026-07-29,2026-07-28,0,Zoom,Yes,Yes,No Issue,3.0
+T0004,2026-03-09,Ishita Chakraborty,Business Support,Client Communication,Internal Management,Medium,Cancelled,2026-03-13,,0,WhatsApp,Yes,Yes,No Issue,
+T0005,2026-08-15,Ishita Chakraborty,Business Support,Management Support,Canada Client D,High,Completed,2026-08-17,2026-08-17,0,Zoom,No,Yes,Approval Pending,4.0
+T0006,2026-04-04,Poulomi Roy,Business Support,User Testing,Singapore Client F,Medium,In Progress,2026-04-05,,0,Phone,No,Yes,Test Failure,
+T0007,2026-08-25,Abhishek Paul,Development,Follow-up,Canada Client D,High,Pending,2026-08-26,,0,Email,No,Yes,No Issue,
+T0008,2026-03-22,Kunal Ghosh,Administration,Documentation,Japan Client E,Low,Pending,2026-03-27,,0,Phone,No,No,No Issue,
+T0009,2026-08-15,Ankit Dutta,QA,Office Supplies,Internal Management,Low,Completed,2026-08-20,2026-08-18,0,Zoom,No,No,Approval Pending,5.0
+T0010,2026-05-11,Soham Das,QA,Office Supplies,Internal Management,Low,Completed,2026-05-12,2026-05-12,0,Phone,No,No,No Issue,4.0
+T0011,2026-05-16,Moumita Saha,Administration,Office Event,Internal Management,Urgent,Pending,2026-05-17,,0,Zoom,No,Yes,Resource Unavailable,
+T0012,2026-06-14,Kunal Ghosh,Administration,Management Support,UK Client B,Medium,Completed,2026-06-15,2026-06-18,3,Email,No,Yes,Resource Unavailable,3.0
+T0013,2026-08-04,Abhishek Paul,Development,Follow-up,Canada Client D,Low,In Progress,2026-08-09,,0,Email,No,Yes,Resource Unavailable,
+T0014,2026-03-24,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,Low,Pending,2026-03-27,,0,In-person,No,Yes,No Issue,
+T0015,2026-01-22,Riya Ghosh,Administration,Office Supplies,Internal Management,High,Cancelled,2026-01-27,,0,Phone,No,Yes,No Issue,
+T0016,2026-02-12,Rahul Banerjee,Development,Office Event,Internal Management,Medium,Completed,2026-02-14,2026-02-16,2,WhatsApp,No,No,No Issue,4.0
+T0017,2026-08-19,Moumita Saha,Administration,Follow-up,Internal Management,Low,Completed,2026-08-22,2026-08-20,0,Teams,No,Yes,No Issue,5.0
+T0018,2026-06-11,Debarati Das,HR,Client Communication,Canada Client D,Low,Completed,2026-06-14,2026-06-14,0,In-person,Yes,Yes,No Issue,5.0
+T0019,2026-08-14,Amitava Nandi,Development,Issue Tracking,Internal Management,Medium,Completed,2026-08-18,2026-08-18,0,Phone,No,No,No Issue,4.0
+T0020,2026-01-14,Debarati Das,HR,Meeting Coordination,US Client A,Medium,Completed,2026-01-15,2026-01-15,0,Teams,Yes,Yes,No Issue,5.0
+T0021,2026-08-12,Priyanka Roy,HR,Meeting Coordination,Internal Management,High,Pending,2026-08-13,,0,Email,Yes,Yes,Client Response Pending,
+T0022,2026-07-12,Amitava Nandi,Development,Screencast Creation,Australia Client C,Medium,Completed,2026-07-16,2026-07-18,2,Teams,No,No,No Issue,4.0
+T0023,2026-07-20,Amitava Nandi,Development,Office Supplies,Internal Management,Medium,In Progress,2026-07-25,,0,Zoom,No,No,No Issue,
+T0024,2026-01-15,Priyanka Roy,HR,Issue Tracking,US Client A,High,Completed,2026-01-20,2026-01-18,0,In-person,No,Yes,No Issue,5.0
+T0025,2026-01-18,Soham Das,QA,Issue Tracking,UK Client B,Medium,Completed,2026-01-19,2026-01-21,2,Phone,No,Yes,No Issue,4.0
+T0026,2026-05-14,Ishita Chakraborty,Business Support,Management Support,Japan Client E,Medium,In Progress,2026-05-16,,0,WhatsApp,Yes,Yes,No Issue,
+T0027,2026-04-28,Abhishek Paul,Development,Management Support,UK Client B,Low,Completed,2026-05-03,2026-05-04,1,Teams,Yes,Yes,No Issue,3.0
+T0028,2026-01-18,Amitava Nandi,Development,Screencast Creation,Singapore Client F,Medium,Completed,2026-01-23,2026-01-21,0,Teams,No,Yes,No Issue,4.0
+T0029,2026-06-19,Amitava Nandi,Development,Meeting Coordination,Australia Client C,Medium,Pending,2026-06-24,,0,Teams,Yes,Yes,No Issue,
+T0030,2026-03-29,Debarati Das,HR,Screencast Creation,Japan Client E,Medium,Completed,2026-03-30,2026-03-29,0,Teams,No,No,No Issue,5.0
+T0031,2026-06-13,Soham Das,QA,Office Event,Internal Management,Low,Completed,2026-06-17,2026-06-17,0,Teams,No,Yes,Documentation Update,4.0
+T0032,2026-04-05,Poulomi Roy,Business Support,Issue Tracking,Australia Client C,Medium,Completed,2026-04-08,2026-04-09,1,Teams,No,No,No Issue,4.0
+T0033,2026-07-19,Sneha Mukherjee,Business Support,Follow-up,India Client G,Urgent,In Progress,2026-07-21,,0,Phone,No,Yes,Schedule Conflict,
+T0034,2026-02-15,Arindam Sen,Administration,Management Support,India Client G,High,Pending,2026-02-17,,0,Phone,Yes,Yes,Client Response Pending,
+T0035,2026-01-10,Poulomi Roy,Business Support,Office Supplies,Internal Management,Medium,In Progress,2026-01-14,,0,Teams,No,No,No Issue,
+T0036,2026-01-07,Priyanka Roy,HR,Screencast Creation,India Client G,Medium,Pending,2026-01-10,,0,Teams,No,No,No Issue,
+T0037,2026-06-23,Ankit Dutta,QA,Follow-up,Singapore Client F,Urgent,Completed,2026-06-26,2026-06-25,0,In-person,No,Yes,No Issue,4.0
+T0038,2026-07-21,Debarati Das,HR,Management Support,India Client G,Medium,Completed,2026-07-25,2026-07-27,2,In-person,Yes,Yes,Client Response Pending,3.0
+T0039,2026-06-25,Rahul Banerjee,Development,Screencast Creation,Singapore Client F,Medium,Pending,2026-06-28,,0,Teams,No,No,No Issue,
+T0040,2026-07-04,Riya Ghosh,Administration,Office Event,Internal Management,Medium,In Progress,2026-07-07,,0,Teams,No,No,Resource Unavailable,
+T0041,2026-04-18,Priyanka Roy,HR,Documentation,Australia Client C,Medium,Completed,2026-04-23,2026-04-22,0,In-person,No,No,No Issue,4.0
+T0042,2026-04-30,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,Medium,Completed,2026-05-04,2026-05-02,0,Zoom,No,Yes,No Issue,4.0
+T0043,2026-06-08,Sayan Bose,QA,Management Support,UK Client B,High,In Progress,2026-06-11,,0,Email,Yes,Yes,No Issue,
+T0044,2026-03-04,Arindam Sen,Administration,Office Supplies,Internal Management,Medium,In Progress,2026-03-08,,0,Teams,No,No,Resource Unavailable,
+T0045,2026-06-28,Debarati Das,HR,Documentation,Internal Management,Medium,Completed,2026-06-29,2026-06-30,1,WhatsApp,No,No,No Issue,4.0
+T0046,2026-05-23,Arindam Sen,Administration,Screencast Creation,UK Client B,Medium,In Progress,2026-05-28,,0,Teams,No,No,Approval Pending,
+T0047,2026-07-28,Ishita Chakraborty,Business Support,Follow-up,India Client G,High,Completed,2026-07-30,2026-07-29,0,Teams,No,Yes,No Issue,3.0
+T0048,2026-07-16,Abhishek Paul,Development,Follow-up,Internal Management,Medium,Completed,2026-07-17,2026-07-17,0,Zoom,No,Yes,No Issue,3.0
+T0049,2026-02-05,Riya Ghosh,Administration,User Testing,Canada Client D,Medium,Completed,2026-02-07,2026-02-06,0,Phone,No,No,No Issue,4.0
+T0050,2026-05-30,Kunal Ghosh,Administration,Client Communication,India Client G,Medium,Pending,2026-06-02,,0,In-person,No,Yes,Approval Pending,
+T0051,2026-07-08,Debarati Das,HR,Follow-up,Canada Client D,Medium,Completed,2026-07-12,2026-07-11,0,Phone,No,Yes,No Issue,4.0
+T0052,2026-04-30,Poulomi Roy,Business Support,User Testing,US Client A,High,Completed,2026-05-01,2026-04-30,0,Zoom,No,Yes,Test Failure,5.0
+T0053,2026-03-28,Sneha Mukherjee,Business Support,Documentation,Japan Client E,High,Pending,2026-03-31,,0,WhatsApp,No,Yes,No Issue,
+T0054,2026-01-14,Rahul Banerjee,Development,Management Support,Canada Client D,Medium,In Progress,2026-01-15,,0,Email,No,Yes,Schedule Conflict,
+T0055,2026-02-09,Ishita Chakraborty,Business Support,Screencast Creation,Australia Client C,Medium,Completed,2026-02-11,2026-02-10,0,Teams,No,No,No Issue,4.0
+T0056,2026-07-03,Debarati Das,HR,Meeting Coordination,Australia Client C,Urgent,Completed,2026-07-04,2026-07-08,4,In-person,Yes,Yes,Client Response Pending,4.0
+T0057,2026-03-04,Sayan Bose,QA,Meeting Coordination,Japan Client E,High,Completed,2026-03-05,2026-03-03,0,Phone,No,Yes,No Issue,4.0
+T0058,2026-05-10,Riya Ghosh,Administration,Management Support,US Client A,High,In Progress,2026-05-11,,0,Phone,Yes,Yes,No Issue,
+T0059,2026-02-09,Debarati Das,HR,Documentation,Australia Client C,High,Pending,2026-02-12,,0,WhatsApp,No,No,No Issue,
+T0060,2026-03-10,Ishita Chakraborty,Business Support,Management Support,Canada Client D,High,Completed,2026-03-14,2026-03-13,0,Zoom,Yes,Yes,No Issue,5.0
+T0061,2026-03-25,Poulomi Roy,Business Support,User Testing,Internal Management,Medium,In Progress,2026-03-28,,0,In-person,No,No,Documentation Update,
+T0062,2026-05-13,Arindam Sen,Administration,Screencast Creation,UK Client B,Medium,Completed,2026-05-18,2026-05-16,0,Teams,No,No,No Issue,4.0
+T0063,2026-01-05,Kunal Ghosh,Administration,Meeting Coordination,Japan Client E,Medium,In Progress,2026-01-08,,0,In-person,No,Yes,No Issue,
+T0064,2026-03-30,Rahul Banerjee,Development,Documentation,Singapore Client F,Medium,Completed,2026-04-02,2026-04-02,0,WhatsApp,No,Yes,No Issue,4.0
+T0065,2026-06-26,Kunal Ghosh,Administration,User Testing,Canada Client D,Medium,Completed,2026-07-01,2026-07-04,3,Zoom,No,Yes,No Issue,5.0
+T0066,2026-02-02,Rahul Banerjee,Development,Office Event,Internal Management,Low,Completed,2026-02-05,2026-02-05,0,Email,No,No,No Issue,4.0
+T0067,2026-05-03,Moumita Saha,Administration,Office Supplies,Internal Management,Medium,Pending,2026-05-06,,0,Email,No,No,No Issue,
+T0068,2026-05-06,Ankit Dutta,QA,Meeting Coordination,US Client A,Low,In Progress,2026-05-09,,0,In-person,Yes,Yes,No Issue,
+T0069,2026-04-17,Kunal Ghosh,Administration,Issue Tracking,Canada Client D,High,Completed,2026-04-21,2026-04-19,0,In-person,No,No,No Issue,5.0
+T0070,2026-01-26,Debarati Das,HR,Screencast Creation,Canada Client D,Medium,Completed,2026-01-28,2026-01-28,0,Teams,No,Yes,No Issue,4.0
+T0071,2026-05-01,Ishita Chakraborty,Business Support,Office Event,Internal Management,Low,Completed,2026-05-04,2026-05-03,0,WhatsApp,No,Yes,Test Failure,4.0
+T0072,2026-08-28,Kunal Ghosh,Administration,Screencast Creation,India Client G,Low,Completed,2026-08-30,2026-09-01,2,Teams,No,Yes,No Issue,4.0
+T0073,2026-07-11,Ishita Chakraborty,Business Support,Issue Tracking,Japan Client E,Medium,Completed,2026-07-14,2026-07-13,0,In-person,No,No,No Issue,5.0
+T0074,2026-07-08,Ankit Dutta,QA,Management Support,Japan Client E,Low,Completed,2026-07-13,2026-07-13,0,Zoom,No,Yes,No Issue,4.0
+T0075,2026-07-13,Kunal Ghosh,Administration,User Testing,Internal Management,Medium,Completed,2026-07-16,2026-07-14,0,Email,No,No,No Issue,4.0
+T0076,2026-03-27,Ankit Dutta,QA,Management Support,UK Client B,High,Completed,2026-03-31,2026-03-30,0,Phone,No,Yes,No Issue,5.0
+T0077,2026-03-24,Abhishek Paul,Development,Meeting Coordination,India Client G,High,In Progress,2026-03-25,,0,Phone,No,Yes,No Issue,
+T0078,2026-02-18,Arindam Sen,Administration,Follow-up,Singapore Client F,Medium,Completed,2026-02-22,2026-02-22,0,Teams,No,Yes,No Issue,3.0
+T0079,2026-08-14,Moumita Saha,Administration,Office Supplies,Internal Management,Low,Cancelled,2026-08-19,,0,In-person,No,Yes,Test Failure,
+T0080,2026-05-22,Arindam Sen,Administration,Documentation,UK Client B,Medium,Pending,2026-05-23,,0,Teams,No,No,Documentation Update,
+T0081,2026-08-27,Moumita Saha,Administration,Office Event,Internal Management,Medium,Completed,2026-08-31,2026-09-02,2,Phone,No,No,No Issue,5.0
+T0082,2026-05-11,Ishita Chakraborty,Business Support,User Testing,UK Client B,Medium,In Progress,2026-05-15,,0,Zoom,No,No,No Issue,
+T0083,2026-03-18,Debarati Das,HR,Issue Tracking,Internal Management,High,Completed,2026-03-22,2026-03-20,0,Zoom,No,No,No Issue,3.0
+T0084,2026-03-03,Debarati Das,HR,Issue Tracking,India Client G,Medium,In Progress,2026-03-04,,0,Phone,No,No,Documentation Update,
+T0085,2026-06-19,Ankit Dutta,QA,User Testing,Internal Management,Urgent,Completed,2026-06-24,2026-06-24,0,Email,No,No,No Issue,4.0
+T0086,2026-08-11,Ankit Dutta,QA,User Testing,UK Client B,Medium,Pending,2026-08-14,,0,WhatsApp,No,No,No Issue,
+T0087,2026-05-17,Poulomi Roy,Business Support,Documentation,Singapore Client F,Medium,Pending,2026-05-21,,0,Teams,No,Yes,No Issue,
+T0088,2026-06-25,Sayan Bose,QA,Office Event,Internal Management,Urgent,In Progress,2026-06-29,,0,Email,No,Yes,Documentation Update,
+T0089,2026-02-12,Moumita Saha,Administration,Office Event,Internal Management,High,Completed,2026-02-13,2026-02-12,0,In-person,No,No,No Issue,4.0
+T0090,2026-07-22,Sayan Bose,QA,User Testing,Australia Client C,Low,Completed,2026-07-26,2026-07-26,0,Phone,No,No,Test Failure,5.0
+T0091,2026-08-19,Arindam Sen,Administration,Office Supplies,Internal Management,High,In Progress,2026-08-21,,0,Zoom,No,Yes,No Issue,
+T0092,2026-03-18,Ishita Chakraborty,Business Support,Documentation,Japan Client E,Medium,Completed,2026-03-22,2026-03-23,1,Zoom,No,Yes,No Issue,4.0
+T0093,2026-03-17,Debarati Das,HR,Client Communication,India Client G,Medium,Completed,2026-03-18,2026-03-22,4,In-person,No,Yes,Schedule Conflict,3.0
+T0094,2026-06-12,Priyanka Roy,HR,Screencast Creation,Japan Client E,Medium,In Progress,2026-06-14,,0,Teams,No,Yes,Documentation Update,
+T0095,2026-03-21,Arindam Sen,Administration,Office Supplies,Internal Management,Low,Completed,2026-03-23,2026-03-22,0,Teams,No,No,Schedule Conflict,5.0
+T0096,2026-08-13,Rahul Banerjee,Development,Management Support,Japan Client E,High,Completed,2026-08-17,2026-08-20,3,Email,No,Yes,No Issue,4.0
+T0097,2026-02-06,Riya Ghosh,Administration,Screencast Creation,India Client G,Urgent,In Progress,2026-02-09,,0,Teams,No,Yes,Client Response Pending,
+T0098,2026-05-18,Abhishek Paul,Development,Meeting Coordination,Internal Management,Medium,In Progress,2026-05-21,,0,Email,Yes,Yes,Test Failure,
+T0099,2026-03-01,Sayan Bose,QA,Office Supplies,Internal Management,Low,Pending,2026-03-06,,0,WhatsApp,No,No,Schedule Conflict,
+T0100,2026-06-12,Riya Ghosh,Administration,Office Supplies,Internal Management,High,Completed,2026-06-16,2026-06-16,0,Phone,No,Yes,No Issue,5.0
+T0101,2026-08-16,Priyanka Roy,HR,Follow-up,Australia Client C,Medium,Completed,2026-08-21,2026-08-19,0,WhatsApp,No,Yes,Approval Pending,5.0
+T0102,2026-06-07,Moumita Saha,Administration,Documentation,Japan Client E,Low,Completed,2026-06-11,2026-06-11,0,WhatsApp,No,No,No Issue,4.0
+T0103,2026-06-15,Amitava Nandi,Development,Management Support,US Client A,Medium,Completed,2026-06-16,2026-06-20,4,WhatsApp,Yes,Yes,No Issue,4.0
+T0104,2026-01-13,Arindam Sen,Administration,Management Support,Canada Client D,Urgent,In Progress,2026-01-15,,0,In-person,Yes,Yes,Schedule Conflict,
+T0105,2026-07-28,Priyanka Roy,HR,Screencast Creation,Singapore Client F,High,In Progress,2026-08-02,,0,Teams,No,Yes,No Issue,
+T0106,2026-02-03,Soham Das,QA,Follow-up,Japan Client E,High,Completed,2026-02-04,2026-02-03,0,In-person,No,Yes,Schedule Conflict,5.0
+T0107,2026-03-09,Soham Das,QA,Client Communication,Australia Client C,High,Completed,2026-03-10,2026-03-09,0,In-person,Yes,Yes,No Issue,5.0
+T0108,2026-01-12,Ishita Chakraborty,Business Support,Follow-up,Japan Client E,Medium,Pending,2026-01-13,,0,Phone,No,Yes,Approval Pending,
+T0109,2026-01-28,Sayan Bose,QA,Office Supplies,Internal Management,High,Completed,2026-01-29,2026-01-29,0,In-person,No,Yes,No Issue,4.0
+T0110,2026-07-02,Rahul Banerjee,Development,Management Support,India Client G,Urgent,Completed,2026-07-06,2026-07-05,0,WhatsApp,Yes,Yes,Documentation Update,3.0
+T0111,2026-07-04,Rahul Banerjee,Development,Screencast Creation,India Client G,Medium,Completed,2026-07-07,2026-07-06,0,Teams,No,No,Test Failure,4.0
+T0112,2026-03-07,Sayan Bose,QA,Management Support,Australia Client C,High,Completed,2026-03-08,2026-03-08,0,Teams,Yes,Yes,Test Failure,4.0
+T0113,2026-05-24,Ishita Chakraborty,Business Support,Follow-up,Singapore Client F,Medium,Completed,2026-05-28,2026-05-29,1,Zoom,No,Yes,Resource Unavailable,4.0
+T0114,2026-05-10,Ishita Chakraborty,Business Support,Screencast Creation,Australia Client C,Medium,Completed,2026-05-11,2026-05-09,0,Teams,No,No,No Issue,5.0
+T0115,2026-07-26,Priyanka Roy,HR,Documentation,US Client A,Medium,In Progress,2026-07-29,,0,WhatsApp,No,Yes,No Issue,
+T0116,2026-03-21,Kunal Ghosh,Administration,Management Support,Singapore Client F,Low,Pending,2026-03-26,,0,WhatsApp,No,Yes,No Issue,
+T0117,2026-01-08,Sayan Bose,QA,Meeting Coordination,Canada Client D,Medium,Completed,2026-01-10,2026-01-08,0,Email,Yes,Yes,Resource Unavailable,3.0
+T0118,2026-02-10,Soham Das,QA,Issue Tracking,US Client A,Medium,Completed,2026-02-14,2026-02-13,0,In-person,No,No,No Issue,5.0
+T0119,2026-01-29,Ankit Dutta,QA,Office Event,Internal Management,Medium,Completed,2026-02-03,2026-02-03,0,In-person,No,Yes,No Issue,5.0
+T0120,2026-03-19,Priyanka Roy,HR,Screencast Creation,Australia Client C,High,Completed,2026-03-20,2026-03-18,0,Teams,No,No,No Issue,4.0
+T0121,2026-02-28,Debarati Das,HR,Follow-up,Singapore Client F,Low,Pending,2026-03-01,,0,Phone,No,Yes,No Issue,
+T0122,2026-01-20,Amitava Nandi,Development,Management Support,India Client G,Medium,In Progress,2026-01-24,,0,Zoom,Yes,Yes,No Issue,
+T0123,2026-07-25,Soham Das,QA,Issue Tracking,Internal Management,High,Pending,2026-07-26,,0,Phone,No,No,Schedule Conflict,
+T0124,2026-04-13,Ishita Chakraborty,Business Support,Follow-up,UK Client B,Medium,Completed,2026-04-16,2026-04-16,0,WhatsApp,No,Yes,No Issue,5.0
+T0125,2026-02-19,Rahul Banerjee,Development,Management Support,Singapore Client F,High,In Progress,2026-02-21,,0,Teams,Yes,Yes,No Issue,
+T0126,2026-06-04,Soham Das,QA,User Testing,UK Client B,Low,In Progress,2026-06-08,,0,WhatsApp,No,No,Test Failure,
+T0127,2026-02-08,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,Low,Completed,2026-02-11,2026-02-09,0,Email,No,Yes,No Issue,5.0
+T0128,2026-01-10,Moumita Saha,Administration,Client Communication,Singapore Client F,High,Completed,2026-01-11,2026-01-09,0,WhatsApp,Yes,Yes,No Issue,3.0
+T0129,2026-08-21,Moumita Saha,Administration,Issue Tracking,Canada Client D,Medium,Completed,2026-08-23,2026-08-27,4,WhatsApp,No,Yes,Test Failure,5.0
+T0130,2026-02-14,Sayan Bose,QA,Client Communication,Canada Client D,High,Cancelled,2026-02-19,,0,Zoom,Yes,Yes,No Issue,
+T0131,2026-03-14,Amitava Nandi,Development,Documentation,India Client G,High,In Progress,2026-03-15,,0,Email,No,No,No Issue,
+T0132,2026-06-23,Rahul Banerjee,Development,Documentation,Japan Client E,Medium,Pending,2026-06-28,,0,In-person,No,Yes,No Issue,
+T0133,2026-02-06,Sayan Bose,QA,Management Support,Japan Client E,Urgent,In Progress,2026-02-10,,0,Zoom,Yes,Yes,Client Response Pending,
+T0134,2026-04-07,Rahul Banerjee,Development,Management Support,Australia Client C,Medium,In Progress,2026-04-12,,0,In-person,Yes,Yes,No Issue,
+T0135,2026-01-05,Sneha Mukherjee,Business Support,Management Support,Japan Client E,Medium,Completed,2026-01-09,2026-01-09,0,Email,Yes,Yes,No Issue,4.0
+T0136,2026-08-02,Rahul Banerjee,Development,Follow-up,US Client A,Medium,Pending,2026-08-07,,0,Phone,No,Yes,No Issue,
+T0137,2026-02-11,Soham Das,QA,User Testing,Australia Client C,High,Completed,2026-02-14,2026-02-14,0,Phone,No,No,No Issue,5.0
+T0138,2026-03-21,Priyanka Roy,HR,Office Supplies,Internal Management,High,Completed,2026-03-26,2026-03-30,4,In-person,No,No,Resource Unavailable,4.0
+T0139,2026-07-29,Soham Das,QA,Screencast Creation,Australia Client C,High,Completed,2026-08-02,2026-08-03,1,Teams,No,Yes,No Issue,4.0
+T0140,2026-04-26,Abhishek Paul,Development,Follow-up,Australia Client C,High,Completed,2026-04-28,2026-04-27,0,Email,No,Yes,Approval Pending,4.0
+T0141,2026-03-02,Sneha Mukherjee,Business Support,Documentation,UK Client B,Medium,Completed,2026-03-03,2026-03-01,0,Email,No,No,Schedule Conflict,5.0
+T0142,2026-05-01,Poulomi Roy,Business Support,User Testing,Internal Management,Medium,Completed,2026-05-02,2026-05-02,0,In-person,No,Yes,No Issue,4.0
+T0143,2026-03-15,Kunal Ghosh,Administration,Screencast Creation,Japan Client E,Low,Completed,2026-03-20,2026-03-20,0,Teams,No,No,No Issue,5.0
+T0144,2026-05-28,Rahul Banerjee,Development,Screencast Creation,Australia Client C,Medium,Completed,2026-05-31,2026-05-30,0,Teams,No,Yes,No Issue,5.0
+T0145,2026-01-18,Sneha Mukherjee,Business Support,Follow-up,US Client A,Medium,Completed,2026-01-22,2026-01-25,3,Email,No,Yes,Test Failure,5.0
+T0146,2026-06-18,Debarati Das,HR,Meeting Coordination,Singapore Client F,Low,Completed,2026-06-21,2026-06-21,0,Phone,No,Yes,Documentation Update,4.0
+T0147,2026-02-04,Kunal Ghosh,Administration,Meeting Coordination,Internal Management,Low,Completed,2026-02-06,2026-02-09,3,In-person,No,Yes,No Issue,4.0
+T0148,2026-07-12,Arindam Sen,Administration,Screencast Creation,Japan Client E,Medium,In Progress,2026-07-15,,0,Teams,No,No,No Issue,
+T0149,2026-04-22,Sneha Mukherjee,Business Support,Documentation,Internal Management,High,Completed,2026-04-24,2026-04-23,0,Zoom,No,No,Resource Unavailable,3.0
+T0150,2026-04-19,Debarati Das,HR,Meeting Coordination,India Client G,Medium,In Progress,2026-04-24,,0,Zoom,Yes,Yes,No Issue,
+T0151,2026-03-17,Sayan Bose,QA,Office Event,Internal Management,Medium,In Progress,2026-03-19,,0,Email,No,No,No Issue,
+T0152,2026-08-11,Debarati Das,HR,Management Support,India Client G,Medium,Cancelled,2026-08-12,,0,Zoom,Yes,Yes,No Issue,
+T0153,2026-07-25,Rahul Banerjee,Development,User Testing,US Client A,Low,Completed,2026-07-29,2026-07-29,0,In-person,No,Yes,No Issue,5.0
+T0154,2026-08-31,Moumita Saha,Administration,Management Support,Singapore Client F,Medium,Completed,2026-09-02,2026-09-01,0,Email,Yes,Yes,No Issue,5.0
+T0155,2026-05-08,Soham Das,QA,Follow-up,India Client G,High,Completed,2026-05-11,2026-05-11,0,WhatsApp,No,Yes,Test Failure,3.0
+T0156,2026-02-21,Moumita Saha,Administration,Meeting Coordination,Australia Client C,High,Completed,2026-02-25,2026-02-28,3,In-person,No,Yes,Resource Unavailable,5.0
+T0157,2026-08-06,Abhishek Paul,Development,User Testing,Australia Client C,High,Completed,2026-08-07,2026-08-09,2,Phone,No,Yes,Test Failure,3.0
+T0158,2026-02-03,Rahul Banerjee,Development,Issue Tracking,UK Client B,Low,Completed,2026-02-07,2026-02-06,0,Zoom,No,Yes,No Issue,4.0
+T0159,2026-04-30,Moumita Saha,Administration,Follow-up,Singapore Client F,Low,In Progress,2026-05-05,,0,Teams,No,Yes,No Issue,
+T0160,2026-02-03,Kunal Ghosh,Administration,Documentation,US Client A,High,Completed,2026-02-06,2026-02-05,0,In-person,No,Yes,No Issue,3.0
+T0161,2026-01-21,Poulomi Roy,Business Support,Office Event,Internal Management,Medium,Pending,2026-01-24,,0,In-person,No,Yes,No Issue,
+T0162,2026-01-24,Rahul Banerjee,Development,Follow-up,Australia Client C,Medium,Completed,2026-01-26,2026-01-24,0,In-person,No,Yes,Test Failure,5.0
+T0163,2026-01-08,Poulomi Roy,Business Support,Meeting Coordination,US Client A,Urgent,In Progress,2026-01-11,,0,In-person,No,Yes,Approval Pending,
+T0164,2026-01-08,Sayan Bose,QA,Office Supplies,Internal Management,High,Completed,2026-01-11,2026-01-09,0,Email,No,No,No Issue,4.0
+T0165,2026-04-23,Soham Das,QA,Documentation,Internal Management,Medium,Completed,2026-04-25,2026-04-23,0,Phone,No,No,Test Failure,5.0
+T0166,2026-05-12,Sneha Mukherjee,Business Support,Follow-up,UK Client B,Medium,Completed,2026-05-15,2026-05-15,0,Zoom,No,Yes,No Issue,3.0
+T0167,2026-06-07,Poulomi Roy,Business Support,Documentation,Canada Client D,Urgent,Pending,2026-06-10,,0,Teams,No,No,No Issue,
+T0168,2026-05-12,Moumita Saha,Administration,Office Supplies,Internal Management,Medium,Completed,2026-05-13,2026-05-12,0,In-person,No,No,Schedule Conflict,4.0
+T0169,2026-03-14,Arindam Sen,Administration,Office Supplies,Internal Management,Medium,Pending,2026-03-18,,0,Email,No,No,No Issue,
+T0170,2026-02-04,Ankit Dutta,QA,Office Event,Internal Management,High,In Progress,2026-02-07,,0,In-person,No,Yes,No Issue,
+T0171,2026-02-19,Rahul Banerjee,Development,Management Support,Japan Client E,Low,Completed,2026-02-24,2026-02-22,0,Email,No,Yes,No Issue,4.0
+T0172,2026-03-28,Kunal Ghosh,Administration,Follow-up,Singapore Client F,High,Completed,2026-04-02,2026-04-02,0,Teams,No,Yes,No Issue,4.0
+T0173,2026-05-02,Kunal Ghosh,Administration,Follow-up,Internal Management,Low,Pending,2026-05-04,,0,In-person,No,Yes,No Issue,
+T0174,2026-02-11,Sneha Mukherjee,Business Support,Documentation,Japan Client E,Medium,Completed,2026-02-16,2026-02-14,0,Email,No,No,No Issue,4.0
+T0175,2026-01-29,Sayan Bose,QA,Documentation,Japan Client E,High,In Progress,2026-01-30,,0,WhatsApp,No,No,No Issue,
+T0176,2026-07-18,Kunal Ghosh,Administration,Issue Tracking,Canada Client D,High,Completed,2026-07-20,2026-07-18,0,WhatsApp,No,No,No Issue,5.0
+T0177,2026-08-31,Ishita Chakraborty,Business Support,Meeting Coordination,Canada Client D,Low,Completed,2026-09-02,2026-09-02,0,WhatsApp,Yes,Yes,Approval Pending,4.0
+T0178,2026-02-05,Debarati Das,HR,Follow-up,Canada Client D,Medium,Cancelled,2026-02-09,,0,Zoom,No,Yes,No Issue,
+T0179,2026-04-28,Soham Das,QA,Follow-up,Singapore Client F,Medium,In Progress,2026-05-01,,0,Teams,No,Yes,No Issue,
+T0180,2026-03-13,Priyanka Roy,HR,Follow-up,Japan Client E,Medium,Cancelled,2026-03-16,,0,Teams,No,Yes,Documentation Update,
+T0181,2026-06-30,Debarati Das,HR,Office Supplies,Internal Management,Medium,Completed,2026-07-03,2026-07-01,0,Zoom,No,No,Approval Pending,3.0
+T0182,2026-02-07,Kunal Ghosh,Administration,Office Event,Internal Management,Low,Pending,2026-02-08,,0,Zoom,No,No,Documentation Update,
+T0183,2026-05-03,Debarati Das,HR,Screencast Creation,Canada Client D,High,Completed,2026-05-08,2026-05-08,0,Teams,No,Yes,No Issue,4.0
+T0184,2026-01-13,Priyanka Roy,HR,Follow-up,Canada Client D,Medium,Completed,2026-01-17,2026-01-16,0,Teams,No,Yes,No Issue,5.0
+T0185,2026-08-26,Rahul Banerjee,Development,User Testing,India Client G,Medium,Pending,2026-08-30,,0,Zoom,No,No,No Issue,
+T0186,2026-03-15,Sneha Mukherjee,Business Support,Client Communication,UK Client B,Medium,Completed,2026-03-16,2026-03-18,2,Phone,Yes,Yes,Client Response Pending,4.0
+T0187,2026-08-28,Soham Das,QA,Office Event,Internal Management,High,Completed,2026-09-02,2026-09-01,0,WhatsApp,No,No,No Issue,4.0
+T0188,2026-08-16,Moumita Saha,Administration,User Testing,Internal Management,Medium,In Progress,2026-08-19,,0,Email,No,Yes,No Issue,
+T0189,2026-03-28,Debarati Das,HR,Office Event,Internal Management,Medium,In Progress,2026-03-30,,0,Zoom,No,No,Resource Unavailable,
+T0190,2026-04-13,Riya Ghosh,Administration,Meeting Coordination,Australia Client C,Urgent,Completed,2026-04-15,2026-04-14,0,Zoom,Yes,Yes,Test Failure,4.0
+T0191,2026-01-03,Ishita Chakraborty,Business Support,Office Event,Internal Management,Medium,In Progress,2026-01-04,,0,Teams,No,Yes,No Issue,
+T0192,2026-06-25,Ankit Dutta,QA,Follow-up,Japan Client E,High,In Progress,2026-06-28,,0,Teams,No,Yes,No Issue,
+T0193,2026-02-04,Priyanka Roy,HR,Office Supplies,Internal Management,Low,In Progress,2026-02-09,,0,In-person,No,No,No Issue,
+T0194,2026-05-01,Amitava Nandi,Development,Follow-up,Canada Client D,High,In Progress,2026-05-06,,0,In-person,No,Yes,Client Response Pending,
+T0195,2026-05-16,Moumita Saha,Administration,Management Support,UK Client B,High,Completed,2026-05-21,2026-05-23,2,Zoom,Yes,Yes,No Issue,3.0
+T0196,2026-01-30,Moumita Saha,Administration,Screencast Creation,Internal Management,Low,Completed,2026-01-31,2026-01-29,0,Teams,No,No,No Issue,5.0
+T0197,2026-06-22,Moumita Saha,Administration,Office Event,Internal Management,High,Completed,2026-06-23,2026-06-21,0,Zoom,No,Yes,No Issue,4.0
+T0198,2026-01-16,Rahul Banerjee,Development,Meeting Coordination,Internal Management,Low,Completed,2026-01-18,2026-01-16,0,Phone,Yes,Yes,No Issue,4.0
+T0199,2026-08-21,Amitava Nandi,Development,Documentation,India Client G,Low,Pending,2026-08-26,,0,Zoom,No,Yes,No Issue,
+T0200,2026-02-15,Riya Ghosh,Administration,Follow-up,India Client G,Medium,In Progress,2026-02-17,,0,Zoom,No,Yes,Client Response Pending,
+T0201,2026-06-22,Moumita Saha,Administration,Follow-up,India Client G,Medium,In Progress,2026-06-24,,0,Teams,No,Yes,No Issue,
+T0202,2026-02-18,Abhishek Paul,Development,Meeting Coordination,US Client A,High,Completed,2026-02-19,2026-02-19,0,In-person,Yes,Yes,No Issue,4.0
+T0203,2026-01-13,Poulomi Roy,Business Support,Screencast Creation,US Client A,Medium,Completed,2026-01-15,2026-01-15,0,Teams,No,Yes,No Issue,5.0
+T0204,2026-08-23,Poulomi Roy,Business Support,Issue Tracking,Singapore Client F,Medium,In Progress,2026-08-26,,0,Teams,No,Yes,No Issue,
+T0205,2026-05-14,Sayan Bose,QA,Screencast Creation,India Client G,Medium,Completed,2026-05-19,2026-05-21,2,Teams,No,No,No Issue,5.0
+T0206,2026-08-30,Sneha Mukherjee,Business Support,Documentation,Singapore Client F,High,Completed,2026-09-02,2026-08-31,0,Teams,No,No,No Issue,5.0
+T0207,2026-02-06,Debarati Das,HR,Office Supplies,Internal Management,High,Completed,2026-02-10,2026-02-10,0,Teams,No,No,No Issue,5.0
+T0208,2026-08-25,Riya Ghosh,Administration,Office Supplies,Internal Management,High,Completed,2026-08-27,2026-08-26,0,In-person,No,Yes,Schedule Conflict,4.0
+T0209,2026-02-25,Rahul Banerjee,Development,Office Supplies,Internal Management,Medium,Pending,2026-02-28,,0,Teams,No,Yes,No Issue,
+T0210,2026-01-31,Debarati Das,HR,Office Supplies,Internal Management,High,In Progress,2026-02-02,,0,Zoom,No,No,Resource Unavailable,
+T0211,2026-03-14,Kunal Ghosh,Administration,Documentation,Internal Management,Medium,Completed,2026-03-17,2026-03-16,0,WhatsApp,No,No,No Issue,4.0
+T0212,2026-03-23,Poulomi Roy,Business Support,Screencast Creation,Singapore Client F,Medium,Completed,2026-03-25,2026-03-25,0,Teams,No,No,No Issue,4.0
+T0213,2026-04-17,Debarati Das,HR,Office Event,Internal Management,Low,Completed,2026-04-21,2026-04-21,0,WhatsApp,No,No,No Issue,5.0
+T0214,2026-07-30,Kunal Ghosh,Administration,Office Supplies,Internal Management,Urgent,In Progress,2026-08-03,,0,Zoom,No,No,No Issue,
+T0215,2026-02-05,Soham Das,QA,Follow-up,Internal Management,Medium,Pending,2026-02-06,,0,Email,No,Yes,No Issue,
+T0216,2026-06-21,Poulomi Roy,Business Support,Client Communication,US Client A,Medium,Pending,2026-06-23,,0,Teams,Yes,Yes,No Issue,
+T0217,2026-04-27,Rahul Banerjee,Development,Management Support,US Client A,Medium,In Progress,2026-05-02,,0,Email,No,Yes,No Issue,
+T0218,2026-05-17,Arindam Sen,Administration,Follow-up,India Client G,Low,Completed,2026-05-20,2026-05-19,0,WhatsApp,No,Yes,No Issue,4.0
+T0219,2026-08-29,Kunal Ghosh,Administration,User Testing,UK Client B,High,Completed,2026-08-31,2026-08-29,0,Email,No,No,Test Failure,4.0
+T0220,2026-04-28,Ankit Dutta,QA,Issue Tracking,Canada Client D,Urgent,Completed,2026-04-29,2026-04-27,0,Phone,No,Yes,No Issue,4.0
+T0221,2026-01-15,Moumita Saha,Administration,Client Communication,Australia Client C,Low,Pending,2026-01-18,,0,In-person,Yes,Yes,Client Response Pending,
+T0222,2026-01-11,Amitava Nandi,Development,Screencast Creation,Canada Client D,High,In Progress,2026-01-16,,0,Teams,No,No,No Issue,
+T0223,2026-01-20,Amitava Nandi,Development,Office Event,Internal Management,High,Completed,2026-01-21,2026-01-20,0,Teams,No,Yes,Resource Unavailable,4.0
+T0224,2026-07-30,Debarati Das,HR,Documentation,UK Client B,Medium,Completed,2026-08-04,2026-08-03,0,WhatsApp,No,No,No Issue,5.0
+T0225,2026-07-05,Debarati Das,HR,Meeting Coordination,Singapore Client F,Low,Completed,2026-07-06,2026-07-04,0,Zoom,No,Yes,No Issue,5.0
+T0226,2026-07-20,Abhishek Paul,Development,Office Supplies,Internal Management,Medium,Completed,2026-07-24,2026-07-22,0,In-person,No,No,No Issue,5.0
+T0227,2026-07-02,Priyanka Roy,HR,Meeting Coordination,UK Client B,Medium,Completed,2026-07-04,2026-07-03,0,Zoom,Yes,Yes,No Issue,4.0
+T0228,2026-03-11,Kunal Ghosh,Administration,Meeting Coordination,Australia Client C,Low,Completed,2026-03-16,2026-03-15,0,In-person,Yes,Yes,No Issue,5.0
+T0229,2026-07-20,Ishita Chakraborty,Business Support,Management Support,India Client G,Low,Completed,2026-07-21,2026-07-19,0,In-person,No,Yes,Resource Unavailable,5.0
+T0230,2026-02-13,Ankit Dutta,QA,User Testing,Japan Client E,Medium,Completed,2026-02-14,2026-02-13,0,Zoom,No,No,No Issue,5.0
+T0231,2026-07-04,Priyanka Roy,HR,Office Supplies,Internal Management,Medium,Completed,2026-07-05,2026-07-05,0,In-person,No,No,No Issue,4.0
+T0232,2026-03-26,Poulomi Roy,Business Support,Office Supplies,Internal Management,Medium,In Progress,2026-03-31,,0,In-person,No,Yes,No Issue,
+T0233,2026-02-21,Debarati Das,HR,Office Supplies,Internal Management,Medium,Pending,2026-02-24,,0,Phone,No,No,Documentation Update,
+T0234,2026-07-20,Ishita Chakraborty,Business Support,Screencast Creation,Singapore Client F,Medium,In Progress,2026-07-24,,0,Teams,No,No,No Issue,
+T0235,2026-02-21,Ishita Chakraborty,Business Support,Issue Tracking,Australia Client C,High,Completed,2026-02-25,2026-02-27,2,Email,No,No,Documentation Update,3.0
+T0236,2026-07-23,Kunal Ghosh,Administration,Documentation,Internal Management,Low,Completed,2026-07-26,2026-07-24,0,Phone,No,No,Client Response Pending,2.0
+T0237,2026-05-30,Moumita Saha,Administration,Documentation,India Client G,Medium,In Progress,2026-06-02,,0,Teams,No,Yes,No Issue,
+T0238,2026-06-20,Sayan Bose,QA,Management Support,Australia Client C,Medium,Completed,2026-06-24,2026-06-27,3,Email,No,Yes,No Issue,5.0
+T0239,2026-05-11,Priyanka Roy,HR,Follow-up,Canada Client D,Medium,Completed,2026-05-16,2026-05-16,0,Email,No,Yes,No Issue,4.0
+T0240,2026-04-17,Abhishek Paul,Development,Meeting Coordination,UK Client B,High,In Progress,2026-04-20,,0,Teams,Yes,Yes,No Issue,
+T0241,2026-05-04,Rahul Banerjee,Development,Management Support,Internal Management,Low,In Progress,2026-05-08,,0,WhatsApp,Yes,Yes,No Issue,
+T0242,2026-01-06,Riya Ghosh,Administration,Management Support,UK Client B,Medium,Completed,2026-01-08,2026-01-06,0,Phone,Yes,Yes,No Issue,5.0
+T0243,2026-06-11,Ankit Dutta,QA,User Testing,Australia Client C,Medium,Completed,2026-06-12,2026-06-12,0,Teams,No,No,No Issue,5.0
+T0244,2026-07-27,Debarati Das,HR,Meeting Coordination,UK Client B,High,Completed,2026-07-30,2026-07-29,0,Phone,Yes,Yes,No Issue,4.0
+T0245,2026-03-22,Sayan Bose,QA,Issue Tracking,India Client G,Medium,Completed,2026-03-25,2026-03-24,0,Zoom,No,Yes,Documentation Update,3.0
+T0246,2026-01-22,Ishita Chakraborty,Business Support,User Testing,Singapore Client F,Low,Completed,2026-01-24,2026-01-24,0,Phone,No,No,Test Failure,5.0
+T0247,2026-05-18,Sayan Bose,QA,User Testing,Australia Client C,Medium,Completed,2026-05-21,2026-05-22,1,In-person,No,No,Test Failure,4.0
+T0248,2026-04-15,Moumita Saha,Administration,Office Supplies,Internal Management,Medium,Pending,2026-04-19,,0,Email,No,Yes,No Issue,
+T0249,2026-07-14,Kunal Ghosh,Administration,Screencast Creation,Japan Client E,Low,Completed,2026-07-17,2026-07-16,0,Teams,No,No,No Issue,5.0
+T0250,2026-03-10,Riya Ghosh,Administration,Follow-up,Singapore Client F,Medium,In Progress,2026-03-14,,0,Phone,No,Yes,No Issue,
+T0251,2026-07-08,Riya Ghosh,Administration,Screencast Creation,Japan Client E,High,Completed,2026-07-11,2026-07-11,0,Teams,No,No,Client Response Pending,4.0
+T0252,2026-02-23,Priyanka Roy,HR,Issue Tracking,Singapore Client F,High,Completed,2026-02-27,2026-02-27,0,In-person,No,Yes,Client Response Pending,4.0
+T0253,2026-06-02,Abhishek Paul,Development,Follow-up,Australia Client C,Medium,In Progress,2026-06-05,,0,In-person,No,Yes,No Issue,
+T0254,2026-06-23,Amitava Nandi,Development,Meeting Coordination,Australia Client C,Urgent,In Progress,2026-06-24,,0,WhatsApp,No,Yes,Schedule Conflict,
+T0255,2026-02-03,Poulomi Roy,Business Support,Screencast Creation,Australia Client C,High,In Progress,2026-02-07,,0,Teams,No,No,No Issue,
+T0256,2026-03-10,Sayan Bose,QA,Documentation,India Client G,Medium,In Progress,2026-03-11,,0,Zoom,No,No,No Issue,
+T0257,2026-08-28,Debarati Das,HR,Management Support,Internal Management,Urgent,Completed,2026-08-29,2026-08-30,1,WhatsApp,No,Yes,No Issue,4.0
+T0258,2026-01-17,Poulomi Roy,Business Support,Follow-up,India Client G,Medium,Completed,2026-01-19,2026-01-18,0,In-person,No,Yes,Test Failure,4.0
+T0259,2026-08-07,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,High,Pending,2026-08-08,,0,Phone,No,Yes,No Issue,
+T0260,2026-02-01,Arindam Sen,Administration,User Testing,Internal Management,Medium,Cancelled,2026-02-05,,0,Zoom,No,Yes,Schedule Conflict,
+T0261,2026-08-12,Soham Das,QA,Office Event,Internal Management,Low,Completed,2026-08-13,2026-08-11,0,WhatsApp,No,Yes,No Issue,5.0
+T0262,2026-07-13,Debarati Das,HR,Screencast Creation,India Client G,Medium,In Progress,2026-07-14,,0,Teams,No,Yes,No Issue,
+T0263,2026-06-01,Soham Das,QA,Screencast Creation,Internal Management,Low,In Progress,2026-06-02,,0,Teams,No,No,Approval Pending,
+T0264,2026-02-28,Riya Ghosh,Administration,Documentation,UK Client B,High,Completed,2026-03-03,2026-03-02,0,Teams,No,Yes,No Issue,4.0
+T0265,2026-02-06,Sayan Bose,QA,Meeting Coordination,US Client A,Medium,Completed,2026-02-09,2026-02-07,0,WhatsApp,No,Yes,Resource Unavailable,4.0
+T0266,2026-01-23,Priyanka Roy,HR,Meeting Coordination,Australia Client C,High,Completed,2026-01-27,2026-01-26,0,Zoom,Yes,Yes,No Issue,4.0
+T0267,2026-05-22,Priyanka Roy,HR,Issue Tracking,Japan Client E,High,In Progress,2026-05-25,,0,In-person,No,Yes,No Issue,
+T0268,2026-07-11,Priyanka Roy,HR,Documentation,Japan Client E,Medium,In Progress,2026-07-13,,0,Teams,No,No,No Issue,
+T0269,2026-06-13,Moumita Saha,Administration,Issue Tracking,UK Client B,Medium,Cancelled,2026-06-16,,0,In-person,No,No,No Issue,
+T0270,2026-04-04,Ankit Dutta,QA,Follow-up,Australia Client C,High,Pending,2026-04-05,,0,Email,No,Yes,No Issue,
+T0271,2026-03-09,Arindam Sen,Administration,Screencast Creation,US Client A,High,Pending,2026-03-13,,0,Teams,No,No,No Issue,
+T0272,2026-07-16,Rahul Banerjee,Development,Documentation,India Client G,High,Completed,2026-07-21,2026-07-21,0,Email,No,No,No Issue,4.0
+T0273,2026-07-26,Priyanka Roy,HR,User Testing,Singapore Client F,Medium,In Progress,2026-07-27,,0,Teams,No,No,Documentation Update,
+T0274,2026-03-04,Arindam Sen,Administration,Meeting Coordination,India Client G,Low,Completed,2026-03-05,2026-03-03,0,Email,No,Yes,No Issue,4.0
+T0275,2026-01-03,Debarati Das,HR,User Testing,Internal Management,Urgent,Completed,2026-01-06,2026-01-06,0,Email,No,No,Client Response Pending,5.0
+T0276,2026-03-11,Ankit Dutta,QA,Follow-up,UK Client B,Medium,Cancelled,2026-03-12,,0,In-person,No,Yes,No Issue,
+T0277,2026-01-15,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,High,Completed,2026-01-17,2026-01-17,0,In-person,No,Yes,No Issue,5.0
+T0278,2026-08-09,Poulomi Roy,Business Support,Client Communication,Canada Client D,Low,Completed,2026-08-11,2026-08-11,0,WhatsApp,Yes,Yes,Documentation Update,4.0
+T0279,2026-03-05,Sneha Mukherjee,Business Support,Documentation,Singapore Client F,Medium,Completed,2026-03-08,2026-03-06,0,In-person,No,Yes,No Issue,2.0
+T0280,2026-01-18,Ankit Dutta,QA,Office Supplies,Internal Management,High,In Progress,2026-01-21,,0,Phone,No,No,No Issue,
+T0281,2026-04-05,Arindam Sen,Administration,Screencast Creation,Japan Client E,Medium,Completed,2026-04-10,2026-04-09,0,Teams,No,No,Schedule Conflict,4.0
+T0282,2026-07-14,Rahul Banerjee,Development,Screencast Creation,Australia Client C,Low,Completed,2026-07-16,2026-07-14,0,Teams,No,Yes,Client Response Pending,4.0
+T0283,2026-08-06,Ankit Dutta,QA,Office Event,Internal Management,Low,Completed,2026-08-08,2026-08-08,0,Email,No,Yes,Client Response Pending,3.0
+T0284,2026-08-05,Amitava Nandi,Development,Follow-up,India Client G,High,Completed,2026-08-06,2026-08-04,0,Phone,No,Yes,No Issue,5.0
+T0285,2026-01-16,Ishita Chakraborty,Business Support,Documentation,Australia Client C,Medium,Completed,2026-01-19,2026-01-23,4,Zoom,No,No,No Issue,5.0
+T0286,2026-02-04,Priyanka Roy,HR,Issue Tracking,UK Client B,Low,Completed,2026-02-08,2026-02-08,0,Phone,No,No,Schedule Conflict,5.0
+T0287,2026-08-07,Abhishek Paul,Development,Meeting Coordination,UK Client B,Low,In Progress,2026-08-12,,0,Teams,Yes,Yes,Test Failure,
+T0288,2026-07-02,Riya Ghosh,Administration,Screencast Creation,Singapore Client F,Medium,Completed,2026-07-05,2026-07-05,0,Teams,No,Yes,Approval Pending,4.0
+T0289,2026-03-05,Rahul Banerjee,Development,Meeting Coordination,Internal Management,Low,In Progress,2026-03-06,,0,Teams,Yes,Yes,Schedule Conflict,
+T0290,2026-07-30,Priyanka Roy,HR,Documentation,Singapore Client F,High,Pending,2026-07-31,,0,Email,No,No,Client Response Pending,
+T0291,2026-02-20,Riya Ghosh,Administration,Office Supplies,Internal Management,High,Completed,2026-02-23,2026-02-22,0,In-person,No,Yes,No Issue,4.0
+T0292,2026-04-12,Debarati Das,HR,Office Supplies,Internal Management,Low,In Progress,2026-04-14,,0,Teams,No,No,No Issue,
+T0293,2026-03-13,Abhishek Paul,Development,Office Supplies,Internal Management,High,Completed,2026-03-18,2026-03-16,0,In-person,No,No,No Issue,4.0
+T0294,2026-03-13,Riya Ghosh,Administration,Documentation,Australia Client C,Medium,In Progress,2026-03-18,,0,In-person,No,Yes,No Issue,
+T0295,2026-01-05,Kunal Ghosh,Administration,Documentation,Singapore Client F,Medium,In Progress,2026-01-08,,0,Teams,No,No,No Issue,
+T0296,2026-03-23,Arindam Sen,Administration,Issue Tracking,Canada Client D,Low,In Progress,2026-03-26,,0,In-person,No,Yes,Approval Pending,
+T0297,2026-07-16,Sneha Mukherjee,Business Support,Issue Tracking,Canada Client D,Urgent,Completed,2026-07-18,2026-07-16,0,In-person,No,Yes,Schedule Conflict,3.0
+T0298,2026-04-10,Kunal Ghosh,Administration,Management Support,Australia Client C,Low,Completed,2026-04-13,2026-04-14,1,In-person,No,Yes,No Issue,4.0
+T0299,2026-08-31,Ishita Chakraborty,Business Support,Screencast Creation,Internal Management,Medium,Completed,2026-09-01,2026-09-01,0,Teams,No,Yes,No Issue,4.0
+T0300,2026-08-23,Sneha Mukherjee,Business Support,Issue Tracking,Canada Client D,High,Completed,2026-08-25,2026-08-28,3,In-person,No,Yes,No Issue,4.0
+T0301,2026-07-18,Soham Das,QA,Meeting Coordination,Singapore Client F,Urgent,Completed,2026-07-22,2026-07-21,0,Teams,Yes,Yes,No Issue,4.0
+T0302,2026-07-22,Ankit Dutta,QA,Office Supplies,Internal Management,Medium,Completed,2026-07-27,2026-07-25,0,In-person,No,No,No Issue,3.0
+T0303,2026-03-20,Ankit Dutta,QA,Office Event,Internal Management,Low,In Progress,2026-03-25,,0,Email,No,No,Resource Unavailable,
+T0304,2026-06-04,Soham Das,QA,Management Support,Canada Client D,Medium,Completed,2026-06-08,2026-06-06,0,Zoom,Yes,Yes,No Issue,5.0
+T0305,2026-01-23,Amitava Nandi,Development,Management Support,Internal Management,Low,Completed,2026-01-24,2026-01-24,0,Phone,No,Yes,No Issue,4.0
+T0306,2026-08-15,Soham Das,QA,Documentation,Internal Management,High,Completed,2026-08-19,2026-08-18,0,Email,No,Yes,No Issue,4.0
+T0307,2026-03-17,Arindam Sen,Administration,Client Communication,Singapore Client F,Medium,Completed,2026-03-20,2026-03-19,0,Email,Yes,Yes,No Issue,5.0
+T0308,2026-08-17,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,High,Completed,2026-08-19,2026-08-18,0,Zoom,No,Yes,No Issue,5.0
+T0309,2026-04-15,Priyanka Roy,HR,Follow-up,Japan Client E,Medium,Completed,2026-04-16,2026-04-14,0,Phone,No,Yes,No Issue,5.0
+T0310,2026-01-01,Sneha Mukherjee,Business Support,Documentation,UK Client B,Medium,In Progress,2026-01-06,,0,Email,No,No,No Issue,
+T0311,2026-02-13,Priyanka Roy,HR,Office Event,Internal Management,Urgent,Completed,2026-02-14,2026-02-13,0,WhatsApp,No,No,No Issue,5.0
+T0312,2026-05-20,Sayan Bose,QA,Documentation,Australia Client C,Medium,Completed,2026-05-22,2026-05-21,0,Teams,No,No,No Issue,3.0
+T0313,2026-01-16,Ishita Chakraborty,Business Support,User Testing,UK Client B,Low,Completed,2026-01-21,2026-01-19,0,In-person,No,Yes,No Issue,4.0
+T0314,2026-06-25,Rahul Banerjee,Development,Office Supplies,Internal Management,Medium,Completed,2026-06-28,2026-06-26,0,In-person,No,Yes,No Issue,3.0
+T0315,2026-06-08,Sayan Bose,QA,User Testing,UK Client B,Urgent,Completed,2026-06-10,2026-06-12,2,Teams,No,Yes,Test Failure,2.0
+T0316,2026-02-07,Sayan Bose,QA,Issue Tracking,Japan Client E,Medium,In Progress,2026-02-08,,0,Phone,No,Yes,No Issue,
+T0317,2026-03-25,Rahul Banerjee,Development,Office Event,Internal Management,Medium,Pending,2026-03-26,,0,Teams,No,No,No Issue,
+T0318,2026-05-26,Soham Das,QA,Issue Tracking,UK Client B,High,Completed,2026-05-27,2026-05-25,0,Phone,No,No,Test Failure,4.0
+T0319,2026-06-05,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,Low,Completed,2026-06-07,2026-06-05,0,Zoom,No,No,No Issue,4.0
+T0320,2026-07-10,Arindam Sen,Administration,Office Supplies,Internal Management,High,Pending,2026-07-11,,0,Zoom,No,No,Test Failure,
+T0321,2026-08-04,Abhishek Paul,Development,Office Supplies,Internal Management,High,In Progress,2026-08-06,,0,WhatsApp,No,Yes,No Issue,
+T0322,2026-07-18,Moumita Saha,Administration,Management Support,Japan Client E,High,Completed,2026-07-19,2026-07-19,0,Phone,No,Yes,No Issue,4.0
+T0323,2026-04-06,Poulomi Roy,Business Support,Client Communication,Australia Client C,Low,In Progress,2026-04-10,,0,Email,Yes,Yes,Resource Unavailable,
+T0324,2026-02-19,Soham Das,QA,Screencast Creation,US Client A,Medium,Completed,2026-02-22,2026-02-21,0,Teams,No,No,Resource Unavailable,4.0
+T0325,2026-02-01,Amitava Nandi,Development,Client Communication,Canada Client D,Medium,Completed,2026-02-03,2026-02-07,4,Teams,Yes,Yes,No Issue,3.0
+T0326,2026-07-11,Abhishek Paul,Development,Meeting Coordination,Japan Client E,Low,Completed,2026-07-16,2026-07-16,0,WhatsApp,No,Yes,No Issue,5.0
+T0327,2026-04-15,Sayan Bose,QA,Follow-up,US Client A,High,Pending,2026-04-16,,0,Teams,No,Yes,No Issue,
+T0328,2026-02-14,Sayan Bose,QA,Issue Tracking,US Client A,Medium,Completed,2026-02-17,2026-02-15,0,Phone,No,No,No Issue,3.0
+T0329,2026-03-06,Moumita Saha,Administration,Screencast Creation,Internal Management,Medium,Completed,2026-03-11,2026-03-11,0,Teams,No,Yes,No Issue,4.0
+T0330,2026-08-03,Poulomi Roy,Business Support,Management Support,Japan Client E,Medium,Completed,2026-08-04,2026-08-03,0,WhatsApp,Yes,Yes,Test Failure,4.0
+T0331,2026-06-16,Amitava Nandi,Development,Office Event,Internal Management,Medium,Completed,2026-06-18,2026-06-22,4,Email,No,No,Documentation Update,4.0
+T0332,2026-03-08,Abhishek Paul,Development,Documentation,India Client G,Medium,Completed,2026-03-13,2026-03-12,0,Phone,No,Yes,Documentation Update,3.0
+T0333,2026-04-02,Sayan Bose,QA,Follow-up,Japan Client E,High,Pending,2026-04-07,,0,Email,No,Yes,No Issue,
+T0334,2026-02-02,Moumita Saha,Administration,Office Event,Internal Management,High,Completed,2026-02-04,2026-02-07,3,Teams,No,Yes,No Issue,4.0
+T0335,2026-04-18,Abhishek Paul,Development,Management Support,Singapore Client F,Medium,Completed,2026-04-19,2026-04-17,0,Phone,Yes,Yes,Client Response Pending,3.0
+T0336,2026-01-31,Rahul Banerjee,Development,Documentation,Japan Client E,Medium,Pending,2026-02-02,,0,Phone,No,Yes,Test Failure,
+T0337,2026-08-17,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,Low,Pending,2026-08-19,,0,WhatsApp,No,Yes,No Issue,
+T0338,2026-03-22,Soham Das,QA,Client Communication,US Client A,Medium,Completed,2026-03-24,2026-03-24,0,Teams,Yes,Yes,Client Response Pending,4.0
+T0339,2026-04-20,Sayan Bose,QA,Documentation,India Client G,Urgent,Completed,2026-04-21,2026-04-19,0,In-person,No,No,Test Failure,5.0
+T0340,2026-01-02,Sayan Bose,QA,Screencast Creation,Canada Client D,High,Completed,2026-01-04,2026-01-02,0,Teams,No,No,No Issue,3.0
+T0341,2026-08-31,Abhishek Paul,Development,Office Event,Internal Management,Medium,Completed,2026-09-05,2026-09-03,0,Phone,No,Yes,No Issue,4.0
+T0342,2026-02-12,Priyanka Roy,HR,Documentation,US Client A,Medium,In Progress,2026-02-14,,0,In-person,No,Yes,Resource Unavailable,
+T0343,2026-02-01,Soham Das,QA,Management Support,US Client A,Medium,In Progress,2026-02-06,,0,Email,Yes,Yes,No Issue,
+T0344,2026-01-28,Sayan Bose,QA,Client Communication,US Client A,High,Completed,2026-02-01,2026-01-31,0,WhatsApp,Yes,Yes,No Issue,4.0
+T0345,2026-03-19,Arindam Sen,Administration,Documentation,UK Client B,Medium,Completed,2026-03-24,2026-03-23,0,In-person,No,Yes,No Issue,5.0
+T0346,2026-07-20,Riya Ghosh,Administration,Meeting Coordination,Internal Management,Medium,Completed,2026-07-23,2026-07-23,0,Teams,Yes,Yes,No Issue,5.0
+T0347,2026-08-22,Moumita Saha,Administration,Screencast Creation,Internal Management,Medium,Completed,2026-08-23,2026-08-27,4,Teams,No,Yes,Resource Unavailable,5.0
+T0348,2026-01-26,Debarati Das,HR,Office Event,Internal Management,Medium,Completed,2026-01-29,2026-01-29,0,Zoom,No,Yes,Client Response Pending,4.0
+T0349,2026-03-22,Sayan Bose,QA,Documentation,UK Client B,Low,In Progress,2026-03-23,,0,WhatsApp,No,Yes,Documentation Update,
+T0350,2026-03-26,Soham Das,QA,Management Support,Internal Management,Urgent,Completed,2026-03-27,2026-03-26,0,Phone,Yes,Yes,No Issue,5.0
+T0351,2026-06-26,Ankit Dutta,QA,Office Supplies,Internal Management,High,In Progress,2026-06-28,,0,WhatsApp,No,Yes,No Issue,
+T0352,2026-08-30,Arindam Sen,Administration,User Testing,UK Client B,Medium,Completed,2026-09-04,2026-09-04,0,Phone,No,No,No Issue,3.0
+T0353,2026-08-16,Riya Ghosh,Administration,Documentation,Internal Management,Low,Completed,2026-08-19,2026-08-17,0,Zoom,No,Yes,Documentation Update,4.0
+T0354,2026-06-29,Debarati Das,HR,Issue Tracking,UK Client B,Medium,In Progress,2026-07-03,,0,WhatsApp,No,No,No Issue,
+T0355,2026-02-08,Ankit Dutta,QA,Follow-up,US Client A,Low,Pending,2026-02-13,,0,Teams,No,Yes,Approval Pending,
+T0356,2026-07-12,Riya Ghosh,Administration,Office Supplies,Internal Management,Medium,Completed,2026-07-15,2026-07-15,0,Teams,No,No,No Issue,5.0
+T0357,2026-07-25,Moumita Saha,Administration,Issue Tracking,Internal Management,Low,Completed,2026-07-28,2026-07-27,0,Phone,No,Yes,No Issue,5.0
+T0358,2026-01-01,Rahul Banerjee,Development,Meeting Coordination,Japan Client E,High,Completed,2026-01-05,2026-01-08,3,Zoom,No,Yes,Approval Pending,4.0
+T0359,2026-06-03,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,High,Completed,2026-06-07,2026-06-05,0,Zoom,No,Yes,No Issue,3.0
+T0360,2026-03-16,Kunal Ghosh,Administration,Follow-up,Singapore Client F,High,Completed,2026-03-18,2026-03-16,0,Email,No,Yes,Approval Pending,5.0
+T0361,2026-02-18,Priyanka Roy,HR,Meeting Coordination,India Client G,Medium,In Progress,2026-02-20,,0,Phone,No,Yes,No Issue,
+T0362,2026-08-26,Arindam Sen,Administration,Issue Tracking,UK Client B,High,Completed,2026-08-31,2026-09-02,2,WhatsApp,No,No,No Issue,5.0
+T0363,2026-04-21,Amitava Nandi,Development,Issue Tracking,Internal Management,High,In Progress,2026-04-23,,0,Email,No,Yes,Schedule Conflict,
+T0364,2026-06-18,Ankit Dutta,QA,Issue Tracking,Singapore Client F,Medium,Completed,2026-06-23,2026-06-25,2,Zoom,No,No,No Issue,2.0
+T0365,2026-07-26,Moumita Saha,Administration,User Testing,Australia Client C,Medium,In Progress,2026-07-31,,0,WhatsApp,No,No,Resource Unavailable,
+T0366,2026-08-28,Debarati Das,HR,Follow-up,Canada Client D,Medium,Completed,2026-08-31,2026-08-29,0,WhatsApp,No,Yes,No Issue,4.0
+T0367,2026-05-09,Soham Das,QA,Follow-up,Singapore Client F,High,In Progress,2026-05-14,,0,In-person,No,Yes,No Issue,
+T0368,2026-07-01,Sayan Bose,QA,Documentation,Japan Client E,High,Completed,2026-07-02,2026-07-02,0,WhatsApp,No,No,No Issue,5.0
+T0369,2026-07-12,Abhishek Paul,Development,User Testing,Japan Client E,High,Completed,2026-07-13,2026-07-12,0,Email,No,Yes,Test Failure,4.0
+T0370,2026-07-09,Sayan Bose,QA,Follow-up,Canada Client D,High,Completed,2026-07-11,2026-07-09,0,WhatsApp,No,Yes,No Issue,5.0
+T0371,2026-04-10,Ankit Dutta,QA,Documentation,Singapore Client F,Urgent,Completed,2026-04-13,2026-04-12,0,WhatsApp,No,Yes,Documentation Update,4.0
+T0372,2026-05-31,Kunal Ghosh,Administration,Follow-up,Canada Client D,High,Pending,2026-06-03,,0,WhatsApp,No,Yes,No Issue,
+T0373,2026-02-17,Riya Ghosh,Administration,User Testing,UK Client B,Medium,Completed,2026-02-22,2026-02-22,0,Teams,No,No,No Issue,5.0
+T0374,2026-03-24,Amitava Nandi,Development,Issue Tracking,US Client A,High,Completed,2026-03-27,2026-03-25,0,WhatsApp,No,No,No Issue,5.0
+T0375,2026-02-17,Priyanka Roy,HR,Follow-up,UK Client B,High,Completed,2026-02-22,2026-02-22,0,Teams,No,Yes,No Issue,4.0
+T0376,2026-04-03,Sneha Mukherjee,Business Support,Office Event,Internal Management,Medium,In Progress,2026-04-08,,0,Email,No,No,Documentation Update,
+T0377,2026-06-21,Riya Ghosh,Administration,Management Support,Internal Management,Medium,In Progress,2026-06-26,,0,Zoom,Yes,Yes,No Issue,
+T0378,2026-08-23,Ankit Dutta,QA,Meeting Coordination,India Client G,Medium,In Progress,2026-08-24,,0,In-person,No,Yes,Test Failure,
+T0379,2026-05-11,Kunal Ghosh,Administration,Office Supplies,Internal Management,Medium,Completed,2026-05-13,2026-05-13,0,In-person,No,Yes,No Issue,4.0
+T0380,2026-01-17,Sayan Bose,QA,Screencast Creation,Canada Client D,High,Completed,2026-01-18,2026-01-16,0,Teams,No,No,No Issue,3.0
+T0381,2026-06-25,Debarati Das,HR,User Testing,US Client A,Medium,Completed,2026-06-26,2026-06-26,0,Teams,No,No,No Issue,3.0
+T0382,2026-04-10,Ankit Dutta,QA,Office Supplies,Internal Management,Medium,Completed,2026-04-11,2026-04-11,0,In-person,No,Yes,No Issue,5.0
+T0383,2026-05-30,Debarati Das,HR,Client Communication,UK Client B,Medium,Completed,2026-06-02,2026-06-01,0,Phone,Yes,Yes,No Issue,4.0
+T0384,2026-06-19,Poulomi Roy,Business Support,Client Communication,Internal Management,Low,Completed,2026-06-23,2026-06-21,0,Zoom,Yes,Yes,No Issue,4.0
+T0385,2026-07-23,Amitava Nandi,Development,Management Support,US Client A,Medium,Completed,2026-07-24,2026-07-22,0,Email,Yes,Yes,No Issue,5.0
+T0386,2026-07-09,Debarati Das,HR,Management Support,Canada Client D,Medium,In Progress,2026-07-14,,0,In-person,Yes,Yes,No Issue,
+T0387,2026-03-06,Poulomi Roy,Business Support,Screencast Creation,UK Client B,Medium,In Progress,2026-03-07,,0,Teams,No,No,No Issue,
+T0388,2026-03-16,Riya Ghosh,Administration,Meeting Coordination,Japan Client E,Low,In Progress,2026-03-20,,0,WhatsApp,No,Yes,No Issue,
+T0389,2026-03-02,Sayan Bose,QA,Meeting Coordination,Japan Client E,Medium,Pending,2026-03-05,,0,WhatsApp,Yes,Yes,No Issue,
+T0390,2026-06-27,Abhishek Paul,Development,Issue Tracking,Australia Client C,Medium,Completed,2026-06-30,2026-07-02,2,Teams,No,Yes,No Issue,4.0
+T0391,2026-04-22,Sayan Bose,QA,Office Event,Internal Management,High,Completed,2026-04-25,2026-04-29,4,Zoom,No,No,No Issue,4.0
+T0392,2026-02-14,Riya Ghosh,Administration,Issue Tracking,UK Client B,High,Pending,2026-02-16,,0,WhatsApp,No,Yes,No Issue,
+T0393,2026-07-06,Riya Ghosh,Administration,Meeting Coordination,US Client A,High,In Progress,2026-07-11,,0,Email,Yes,Yes,Schedule Conflict,
+T0394,2026-03-08,Rahul Banerjee,Development,Follow-up,Internal Management,Medium,Completed,2026-03-12,2026-03-10,0,Teams,No,Yes,Test Failure,4.0
+T0395,2026-01-24,Rahul Banerjee,Development,Documentation,Singapore Client F,Medium,In Progress,2026-01-29,,0,Phone,No,Yes,Schedule Conflict,
+T0396,2026-02-15,Soham Das,QA,Issue Tracking,Australia Client C,High,Completed,2026-02-18,2026-02-17,0,Zoom,No,Yes,No Issue,5.0
+T0397,2026-02-22,Sayan Bose,QA,Follow-up,Singapore Client F,Medium,Pending,2026-02-23,,0,WhatsApp,No,Yes,No Issue,
+T0398,2026-01-27,Sneha Mukherjee,Business Support,Follow-up,Japan Client E,High,Completed,2026-02-01,2026-01-31,0,Zoom,No,Yes,No Issue,4.0
+T0399,2026-08-02,Amitava Nandi,Development,Meeting Coordination,Japan Client E,Medium,Pending,2026-08-07,,0,Phone,Yes,Yes,Test Failure,
+T0400,2026-05-04,Kunal Ghosh,Administration,Issue Tracking,US Client A,Medium,Completed,2026-05-06,2026-05-04,0,Teams,No,No,No Issue,5.0
+T0401,2026-07-03,Ishita Chakraborty,Business Support,Meeting Coordination,Canada Client D,Medium,Completed,2026-07-04,2026-07-03,0,WhatsApp,Yes,Yes,No Issue,3.0
+T0402,2026-03-04,Arindam Sen,Administration,Client Communication,Australia Client C,Medium,Completed,2026-03-09,2026-03-07,0,Teams,Yes,Yes,No Issue,4.0
+T0403,2026-06-03,Ankit Dutta,QA,Issue Tracking,US Client A,High,In Progress,2026-06-06,,0,In-person,No,Yes,No Issue,
+T0404,2026-08-11,Moumita Saha,Administration,Office Supplies,Internal Management,Low,Pending,2026-08-16,,0,In-person,No,Yes,Schedule Conflict,
+T0405,2026-05-11,Sayan Bose,QA,Office Event,Internal Management,Low,In Progress,2026-05-15,,0,Phone,No,Yes,No Issue,
+T0406,2026-01-28,Soham Das,QA,Client Communication,Canada Client D,Medium,Pending,2026-02-01,,0,Teams,No,Yes,No Issue,
+T0407,2026-08-19,Moumita Saha,Administration,Issue Tracking,US Client A,High,Completed,2026-08-20,2026-08-18,0,Email,No,Yes,Resource Unavailable,3.0
+T0408,2026-06-23,Kunal Ghosh,Administration,Documentation,India Client G,Medium,Completed,2026-06-28,2026-06-27,0,WhatsApp,No,No,No Issue,3.0
+T0409,2026-06-28,Poulomi Roy,Business Support,Issue Tracking,UK Client B,Medium,Completed,2026-06-30,2026-07-01,1,In-person,No,No,No Issue,4.0
+T0410,2026-01-02,Priyanka Roy,HR,Client Communication,UK Client B,Medium,Completed,2026-01-04,2026-01-03,0,Phone,Yes,Yes,No Issue,4.0
+T0411,2026-03-08,Abhishek Paul,Development,Follow-up,India Client G,Medium,Completed,2026-03-12,2026-03-11,0,In-person,No,Yes,No Issue,4.0
+T0412,2026-05-24,Sneha Mukherjee,Business Support,Follow-up,Internal Management,Medium,Completed,2026-05-27,2026-05-26,0,Email,No,Yes,Documentation Update,4.0
+T0413,2026-07-20,Moumita Saha,Administration,User Testing,UK Client B,Medium,Completed,2026-07-23,2026-07-21,0,Email,No,Yes,No Issue,3.0
+T0414,2026-02-07,Poulomi Roy,Business Support,Office Supplies,Internal Management,High,Completed,2026-02-08,2026-02-07,0,WhatsApp,No,Yes,No Issue,4.0
+T0415,2026-06-07,Ankit Dutta,QA,Follow-up,Japan Client E,High,Completed,2026-06-09,2026-06-08,0,WhatsApp,No,Yes,No Issue,3.0
+T0416,2026-03-15,Rahul Banerjee,Development,Screencast Creation,US Client A,High,Completed,2026-03-17,2026-03-15,0,Teams,No,Yes,No Issue,4.0
+T0417,2026-01-23,Soham Das,QA,Office Event,Internal Management,High,Completed,2026-01-27,2026-01-27,0,Email,No,Yes,Client Response Pending,4.0
+T0418,2026-08-01,Debarati Das,HR,Follow-up,Singapore Client F,Medium,In Progress,2026-08-03,,0,Teams,No,Yes,No Issue,
+T0419,2026-08-27,Moumita Saha,Administration,Documentation,US Client A,Medium,Completed,2026-08-28,2026-08-26,0,Email,No,No,No Issue,3.0
+T0420,2026-08-13,Abhishek Paul,Development,Follow-up,Japan Client E,High,Pending,2026-08-18,,0,Teams,No,Yes,No Issue,
+T0421,2026-03-28,Kunal Ghosh,Administration,Office Supplies,Internal Management,High,Pending,2026-03-29,,0,Email,No,No,No Issue,
+T0422,2026-06-12,Ankit Dutta,QA,Screencast Creation,Canada Client D,High,Completed,2026-06-15,2026-06-15,0,Teams,No,No,No Issue,5.0
+T0423,2026-07-11,Sayan Bose,QA,Management Support,UK Client B,Medium,Completed,2026-07-14,2026-07-12,0,Teams,Yes,Yes,Documentation Update,4.0
+T0424,2026-03-02,Priyanka Roy,HR,Screencast Creation,Japan Client E,Medium,Completed,2026-03-04,2026-03-03,0,Teams,No,Yes,Client Response Pending,3.0
+T0425,2026-06-19,Sayan Bose,QA,Office Supplies,Internal Management,Medium,In Progress,2026-06-24,,0,In-person,No,Yes,Test Failure,
+T0426,2026-05-07,Sneha Mukherjee,Business Support,Issue Tracking,Japan Client E,Medium,Cancelled,2026-05-12,,0,In-person,No,No,No Issue,
+T0427,2026-01-14,Soham Das,QA,Follow-up,India Client G,Medium,Completed,2026-01-19,2026-01-17,0,Email,No,Yes,Approval Pending,4.0
+T0428,2026-03-22,Moumita Saha,Administration,Client Communication,US Client A,Medium,Completed,2026-03-23,2026-03-21,0,Zoom,No,Yes,No Issue,5.0
+T0429,2026-06-06,Moumita Saha,Administration,Management Support,Singapore Client F,Medium,Completed,2026-06-10,2026-06-09,0,Phone,Yes,Yes,No Issue,5.0
+T0430,2026-05-28,Soham Das,QA,Screencast Creation,UK Client B,High,In Progress,2026-06-02,,0,Teams,No,No,Schedule Conflict,
+T0431,2026-07-24,Soham Das,QA,User Testing,Internal Management,High,Completed,2026-07-28,2026-07-26,0,Phone,No,No,No Issue,5.0
+T0432,2026-01-16,Soham Das,QA,Screencast Creation,Japan Client E,Medium,Completed,2026-01-20,2026-01-19,0,Teams,No,No,No Issue,4.0
+T0433,2026-03-07,Kunal Ghosh,Administration,Management Support,US Client A,Medium,Completed,2026-03-12,2026-03-10,0,Zoom,Yes,Yes,No Issue,4.0
+T0434,2026-05-11,Sayan Bose,QA,Office Supplies,Internal Management,High,Completed,2026-05-12,2026-05-11,0,Teams,No,No,No Issue,3.0
+T0435,2026-07-26,Sayan Bose,QA,Management Support,India Client G,Medium,Completed,2026-07-27,2026-07-26,0,Zoom,Yes,Yes,No Issue,4.0
+T0436,2026-06-15,Ishita Chakraborty,Business Support,Documentation,Japan Client E,High,In Progress,2026-06-18,,0,Teams,No,No,No Issue,
+T0437,2026-01-06,Poulomi Roy,Business Support,User Testing,Canada Client D,Medium,Pending,2026-01-07,,0,Phone,No,Yes,No Issue,
+T0438,2026-01-14,Rahul Banerjee,Development,Client Communication,India Client G,Medium,Cancelled,2026-01-15,,0,WhatsApp,Yes,Yes,No Issue,
+T0439,2026-08-15,Amitava Nandi,Development,Documentation,Japan Client E,Medium,In Progress,2026-08-19,,0,Teams,No,Yes,No Issue,
+T0440,2026-01-09,Arindam Sen,Administration,Management Support,Singapore Client F,High,Completed,2026-01-14,2026-01-18,4,Teams,Yes,Yes,Resource Unavailable,4.0
+T0441,2026-06-11,Moumita Saha,Administration,Issue Tracking,India Client G,Medium,In Progress,2026-06-14,,0,Teams,No,No,No Issue,
+T0442,2026-01-23,Kunal Ghosh,Administration,Office Supplies,Internal Management,Medium,Completed,2026-01-25,2026-01-25,0,Phone,No,Yes,No Issue,4.0
+T0443,2026-08-25,Debarati Das,HR,Office Supplies,Internal Management,Urgent,Completed,2026-08-26,2026-08-25,0,Zoom,No,Yes,Resource Unavailable,5.0
+T0444,2026-05-24,Amitava Nandi,Development,Documentation,India Client G,Medium,In Progress,2026-05-28,,0,Email,No,No,No Issue,
+T0445,2026-06-10,Ankit Dutta,QA,Screencast Creation,Japan Client E,Medium,In Progress,2026-06-13,,0,Teams,No,No,No Issue,
+T0446,2026-02-16,Riya Ghosh,Administration,User Testing,Japan Client E,Low,Completed,2026-02-20,2026-02-18,0,In-person,No,No,No Issue,5.0
+T0447,2026-03-14,Riya Ghosh,Administration,Office Event,Internal Management,Low,Completed,2026-03-15,2026-03-15,0,Zoom,No,Yes,No Issue,4.0
+T0448,2026-07-24,Kunal Ghosh,Administration,Office Supplies,Internal Management,Urgent,Completed,2026-07-25,2026-07-25,0,Phone,No,Yes,No Issue,5.0
+T0449,2026-02-16,Moumita Saha,Administration,Screencast Creation,Japan Client E,High,In Progress,2026-02-17,,0,Teams,No,Yes,No Issue,
+T0450,2026-03-05,Moumita Saha,Administration,Client Communication,Canada Client D,Medium,In Progress,2026-03-10,,0,Phone,No,Yes,No Issue,
+T0451,2026-03-21,Sayan Bose,QA,Management Support,Australia Client C,Medium,Completed,2026-03-26,2026-03-25,0,Zoom,Yes,Yes,No Issue,3.0
+T0452,2026-06-20,Poulomi Roy,Business Support,Screencast Creation,UK Client B,Medium,Completed,2026-06-21,2026-06-20,0,Teams,No,Yes,No Issue,5.0
+T0453,2026-05-29,Arindam Sen,Administration,Office Supplies,Internal Management,High,Completed,2026-05-30,2026-05-29,0,WhatsApp,No,Yes,Test Failure,5.0
+T0454,2026-06-15,Sneha Mukherjee,Business Support,User Testing,UK Client B,Low,Completed,2026-06-20,2026-06-19,0,Zoom,No,No,Client Response Pending,4.0
+T0455,2026-08-19,Abhishek Paul,Development,Client Communication,Internal Management,High,Completed,2026-08-24,2026-08-24,0,Zoom,Yes,Yes,No Issue,4.0
+T0456,2026-08-11,Abhishek Paul,Development,Issue Tracking,Australia Client C,Low,Completed,2026-08-14,2026-08-12,0,WhatsApp,No,No,No Issue,4.0
+T0457,2026-02-17,Debarati Das,HR,Client Communication,Singapore Client F,High,Completed,2026-02-18,2026-02-16,0,WhatsApp,No,Yes,No Issue,4.0
+T0458,2026-02-09,Rahul Banerjee,Development,Issue Tracking,Japan Client E,Medium,In Progress,2026-02-10,,0,Email,No,Yes,No Issue,
+T0459,2026-08-02,Arindam Sen,Administration,User Testing,Australia Client C,High,Completed,2026-08-06,2026-08-06,0,WhatsApp,No,No,No Issue,4.0
+T0460,2026-04-04,Arindam Sen,Administration,Screencast Creation,UK Client B,Low,Pending,2026-04-08,,0,Teams,No,Yes,No Issue,
+T0461,2026-01-16,Sayan Bose,QA,Management Support,India Client G,High,In Progress,2026-01-17,,0,Email,No,Yes,No Issue,
+T0462,2026-01-19,Debarati Das,HR,Office Event,Internal Management,Low,Completed,2026-01-24,2026-01-22,0,Teams,No,Yes,No Issue,5.0
+T0463,2026-03-05,Sayan Bose,QA,Issue Tracking,Australia Client C,Medium,Completed,2026-03-06,2026-03-04,0,WhatsApp,No,No,No Issue,4.0
+T0464,2026-01-27,Amitava Nandi,Development,User Testing,Australia Client C,Medium,Completed,2026-01-29,2026-01-27,0,Zoom,No,No,Test Failure,3.0
+T0465,2026-07-15,Ankit Dutta,QA,Documentation,Singapore Client F,Medium,Completed,2026-07-17,2026-07-15,0,Phone,No,No,No Issue,4.0
+T0466,2026-01-01,Ankit Dutta,QA,Client Communication,Japan Client E,Medium,Completed,2026-01-04,2026-01-04,0,WhatsApp,Yes,Yes,No Issue,3.0
+T0467,2026-05-22,Amitava Nandi,Development,Follow-up,Australia Client C,Low,Completed,2026-05-24,2026-05-23,0,Teams,No,Yes,Schedule Conflict,5.0
+T0468,2026-01-24,Abhishek Paul,Development,Issue Tracking,India Client G,Medium,Completed,2026-01-25,2026-01-24,0,WhatsApp,No,Yes,No Issue,4.0
+T0469,2026-08-21,Poulomi Roy,Business Support,Meeting Coordination,Japan Client E,Low,In Progress,2026-08-25,,0,Zoom,Yes,Yes,No Issue,
+T0470,2026-08-14,Sneha Mukherjee,Business Support,Documentation,India Client G,Urgent,Completed,2026-08-16,2026-08-14,0,WhatsApp,No,Yes,No Issue,4.0
+T0471,2026-05-15,Abhishek Paul,Development,Client Communication,Singapore Client F,Medium,Completed,2026-05-20,2026-05-20,0,Phone,Yes,Yes,Approval Pending,4.0
+T0472,2026-05-10,Ishita Chakraborty,Business Support,Meeting Coordination,Canada Client D,Medium,In Progress,2026-05-12,,0,In-person,Yes,Yes,No Issue,
+T0473,2026-01-13,Debarati Das,HR,Follow-up,India Client G,Medium,Completed,2026-01-17,2026-01-17,0,In-person,No,Yes,Approval Pending,5.0
+T0474,2026-06-16,Ankit Dutta,QA,Issue Tracking,Canada Client D,Medium,Cancelled,2026-06-21,,0,Zoom,No,Yes,No Issue,
+T0475,2026-04-21,Kunal Ghosh,Administration,Management Support,UK Client B,Low,Completed,2026-04-24,2026-04-23,0,Zoom,Yes,Yes,No Issue,5.0
+T0476,2026-06-07,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,Medium,Completed,2026-06-09,2026-06-08,0,Email,No,Yes,Client Response Pending,4.0
+T0477,2026-08-31,Priyanka Roy,HR,Issue Tracking,Australia Client C,High,In Progress,2026-09-01,,0,Zoom,No,No,Client Response Pending,
+T0478,2026-05-01,Moumita Saha,Administration,Client Communication,Singapore Client F,Medium,Completed,2026-05-03,2026-05-02,0,Teams,Yes,Yes,No Issue,4.0
+T0479,2026-01-05,Sayan Bose,QA,Documentation,US Client A,Medium,Completed,2026-01-07,2026-01-05,0,WhatsApp,No,No,No Issue,3.0
+T0480,2026-04-10,Riya Ghosh,Administration,Office Event,Internal Management,Medium,Pending,2026-04-13,,0,WhatsApp,No,Yes,No Issue,
+T0481,2026-03-01,Ankit Dutta,QA,Documentation,UK Client B,High,Completed,2026-03-06,2026-03-06,0,Phone,No,Yes,No Issue,4.0
+T0482,2026-01-06,Debarati Das,HR,Client Communication,Canada Client D,High,Completed,2026-01-10,2026-01-10,0,WhatsApp,Yes,Yes,Test Failure,5.0
+T0483,2026-03-12,Rahul Banerjee,Development,Client Communication,Japan Client E,High,Pending,2026-03-13,,0,Teams,No,Yes,Schedule Conflict,
+T0484,2026-08-18,Sneha Mukherjee,Business Support,Documentation,Australia Client C,Low,Completed,2026-08-23,2026-08-25,2,Teams,No,No,No Issue,4.0
+T0485,2026-08-21,Abhishek Paul,Development,Issue Tracking,Singapore Client F,Medium,Completed,2026-08-23,2026-08-21,0,WhatsApp,No,Yes,Test Failure,4.0
+T0486,2026-08-21,Rahul Banerjee,Development,User Testing,India Client G,Urgent,Cancelled,2026-08-23,,0,WhatsApp,No,Yes,No Issue,
+T0487,2026-02-17,Riya Ghosh,Administration,Management Support,Australia Client C,High,In Progress,2026-02-21,,0,WhatsApp,No,Yes,No Issue,
+T0488,2026-07-30,Amitava Nandi,Development,Office Event,Internal Management,Low,Completed,2026-08-01,2026-07-30,0,In-person,No,No,No Issue,5.0
+T0489,2026-03-01,Priyanka Roy,HR,Client Communication,Singapore Client F,Low,In Progress,2026-03-03,,0,WhatsApp,Yes,Yes,No Issue,
+T0490,2026-04-06,Sayan Bose,QA,User Testing,India Client G,Medium,Completed,2026-04-08,2026-04-07,0,Teams,No,Yes,No Issue,5.0
+T0491,2026-04-23,Amitava Nandi,Development,Issue Tracking,Internal Management,High,Pending,2026-04-25,,0,Email,No,No,No Issue,
+T0492,2026-07-08,Ishita Chakraborty,Business Support,Documentation,Singapore Client F,Medium,Pending,2026-07-13,,0,Phone,No,Yes,No Issue,
+T0493,2026-07-31,Moumita Saha,Administration,Client Communication,Canada Client D,Medium,Completed,2026-08-01,2026-07-30,0,Zoom,No,Yes,Schedule Conflict,4.0
+T0494,2026-03-19,Amitava Nandi,Development,Office Event,Internal Management,Medium,Completed,2026-03-24,2026-03-26,2,Email,No,No,Approval Pending,4.0
+T0495,2026-02-16,Riya Ghosh,Administration,Issue Tracking,Australia Client C,Medium,Completed,2026-02-17,2026-02-15,0,Zoom,No,Yes,Client Response Pending,5.0
+T0496,2026-08-21,Sayan Bose,QA,User Testing,UK Client B,Low,In Progress,2026-08-24,,0,Phone,No,Yes,No Issue,
+T0497,2026-04-08,Rahul Banerjee,Development,Client Communication,Australia Client C,High,Completed,2026-04-10,2026-04-10,0,Zoom,Yes,Yes,Approval Pending,5.0
+T0498,2026-04-25,Kunal Ghosh,Administration,Office Event,Internal Management,Medium,Completed,2026-04-27,2026-04-28,1,Phone,No,No,No Issue,3.0
+T0499,2026-07-26,Rahul Banerjee,Development,Client Communication,Internal Management,Medium,Completed,2026-07-30,2026-07-29,0,Teams,Yes,Yes,No Issue,3.0
+T0500,2026-06-08,Abhishek Paul,Development,Follow-up,Canada Client D,Low,Completed,2026-06-11,2026-06-11,0,In-person,No,Yes,No Issue,5.0
+T0501,2026-01-23,Amitava Nandi,Development,Client Communication,UK Client B,Medium,Completed,2026-01-26,2026-01-24,0,In-person,No,Yes,No Issue,5.0
+T0502,2026-07-11,Moumita Saha,Administration,Issue Tracking,Singapore Client F,Urgent,Completed,2026-07-14,2026-07-13,0,Email,No,Yes,Resource Unavailable,5.0
+T0503,2026-02-01,Soham Das,QA,Office Event,Internal Management,Medium,Completed,2026-02-03,2026-02-01,0,WhatsApp,No,Yes,No Issue,2.0
+T0504,2026-01-23,Rahul Banerjee,Development,Office Supplies,Internal Management,High,Completed,2026-01-26,2026-01-25,0,In-person,No,No,No Issue,4.0
+T0505,2026-06-07,Soham Das,QA,Issue Tracking,Internal Management,Medium,In Progress,2026-06-11,,0,WhatsApp,No,Yes,Schedule Conflict,
+T0506,2026-02-19,Abhishek Paul,Development,Client Communication,UK Client B,Low,Completed,2026-02-20,2026-02-20,0,Email,No,Yes,Approval Pending,5.0
+T0507,2026-07-26,Rahul Banerjee,Development,Screencast Creation,US Client A,Medium,In Progress,2026-07-29,,0,Teams,No,Yes,No Issue,
+T0508,2026-05-21,Rahul Banerjee,Development,Management Support,US Client A,Low,Completed,2026-05-25,2026-05-23,0,Zoom,No,Yes,Schedule Conflict,3.0
+T0509,2026-06-22,Amitava Nandi,Development,Office Supplies,Internal Management,High,In Progress,2026-06-24,,0,Phone,No,No,No Issue,
+T0510,2026-08-10,Amitava Nandi,Development,Follow-up,Singapore Client F,Medium,In Progress,2026-08-11,,0,In-person,No,Yes,Test Failure,
+T0511,2026-06-23,Debarati Das,HR,Management Support,US Client A,Medium,In Progress,2026-06-26,,0,Email,Yes,Yes,No Issue,
+T0512,2026-04-07,Sneha Mukherjee,Business Support,Follow-up,Australia Client C,Medium,Completed,2026-04-12,2026-04-11,0,WhatsApp,No,Yes,Test Failure,5.0
+T0513,2026-01-23,Ankit Dutta,QA,Office Supplies,Internal Management,High,Completed,2026-01-26,2026-01-25,0,Email,No,Yes,No Issue,4.0
+T0514,2026-01-24,Amitava Nandi,Development,Office Supplies,Internal Management,Medium,In Progress,2026-01-29,,0,Phone,No,Yes,No Issue,
+T0515,2026-08-12,Debarati Das,HR,Follow-up,Japan Client E,High,Completed,2026-08-13,2026-08-11,0,Teams,No,Yes,No Issue,5.0
+T0516,2026-04-28,Arindam Sen,Administration,Documentation,UK Client B,Low,Pending,2026-05-03,,0,Email,No,Yes,No Issue,
+T0517,2026-05-14,Riya Ghosh,Administration,Office Event,Internal Management,Low,In Progress,2026-05-16,,0,Zoom,No,No,No Issue,
+T0518,2026-05-17,Abhishek Paul,Development,Management Support,Internal Management,Medium,Completed,2026-05-19,2026-05-19,0,Email,No,Yes,No Issue,5.0
+T0519,2026-05-21,Sneha Mukherjee,Business Support,Management Support,Japan Client E,Low,In Progress,2026-05-24,,0,Zoom,Yes,Yes,No Issue,
+T0520,2026-08-17,Ishita Chakraborty,Business Support,Management Support,Internal Management,Low,Completed,2026-08-18,2026-08-18,0,WhatsApp,Yes,Yes,No Issue,4.0
+T0521,2026-06-11,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,Medium,Completed,2026-06-13,2026-06-11,0,In-person,No,Yes,Approval Pending,5.0
+T0522,2026-07-25,Poulomi Roy,Business Support,Office Supplies,Internal Management,Low,Completed,2026-07-29,2026-07-29,0,Zoom,No,Yes,Resource Unavailable,3.0
+T0523,2026-02-16,Ankit Dutta,QA,Management Support,Singapore Client F,Medium,Completed,2026-02-20,2026-02-19,0,Zoom,Yes,Yes,No Issue,4.0
+T0524,2026-05-11,Soham Das,QA,Meeting Coordination,India Client G,High,In Progress,2026-05-14,,0,Zoom,Yes,Yes,No Issue,
+T0525,2026-04-29,Rahul Banerjee,Development,Documentation,India Client G,Medium,Completed,2026-05-01,2026-05-05,4,WhatsApp,No,Yes,No Issue,4.0
+T0526,2026-04-22,Kunal Ghosh,Administration,Issue Tracking,Singapore Client F,Medium,Completed,2026-04-23,2026-04-21,0,In-person,No,No,No Issue,4.0
+T0527,2026-01-25,Rahul Banerjee,Development,Office Supplies,Internal Management,Low,Pending,2026-01-26,,0,Phone,No,Yes,Resource Unavailable,
+T0528,2026-05-07,Sneha Mukherjee,Business Support,Client Communication,UK Client B,Medium,Completed,2026-05-12,2026-05-13,1,Phone,No,Yes,No Issue,4.0
+T0529,2026-06-07,Ankit Dutta,QA,Issue Tracking,Internal Management,Medium,In Progress,2026-06-10,,0,WhatsApp,No,No,No Issue,
+T0530,2026-08-24,Abhishek Paul,Development,Documentation,Singapore Client F,Urgent,Completed,2026-08-29,2026-09-02,4,Zoom,No,Yes,Client Response Pending,3.0
+T0531,2026-01-01,Arindam Sen,Administration,Follow-up,Singapore Client F,Low,Completed,2026-01-02,2025-12-31,0,WhatsApp,No,Yes,No Issue,5.0
+T0532,2026-04-14,Ankit Dutta,QA,Documentation,India Client G,Medium,In Progress,2026-04-18,,0,Phone,No,Yes,No Issue,
+T0533,2026-08-25,Poulomi Roy,Business Support,Management Support,India Client G,Low,Cancelled,2026-08-27,,0,Email,Yes,Yes,No Issue,
+T0534,2026-07-04,Soham Das,QA,Office Supplies,Internal Management,Medium,Cancelled,2026-07-06,,0,Phone,No,Yes,No Issue,
+T0535,2026-04-27,Poulomi Roy,Business Support,Issue Tracking,India Client G,Medium,Completed,2026-05-01,2026-04-30,0,Teams,No,No,No Issue,4.0
+T0536,2026-05-28,Arindam Sen,Administration,Office Supplies,Internal Management,High,Completed,2026-06-02,2026-05-31,0,Email,No,No,No Issue,4.0
+T0537,2026-04-05,Debarati Das,HR,Meeting Coordination,Internal Management,Urgent,Completed,2026-04-10,2026-04-13,3,In-person,Yes,Yes,No Issue,5.0
+T0538,2026-06-11,Moumita Saha,Administration,Meeting Coordination,Japan Client E,Medium,Pending,2026-06-16,,0,In-person,No,Yes,No Issue,
+T0539,2026-05-01,Amitava Nandi,Development,Issue Tracking,Singapore Client F,Medium,Pending,2026-05-04,,0,WhatsApp,No,No,No Issue,
+T0540,2026-06-02,Amitava Nandi,Development,Office Event,Internal Management,High,Completed,2026-06-03,2026-06-01,0,WhatsApp,No,Yes,No Issue,2.0
+T0541,2026-07-08,Kunal Ghosh,Administration,Issue Tracking,US Client A,Medium,Completed,2026-07-13,2026-07-12,0,Zoom,No,No,No Issue,5.0
+T0542,2026-01-04,Abhishek Paul,Development,Meeting Coordination,Australia Client C,High,In Progress,2026-01-08,,0,WhatsApp,Yes,Yes,No Issue,
+T0543,2026-05-05,Priyanka Roy,HR,User Testing,US Client A,Medium,Completed,2026-05-07,2026-05-07,0,Teams,No,No,Approval Pending,4.0
+T0544,2026-06-13,Debarati Das,HR,User Testing,Canada Client D,Medium,Pending,2026-06-14,,0,Phone,No,No,Test Failure,
+T0545,2026-03-19,Moumita Saha,Administration,Office Supplies,Internal Management,High,In Progress,2026-03-24,,0,WhatsApp,No,Yes,No Issue,
+T0546,2026-05-02,Ankit Dutta,QA,Office Event,Internal Management,Low,Pending,2026-05-03,,0,Phone,No,No,Approval Pending,
+T0547,2026-03-22,Sayan Bose,QA,Follow-up,US Client A,Low,Completed,2026-03-25,2026-03-29,4,WhatsApp,No,Yes,No Issue,3.0
+T0548,2026-03-11,Sneha Mukherjee,Business Support,Office Event,Internal Management,High,Completed,2026-03-16,2026-03-14,0,Teams,No,Yes,Resource Unavailable,4.0
+T0549,2026-06-26,Sayan Bose,QA,User Testing,Singapore Client F,Medium,In Progress,2026-06-27,,0,WhatsApp,No,Yes,No Issue,
+T0550,2026-03-31,Moumita Saha,Administration,Screencast Creation,Japan Client E,Medium,Completed,2026-04-05,2026-04-03,0,Teams,No,Yes,Documentation Update,5.0
+T0551,2026-01-23,Riya Ghosh,Administration,Issue Tracking,Australia Client C,Medium,In Progress,2026-01-28,,0,Teams,No,Yes,Documentation Update,
+T0552,2026-03-17,Abhishek Paul,Development,Office Supplies,Internal Management,Medium,Completed,2026-03-21,2026-03-24,3,Zoom,No,No,Documentation Update,5.0
+T0553,2026-01-19,Kunal Ghosh,Administration,Office Event,Internal Management,High,Completed,2026-01-22,2026-01-25,3,Email,No,No,No Issue,4.0
+T0554,2026-02-21,Amitava Nandi,Development,Issue Tracking,India Client G,Low,Completed,2026-02-23,2026-02-22,0,Email,No,Yes,No Issue,3.0
+T0555,2026-03-08,Debarati Das,HR,Meeting Coordination,US Client A,Low,Completed,2026-03-11,2026-03-11,0,WhatsApp,No,Yes,No Issue,5.0
+T0556,2026-06-20,Arindam Sen,Administration,Documentation,Japan Client E,Low,Completed,2026-06-24,2026-06-22,0,Phone,No,No,No Issue,3.0
+T0557,2026-07-27,Kunal Ghosh,Administration,Meeting Coordination,Canada Client D,Low,Pending,2026-07-31,,0,Zoom,Yes,Yes,No Issue,
+T0558,2026-06-24,Sneha Mukherjee,Business Support,Office Event,Internal Management,Medium,In Progress,2026-06-25,,0,Zoom,No,No,No Issue,
+T0559,2026-08-04,Riya Ghosh,Administration,Office Supplies,Internal Management,High,Completed,2026-08-06,2026-08-06,0,Zoom,No,No,No Issue,4.0
+T0560,2026-01-28,Amitava Nandi,Development,Management Support,Internal Management,Low,In Progress,2026-01-30,,0,WhatsApp,Yes,Yes,No Issue,
+T0561,2026-03-03,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,Medium,In Progress,2026-03-06,,0,Phone,No,No,No Issue,
+T0562,2026-01-10,Arindam Sen,Administration,Management Support,US Client A,Medium,In Progress,2026-01-14,,0,In-person,Yes,Yes,Documentation Update,
+T0563,2026-08-29,Moumita Saha,Administration,Follow-up,Australia Client C,High,Completed,2026-08-30,2026-08-30,0,Email,No,Yes,No Issue,4.0
+T0564,2026-06-08,Amitava Nandi,Development,Client Communication,Canada Client D,High,Completed,2026-06-10,2026-06-09,0,In-person,No,Yes,No Issue,5.0
+T0565,2026-01-17,Ishita Chakraborty,Business Support,Meeting Coordination,UK Client B,Medium,In Progress,2026-01-19,,0,Zoom,Yes,Yes,No Issue,
+T0566,2026-08-02,Kunal Ghosh,Administration,Documentation,Singapore Client F,Low,In Progress,2026-08-07,,0,Teams,No,Yes,No Issue,
+T0567,2026-01-12,Kunal Ghosh,Administration,Issue Tracking,Australia Client C,Medium,Completed,2026-01-14,2026-01-14,0,Phone,No,No,No Issue,5.0
+T0568,2026-01-11,Ishita Chakraborty,Business Support,User Testing,UK Client B,High,In Progress,2026-01-15,,0,Email,No,Yes,No Issue,
+T0569,2026-02-15,Arindam Sen,Administration,Meeting Coordination,Japan Client E,Medium,In Progress,2026-02-19,,0,WhatsApp,No,Yes,No Issue,
+T0570,2026-05-14,Abhishek Paul,Development,Office Supplies,Internal Management,Medium,Pending,2026-05-19,,0,WhatsApp,No,Yes,No Issue,
+T0571,2026-06-06,Moumita Saha,Administration,Meeting Coordination,Japan Client E,Medium,Completed,2026-06-08,2026-06-06,0,In-person,No,Yes,No Issue,4.0
+T0572,2026-07-17,Moumita Saha,Administration,Screencast Creation,Japan Client E,Low,Completed,2026-07-19,2026-07-18,0,Teams,No,No,No Issue,4.0
+T0573,2026-01-14,Arindam Sen,Administration,Management Support,Japan Client E,Medium,Completed,2026-01-19,2026-01-18,0,Teams,Yes,Yes,Resource Unavailable,5.0
+T0574,2026-05-05,Arindam Sen,Administration,Follow-up,UK Client B,Low,Completed,2026-05-09,2026-05-08,0,WhatsApp,No,Yes,No Issue,4.0
+T0575,2026-02-28,Sneha Mukherjee,Business Support,Meeting Coordination,Singapore Client F,Medium,Completed,2026-03-04,2026-03-08,4,In-person,No,Yes,No Issue,4.0
+T0576,2026-04-22,Amitava Nandi,Development,User Testing,Canada Client D,High,Completed,2026-04-26,2026-04-25,0,Teams,No,Yes,No Issue,5.0
+T0577,2026-06-27,Arindam Sen,Administration,Issue Tracking,US Client A,Medium,Completed,2026-07-01,2026-07-01,0,Zoom,No,No,No Issue,4.0
+T0578,2026-07-23,Kunal Ghosh,Administration,Issue Tracking,Australia Client C,Medium,Completed,2026-07-25,2026-07-23,0,In-person,No,No,Schedule Conflict,4.0
+T0579,2026-03-13,Moumita Saha,Administration,Client Communication,India Client G,High,Completed,2026-03-16,2026-03-16,0,Teams,No,Yes,No Issue,3.0
+T0580,2026-01-02,Amitava Nandi,Development,Documentation,US Client A,Low,Completed,2026-01-07,2026-01-05,0,WhatsApp,No,No,No Issue,3.0
+T0581,2026-05-07,Moumita Saha,Administration,Screencast Creation,UK Client B,Medium,Completed,2026-05-11,2026-05-13,2,Teams,No,No,No Issue,4.0
+T0582,2026-01-05,Riya Ghosh,Administration,Office Supplies,Internal Management,Medium,Completed,2026-01-09,2026-01-10,1,Teams,No,No,No Issue,3.0
+T0583,2026-02-17,Ankit Dutta,QA,Management Support,Internal Management,High,Completed,2026-02-18,2026-02-16,0,Phone,Yes,Yes,No Issue,4.0
+T0584,2026-08-31,Debarati Das,HR,Issue Tracking,Canada Client D,High,Completed,2026-09-03,2026-09-03,0,Phone,No,No,Client Response Pending,4.0
+T0585,2026-01-11,Ishita Chakraborty,Business Support,Management Support,Singapore Client F,Low,Completed,2026-01-12,2026-01-12,0,In-person,Yes,Yes,No Issue,5.0
+T0586,2026-07-08,Moumita Saha,Administration,Issue Tracking,Canada Client D,High,In Progress,2026-07-11,,0,WhatsApp,No,No,Resource Unavailable,
+T0587,2026-03-12,Ankit Dutta,QA,Client Communication,UK Client B,Medium,Completed,2026-03-17,2026-03-17,0,In-person,Yes,Yes,No Issue,3.0
+T0588,2026-06-08,Moumita Saha,Administration,Management Support,UK Client B,Medium,Pending,2026-06-09,,0,Email,Yes,Yes,Test Failure,
+T0589,2026-02-12,Riya Ghosh,Administration,Office Event,Internal Management,Low,Completed,2026-02-14,2026-02-15,1,WhatsApp,No,No,No Issue,4.0
+T0590,2026-05-02,Soham Das,QA,Management Support,India Client G,Medium,In Progress,2026-05-05,,0,Teams,Yes,Yes,No Issue,
+T0591,2026-08-31,Poulomi Roy,Business Support,Follow-up,Singapore Client F,Medium,Completed,2026-09-03,2026-09-01,0,Phone,No,Yes,Resource Unavailable,4.0
+T0592,2026-02-03,Ishita Chakraborty,Business Support,Office Event,Internal Management,Low,Completed,2026-02-07,2026-02-06,0,Zoom,No,Yes,No Issue,4.0
+T0593,2026-06-08,Soham Das,QA,User Testing,Japan Client E,Medium,Completed,2026-06-10,2026-06-10,0,Zoom,No,Yes,Test Failure,5.0
+T0594,2026-07-01,Rahul Banerjee,Development,Client Communication,Singapore Client F,Urgent,Completed,2026-07-05,2026-07-05,0,Email,Yes,Yes,No Issue,4.0
+T0595,2026-07-16,Moumita Saha,Administration,User Testing,Internal Management,High,Completed,2026-07-21,2026-07-24,3,In-person,No,No,No Issue,4.0
+T0596,2026-04-24,Amitava Nandi,Development,Management Support,UK Client B,High,Pending,2026-04-26,,0,Email,No,Yes,No Issue,
+T0597,2026-06-08,Ankit Dutta,QA,Screencast Creation,Internal Management,Medium,Completed,2026-06-13,2026-06-11,0,Teams,No,Yes,Test Failure,5.0
+T0598,2026-05-18,Riya Ghosh,Administration,Office Supplies,Internal Management,Medium,Pending,2026-05-23,,0,Zoom,No,No,No Issue,
+T0599,2026-06-04,Ishita Chakraborty,Business Support,Follow-up,US Client A,High,Completed,2026-06-06,2026-06-05,0,Zoom,No,Yes,No Issue,5.0
+T0600,2026-03-31,Sneha Mukherjee,Business Support,Office Event,Internal Management,Urgent,Pending,2026-04-01,,0,WhatsApp,No,Yes,Approval Pending,
+T0601,2026-07-25,Ankit Dutta,QA,Office Supplies,Internal Management,Medium,In Progress,2026-07-29,,0,In-person,No,No,No Issue,
+T0602,2026-01-23,Ishita Chakraborty,Business Support,User Testing,Canada Client D,Medium,Cancelled,2026-01-28,,0,Phone,No,No,No Issue,
+T0603,2026-01-02,Riya Ghosh,Administration,Documentation,Japan Client E,Medium,Completed,2026-01-07,2026-01-07,0,Phone,No,Yes,No Issue,5.0
+T0604,2026-01-11,Moumita Saha,Administration,Office Event,Internal Management,High,Completed,2026-01-16,2026-01-16,0,Zoom,No,Yes,Schedule Conflict,5.0
+T0605,2026-08-02,Sayan Bose,QA,Office Supplies,Internal Management,Low,In Progress,2026-08-05,,0,WhatsApp,No,No,No Issue,
+T0606,2026-03-04,Sayan Bose,QA,Client Communication,UK Client B,High,Completed,2026-03-05,2026-03-04,0,Zoom,Yes,Yes,No Issue,4.0
+T0607,2026-06-27,Moumita Saha,Administration,Meeting Coordination,Singapore Client F,Medium,Completed,2026-06-30,2026-06-30,0,WhatsApp,Yes,Yes,No Issue,5.0
+T0608,2026-01-14,Soham Das,QA,Office Event,Internal Management,Medium,In Progress,2026-01-17,,0,In-person,No,Yes,No Issue,
+T0609,2026-08-28,Sayan Bose,QA,Meeting Coordination,Canada Client D,High,Completed,2026-08-29,2026-08-29,0,Zoom,Yes,Yes,Documentation Update,5.0
+T0610,2026-06-26,Debarati Das,HR,Management Support,UK Client B,Medium,Completed,2026-06-28,2026-06-26,0,Zoom,Yes,Yes,Approval Pending,3.0
+T0611,2026-01-27,Soham Das,QA,Screencast Creation,Australia Client C,Medium,Pending,2026-02-01,,0,Teams,No,Yes,No Issue,
+T0612,2026-01-20,Amitava Nandi,Development,Meeting Coordination,Australia Client C,High,Completed,2026-01-23,2026-01-23,0,In-person,No,Yes,Resource Unavailable,4.0
+T0613,2026-02-14,Sneha Mukherjee,Business Support,Office Event,Internal Management,Low,In Progress,2026-02-16,,0,WhatsApp,No,Yes,Schedule Conflict,
+T0614,2026-03-20,Priyanka Roy,HR,User Testing,Canada Client D,Low,Completed,2026-03-21,2026-03-20,0,Phone,No,No,No Issue,5.0
+T0615,2026-01-12,Abhishek Paul,Development,Meeting Coordination,Japan Client E,Medium,In Progress,2026-01-13,,0,Teams,No,Yes,No Issue,
+T0616,2026-06-21,Soham Das,QA,Management Support,US Client A,Low,Pending,2026-06-24,,0,Teams,No,Yes,No Issue,
+T0617,2026-05-09,Poulomi Roy,Business Support,Issue Tracking,Canada Client D,Medium,Completed,2026-05-14,2026-05-12,0,Teams,No,Yes,Test Failure,3.0
+T0618,2026-01-02,Rahul Banerjee,Development,Meeting Coordination,Canada Client D,High,Pending,2026-01-06,,0,Phone,Yes,Yes,No Issue,
+T0619,2026-01-28,Sayan Bose,QA,User Testing,Singapore Client F,Urgent,Completed,2026-02-02,2026-02-02,0,Phone,No,No,No Issue,4.0
+T0620,2026-03-15,Debarati Das,HR,Follow-up,US Client A,Low,Completed,2026-03-19,2026-03-17,0,Phone,No,Yes,Documentation Update,5.0
+T0621,2026-03-16,Ankit Dutta,QA,Documentation,Canada Client D,High,Pending,2026-03-20,,0,WhatsApp,No,No,No Issue,
+T0622,2026-06-22,Moumita Saha,Administration,Meeting Coordination,India Client G,Medium,In Progress,2026-06-23,,0,WhatsApp,Yes,Yes,No Issue,
+T0623,2026-01-27,Ishita Chakraborty,Business Support,User Testing,UK Client B,Medium,Completed,2026-01-29,2026-01-28,0,Zoom,No,Yes,Test Failure,4.0
+T0624,2026-05-29,Kunal Ghosh,Administration,Issue Tracking,Japan Client E,High,In Progress,2026-06-02,,0,In-person,No,No,No Issue,
+T0625,2026-05-05,Ankit Dutta,QA,Follow-up,Japan Client E,Low,Completed,2026-05-06,2026-05-05,0,Teams,No,Yes,No Issue,5.0
+T0626,2026-01-14,Debarati Das,HR,Meeting Coordination,Internal Management,Medium,Cancelled,2026-01-18,,0,Zoom,Yes,Yes,No Issue,
+T0627,2026-06-09,Ishita Chakraborty,Business Support,Meeting Coordination,UK Client B,Medium,Completed,2026-06-13,2026-06-13,0,In-person,Yes,Yes,No Issue,5.0
+T0628,2026-07-27,Sneha Mukherjee,Business Support,Follow-up,US Client A,Urgent,Completed,2026-07-31,2026-08-01,1,Zoom,No,Yes,No Issue,3.0
+T0629,2026-04-28,Moumita Saha,Administration,Client Communication,US Client A,Low,In Progress,2026-05-01,,0,Phone,No,Yes,No Issue,
+T0630,2026-03-21,Soham Das,QA,Documentation,Internal Management,High,Completed,2026-03-25,2026-03-23,0,Teams,No,No,No Issue,4.0
+T0631,2026-03-09,Ankit Dutta,QA,Office Supplies,Internal Management,Medium,Completed,2026-03-12,2026-03-11,0,In-person,No,No,No Issue,5.0
+T0632,2026-04-04,Poulomi Roy,Business Support,Management Support,US Client A,High,Completed,2026-04-08,2026-04-07,0,Email,No,Yes,No Issue,4.0
+T0633,2026-03-02,Priyanka Roy,HR,Office Event,Internal Management,Medium,Pending,2026-03-03,,0,Teams,No,No,No Issue,
+T0634,2026-05-18,Arindam Sen,Administration,Management Support,US Client A,Medium,Pending,2026-05-23,,0,Email,Yes,Yes,No Issue,
+T0635,2026-05-01,Debarati Das,HR,Issue Tracking,US Client A,Urgent,Completed,2026-05-05,2026-05-05,0,WhatsApp,No,No,No Issue,5.0
+T0636,2026-05-09,Moumita Saha,Administration,Management Support,Australia Client C,Medium,Completed,2026-05-13,2026-05-11,0,Teams,No,Yes,Resource Unavailable,5.0
+T0637,2026-03-18,Arindam Sen,Administration,Issue Tracking,India Client G,High,Completed,2026-03-19,2026-03-17,0,Zoom,No,Yes,No Issue,5.0
+T0638,2026-05-16,Kunal Ghosh,Administration,Office Supplies,Internal Management,Medium,Completed,2026-05-17,2026-05-16,0,In-person,No,No,No Issue,5.0
+T0639,2026-04-13,Ankit Dutta,QA,Office Event,Internal Management,Medium,Completed,2026-04-18,2026-04-18,0,Teams,No,Yes,No Issue,4.0
+T0640,2026-07-10,Poulomi Roy,Business Support,Office Supplies,Internal Management,Medium,In Progress,2026-07-15,,0,WhatsApp,No,No,Documentation Update,
+T0641,2026-05-14,Arindam Sen,Administration,Screencast Creation,Singapore Client F,Medium,Completed,2026-05-17,2026-05-21,4,Teams,No,No,Client Response Pending,4.0
+T0642,2026-04-16,Poulomi Roy,Business Support,Office Event,Internal Management,High,In Progress,2026-04-19,,0,Email,No,Yes,No Issue,
+T0643,2026-02-19,Soham Das,QA,Client Communication,Canada Client D,High,Completed,2026-02-23,2026-02-22,0,Teams,Yes,Yes,Schedule Conflict,5.0
+T0644,2026-03-08,Arindam Sen,Administration,Office Event,Internal Management,Medium,Completed,2026-03-09,2026-03-13,4,Email,No,Yes,No Issue,5.0
+T0645,2026-08-10,Abhishek Paul,Development,Meeting Coordination,India Client G,High,In Progress,2026-08-11,,0,Teams,Yes,Yes,Schedule Conflict,
+T0646,2026-05-27,Riya Ghosh,Administration,Follow-up,UK Client B,Medium,In Progress,2026-06-01,,0,Email,No,Yes,No Issue,
+T0647,2026-06-03,Priyanka Roy,HR,Meeting Coordination,Singapore Client F,Medium,Completed,2026-06-07,2026-06-05,0,Teams,Yes,Yes,No Issue,5.0
+T0648,2026-03-12,Priyanka Roy,HR,Office Supplies,Internal Management,Medium,Pending,2026-03-13,,0,WhatsApp,No,No,No Issue,
+T0649,2026-03-23,Riya Ghosh,Administration,Follow-up,India Client G,Medium,Completed,2026-03-26,2026-03-28,2,WhatsApp,No,Yes,No Issue,4.0
+T0650,2026-01-06,Abhishek Paul,Development,Issue Tracking,US Client A,High,In Progress,2026-01-07,,0,Phone,No,Yes,No Issue,
+T0651,2026-06-13,Abhishek Paul,Development,Management Support,UK Client B,Medium,Completed,2026-06-17,2026-06-16,0,Email,No,Yes,Test Failure,3.0
+T0652,2026-03-02,Kunal Ghosh,Administration,Office Event,Internal Management,Medium,Pending,2026-03-06,,0,Phone,No,No,Documentation Update,
+T0653,2026-01-09,Kunal Ghosh,Administration,Office Event,Internal Management,High,In Progress,2026-01-13,,0,WhatsApp,No,No,Test Failure,
+T0654,2026-08-13,Ankit Dutta,QA,Meeting Coordination,Australia Client C,High,Completed,2026-08-16,2026-08-14,0,WhatsApp,No,Yes,Approval Pending,5.0
+T0655,2026-06-14,Arindam Sen,Administration,User Testing,Internal Management,High,Completed,2026-06-18,2026-06-17,0,In-person,No,No,No Issue,4.0
+T0656,2026-08-01,Kunal Ghosh,Administration,User Testing,India Client G,High,Completed,2026-08-05,2026-08-07,2,Zoom,No,No,No Issue,4.0
+T0657,2026-01-22,Priyanka Roy,HR,Documentation,Singapore Client F,Medium,Pending,2026-01-27,,0,Email,No,Yes,No Issue,
+T0658,2026-05-23,Amitava Nandi,Development,Issue Tracking,Canada Client D,High,Cancelled,2026-05-25,,0,Email,No,No,Schedule Conflict,
+T0659,2026-06-08,Ankit Dutta,QA,Documentation,Japan Client E,Low,Pending,2026-06-10,,0,In-person,No,Yes,No Issue,
+T0660,2026-07-17,Ankit Dutta,QA,Office Supplies,Internal Management,High,Completed,2026-07-19,2026-07-19,0,Phone,No,No,No Issue,4.0
+T0661,2026-08-08,Ankit Dutta,QA,Screencast Creation,Canada Client D,Urgent,Completed,2026-08-10,2026-08-09,0,Teams,No,Yes,No Issue,2.0
+T0662,2026-06-08,Priyanka Roy,HR,Office Supplies,Internal Management,High,Completed,2026-06-12,2026-06-11,0,Phone,No,Yes,Documentation Update,4.0
+T0663,2026-04-09,Debarati Das,HR,Documentation,Japan Client E,Low,Completed,2026-04-10,2026-04-10,0,WhatsApp,No,No,Resource Unavailable,3.0
+T0664,2026-07-01,Ishita Chakraborty,Business Support,Client Communication,US Client A,Medium,Completed,2026-07-04,2026-07-07,3,In-person,Yes,Yes,Client Response Pending,5.0
+T0665,2026-05-09,Soham Das,QA,Office Supplies,Internal Management,Urgent,Pending,2026-05-11,,0,In-person,No,Yes,No Issue,
+T0666,2026-02-06,Ankit Dutta,QA,Office Event,Internal Management,Low,Completed,2026-02-08,2026-02-07,0,Zoom,No,No,Test Failure,4.0
+T0667,2026-08-26,Kunal Ghosh,Administration,Office Event,Internal Management,Medium,Completed,2026-08-28,2026-08-27,0,WhatsApp,No,Yes,No Issue,4.0
+T0668,2026-01-14,Moumita Saha,Administration,Screencast Creation,Australia Client C,Low,Completed,2026-01-18,2026-01-16,0,Teams,No,No,No Issue,2.0
+T0669,2026-05-07,Amitava Nandi,Development,Client Communication,Internal Management,Medium,In Progress,2026-05-11,,0,WhatsApp,Yes,Yes,No Issue,
+T0670,2026-02-07,Poulomi Roy,Business Support,Meeting Coordination,Singapore Client F,Low,Pending,2026-02-09,,0,In-person,No,Yes,Test Failure,
+T0671,2026-06-19,Amitava Nandi,Development,Issue Tracking,Canada Client D,Medium,Cancelled,2026-06-24,,0,Email,No,Yes,No Issue,
+T0672,2026-07-16,Priyanka Roy,HR,Office Supplies,Internal Management,Medium,Pending,2026-07-17,,0,Email,No,No,Documentation Update,
+T0673,2026-04-06,Ankit Dutta,QA,Issue Tracking,UK Client B,High,Completed,2026-04-07,2026-04-05,0,Zoom,No,No,No Issue,4.0
+T0674,2026-03-26,Arindam Sen,Administration,Client Communication,Internal Management,Medium,In Progress,2026-03-31,,0,Zoom,Yes,Yes,Documentation Update,
+T0675,2026-07-24,Sneha Mukherjee,Business Support,Client Communication,UK Client B,Medium,Completed,2026-07-25,2026-07-25,0,Email,Yes,Yes,Approval Pending,5.0
+T0676,2026-02-11,Priyanka Roy,HR,Documentation,India Client G,Medium,In Progress,2026-02-13,,0,Phone,No,Yes,No Issue,
+T0677,2026-07-26,Debarati Das,HR,Office Event,Internal Management,High,Completed,2026-07-29,2026-07-28,0,Phone,No,Yes,No Issue,4.0
+T0678,2026-06-03,Ishita Chakraborty,Business Support,Documentation,UK Client B,High,In Progress,2026-06-08,,0,Phone,No,Yes,No Issue,
+T0679,2026-01-11,Riya Ghosh,Administration,Follow-up,Singapore Client F,Urgent,In Progress,2026-01-13,,0,WhatsApp,No,Yes,Resource Unavailable,
+T0680,2026-05-15,Sayan Bose,QA,Meeting Coordination,Japan Client E,Medium,Completed,2026-05-19,2026-05-19,0,Teams,No,Yes,No Issue,4.0
+T0681,2026-05-26,Abhishek Paul,Development,Client Communication,UK Client B,High,Completed,2026-05-31,2026-05-31,0,Zoom,Yes,Yes,Test Failure,5.0
+T0682,2026-07-16,Riya Ghosh,Administration,Follow-up,US Client A,Low,In Progress,2026-07-18,,0,Email,No,Yes,Approval Pending,
+T0683,2026-04-17,Riya Ghosh,Administration,Office Event,Internal Management,Medium,In Progress,2026-04-21,,0,Teams,No,No,No Issue,
+T0684,2026-02-17,Priyanka Roy,HR,Meeting Coordination,Japan Client E,High,Completed,2026-02-22,2026-02-21,0,Phone,Yes,Yes,No Issue,4.0
+T0685,2026-08-11,Ankit Dutta,QA,Issue Tracking,Internal Management,Medium,In Progress,2026-08-16,,0,WhatsApp,No,No,Documentation Update,
+T0686,2026-07-25,Ankit Dutta,QA,Office Event,Internal Management,Low,Completed,2026-07-27,2026-07-27,0,Phone,No,Yes,Schedule Conflict,4.0
+T0687,2026-03-03,Sayan Bose,QA,Documentation,Canada Client D,Low,In Progress,2026-03-05,,0,Email,No,No,No Issue,
+T0688,2026-08-20,Soham Das,QA,User Testing,Internal Management,Urgent,Completed,2026-08-24,2026-08-24,0,Email,No,No,No Issue,5.0
+T0689,2026-06-11,Riya Ghosh,Administration,Documentation,India Client G,High,In Progress,2026-06-16,,0,Phone,No,No,No Issue,
+T0690,2026-05-12,Moumita Saha,Administration,Issue Tracking,Internal Management,Medium,Completed,2026-05-13,2026-05-12,0,WhatsApp,No,Yes,No Issue,4.0
+T0691,2026-01-30,Moumita Saha,Administration,Office Supplies,Internal Management,Medium,In Progress,2026-02-03,,0,Zoom,No,No,No Issue,
+T0692,2026-02-19,Debarati Das,HR,Office Supplies,Internal Management,Medium,Completed,2026-02-21,2026-02-19,0,WhatsApp,No,No,Documentation Update,4.0
+T0693,2026-03-17,Amitava Nandi,Development,Documentation,India Client G,High,In Progress,2026-03-20,,0,In-person,No,No,Schedule Conflict,
+T0694,2026-03-14,Priyanka Roy,HR,Meeting Coordination,Internal Management,Low,Completed,2026-03-19,2026-03-18,0,Teams,No,Yes,No Issue,5.0
+T0695,2026-01-05,Arindam Sen,Administration,Management Support,Japan Client E,Medium,Completed,2026-01-10,2026-01-10,0,Teams,Yes,Yes,No Issue,5.0
+T0696,2026-05-05,Priyanka Roy,HR,Office Event,Internal Management,Urgent,In Progress,2026-05-06,,0,In-person,No,No,Documentation Update,
+T0697,2026-06-21,Ishita Chakraborty,Business Support,Meeting Coordination,US Client A,High,Completed,2026-06-25,2026-06-26,1,Email,No,Yes,Resource Unavailable,3.0
+T0698,2026-05-10,Arindam Sen,Administration,Meeting Coordination,Australia Client C,Medium,Pending,2026-05-13,,0,Phone,Yes,Yes,No Issue,
+T0699,2026-05-10,Kunal Ghosh,Administration,Office Supplies,Internal Management,High,Completed,2026-05-13,2026-05-13,0,Phone,No,Yes,Approval Pending,4.0
+T0700,2026-03-04,Arindam Sen,Administration,Office Supplies,Internal Management,Medium,Completed,2026-03-05,2026-03-03,0,WhatsApp,No,No,No Issue,5.0
+T0701,2026-07-12,Kunal Ghosh,Administration,Follow-up,India Client G,High,Completed,2026-07-16,2026-07-15,0,WhatsApp,No,Yes,Resource Unavailable,4.0
+T0702,2026-04-24,Arindam Sen,Administration,User Testing,US Client A,High,Completed,2026-04-25,2026-04-24,0,Email,No,No,Test Failure,4.0
+T0703,2026-02-08,Sayan Bose,QA,Issue Tracking,US Client A,Urgent,Cancelled,2026-02-13,,0,WhatsApp,No,No,No Issue,
+T0704,2026-05-22,Debarati Das,HR,Office Event,Internal Management,High,Completed,2026-05-25,2026-05-24,0,WhatsApp,No,Yes,Approval Pending,5.0
+T0705,2026-06-09,Rahul Banerjee,Development,Issue Tracking,Internal Management,High,Pending,2026-06-13,,0,Email,No,Yes,Client Response Pending,
+T0706,2026-03-27,Rahul Banerjee,Development,Documentation,Australia Client C,Medium,Completed,2026-03-29,2026-03-27,0,WhatsApp,No,No,No Issue,5.0
+T0707,2026-08-16,Arindam Sen,Administration,Follow-up,Japan Client E,Medium,In Progress,2026-08-20,,0,WhatsApp,No,Yes,Client Response Pending,
+T0708,2026-08-04,Arindam Sen,Administration,Management Support,Japan Client E,Medium,Completed,2026-08-05,2026-08-05,0,Email,Yes,Yes,No Issue,4.0
+T0709,2026-07-26,Priyanka Roy,HR,Issue Tracking,Canada Client D,Medium,Completed,2026-07-31,2026-07-29,0,Teams,No,No,No Issue,5.0
+T0710,2026-05-30,Rahul Banerjee,Development,Screencast Creation,Singapore Client F,Medium,Completed,2026-06-03,2026-06-03,0,Teams,No,Yes,No Issue,3.0
+T0711,2026-02-24,Moumita Saha,Administration,Office Supplies,Internal Management,Low,In Progress,2026-02-28,,0,Phone,No,No,Resource Unavailable,
+T0712,2026-04-19,Sayan Bose,QA,Office Supplies,Internal Management,High,Pending,2026-04-23,,0,Teams,No,Yes,No Issue,
+T0713,2026-07-02,Moumita Saha,Administration,Office Supplies,Internal Management,Low,In Progress,2026-07-07,,0,Phone,No,Yes,Approval Pending,
+T0714,2026-07-11,Arindam Sen,Administration,User Testing,Singapore Client F,High,Completed,2026-07-15,2026-07-14,0,Zoom,No,No,Test Failure,2.0
+T0715,2026-03-17,Abhishek Paul,Development,Office Supplies,Internal Management,Low,Completed,2026-03-22,2026-03-21,0,WhatsApp,No,No,No Issue,4.0
+T0716,2026-05-21,Riya Ghosh,Administration,Management Support,UK Client B,High,Completed,2026-05-26,2026-05-25,0,WhatsApp,No,Yes,Approval Pending,3.0
+T0717,2026-07-15,Soham Das,QA,User Testing,Internal Management,High,In Progress,2026-07-17,,0,In-person,No,No,No Issue,
+T0718,2026-04-10,Ankit Dutta,QA,Screencast Creation,India Client G,Medium,Completed,2026-04-14,2026-04-12,0,Teams,No,Yes,Documentation Update,5.0
+T0719,2026-07-23,Sayan Bose,QA,Office Event,Internal Management,Medium,Completed,2026-07-28,2026-07-26,0,Teams,No,Yes,Resource Unavailable,4.0
+T0720,2026-08-18,Rahul Banerjee,Development,Client Communication,UK Client B,Medium,Completed,2026-08-19,2026-08-19,0,Phone,Yes,Yes,Resource Unavailable,5.0
+T0721,2026-06-05,Rahul Banerjee,Development,Management Support,India Client G,Medium,Completed,2026-06-06,2026-06-06,0,Phone,Yes,Yes,Test Failure,5.0
+T0722,2026-01-26,Riya Ghosh,Administration,Follow-up,Australia Client C,Medium,Completed,2026-01-27,2026-01-26,0,Email,No,Yes,No Issue,4.0
+T0723,2026-02-16,Sneha Mukherjee,Business Support,Client Communication,US Client A,Medium,Completed,2026-02-18,2026-02-17,0,Email,Yes,Yes,Client Response Pending,5.0
+T0724,2026-06-02,Kunal Ghosh,Administration,Issue Tracking,Canada Client D,Medium,In Progress,2026-06-06,,0,Zoom,No,Yes,No Issue,
+T0725,2026-05-22,Moumita Saha,Administration,Documentation,UK Client B,Medium,Completed,2026-05-24,2026-05-25,1,In-person,No,No,No Issue,4.0
+T0726,2026-07-15,Priyanka Roy,HR,Follow-up,Australia Client C,Medium,Completed,2026-07-16,2026-07-18,2,Zoom,No,Yes,Schedule Conflict,4.0
+T0727,2026-07-20,Soham Das,QA,Screencast Creation,India Client G,Urgent,Completed,2026-07-21,2026-07-20,0,Teams,No,No,No Issue,5.0
+T0728,2026-08-27,Arindam Sen,Administration,Office Supplies,Internal Management,Medium,Completed,2026-08-31,2026-09-02,2,WhatsApp,No,No,No Issue,4.0
+T0729,2026-03-18,Riya Ghosh,Administration,Meeting Coordination,India Client G,High,Pending,2026-03-23,,0,In-person,No,Yes,Schedule Conflict,
+T0730,2026-07-25,Rahul Banerjee,Development,Management Support,Singapore Client F,Medium,Cancelled,2026-07-29,,0,Zoom,Yes,Yes,No Issue,
+T0731,2026-02-23,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,Urgent,Completed,2026-02-25,2026-02-25,0,Email,No,No,No Issue,4.0
+T0732,2026-05-23,Ankit Dutta,QA,Office Supplies,Internal Management,High,Completed,2026-05-24,2026-05-22,0,Zoom,No,No,No Issue,2.0
+T0733,2026-07-31,Ankit Dutta,QA,Issue Tracking,Singapore Client F,Medium,Pending,2026-08-01,,0,Teams,No,Yes,No Issue,
+T0734,2026-01-03,Moumita Saha,Administration,Screencast Creation,US Client A,High,In Progress,2026-01-06,,0,Teams,No,Yes,No Issue,
+T0735,2026-06-10,Ishita Chakraborty,Business Support,Office Event,Internal Management,High,Completed,2026-06-14,2026-06-15,1,WhatsApp,No,No,No Issue,4.0
+T0736,2026-01-02,Priyanka Roy,HR,Screencast Creation,India Client G,Low,Completed,2026-01-07,2026-01-05,0,Teams,No,Yes,No Issue,4.0
+T0737,2026-06-04,Sayan Bose,QA,Issue Tracking,Australia Client C,Low,Completed,2026-06-05,2026-06-03,0,Zoom,No,Yes,Documentation Update,5.0
+T0738,2026-01-06,Sayan Bose,QA,Follow-up,Japan Client E,High,Pending,2026-01-07,,0,WhatsApp,No,Yes,Documentation Update,
+T0739,2026-01-14,Sayan Bose,QA,Management Support,India Client G,High,Completed,2026-01-15,2026-01-14,0,Email,Yes,Yes,No Issue,3.0
+T0740,2026-01-13,Priyanka Roy,HR,Office Event,Internal Management,High,Completed,2026-01-16,2026-01-16,0,In-person,No,No,No Issue,3.0
+T0741,2026-02-27,Debarati Das,HR,Documentation,UK Client B,High,Completed,2026-03-02,2026-02-28,0,Phone,No,Yes,No Issue,3.0
+T0742,2026-07-24,Ishita Chakraborty,Business Support,Management Support,Japan Client E,Medium,Completed,2026-07-27,2026-07-26,0,Email,Yes,Yes,No Issue,4.0
+T0743,2026-04-23,Ishita Chakraborty,Business Support,Meeting Coordination,Internal Management,Medium,Completed,2026-04-24,2026-04-28,4,Teams,Yes,Yes,Client Response Pending,5.0
+T0744,2026-04-24,Kunal Ghosh,Administration,Client Communication,Japan Client E,Medium,Completed,2026-04-25,2026-04-23,0,Email,Yes,Yes,Approval Pending,4.0
+T0745,2026-03-01,Ankit Dutta,QA,Issue Tracking,US Client A,Medium,Completed,2026-03-05,2026-03-06,1,WhatsApp,No,No,No Issue,4.0
+T0746,2026-05-13,Moumita Saha,Administration,Management Support,Canada Client D,Low,Completed,2026-05-14,2026-05-14,0,In-person,No,Yes,No Issue,5.0
+T0747,2026-05-04,Ankit Dutta,QA,Issue Tracking,Internal Management,Medium,Completed,2026-05-05,2026-05-04,0,WhatsApp,No,No,No Issue,4.0
+T0748,2026-05-30,Abhishek Paul,Development,Follow-up,Australia Client C,Low,Completed,2026-06-02,2026-06-02,0,WhatsApp,No,Yes,No Issue,4.0
+T0749,2026-03-02,Arindam Sen,Administration,Follow-up,US Client A,Medium,Completed,2026-03-04,2026-03-04,0,Teams,No,Yes,Test Failure,4.0
+T0750,2026-06-27,Debarati Das,HR,Office Supplies,Internal Management,Medium,Completed,2026-07-02,2026-07-01,0,Teams,No,No,No Issue,5.0
+T0751,2026-07-22,Amitava Nandi,Development,Client Communication,Internal Management,Medium,Completed,2026-07-24,2026-07-23,0,WhatsApp,Yes,Yes,No Issue,4.0
+T0752,2026-03-26,Poulomi Roy,Business Support,Documentation,Canada Client D,Medium,In Progress,2026-03-27,,0,Zoom,No,No,No Issue,
+T0753,2026-05-23,Arindam Sen,Administration,Meeting Coordination,Australia Client C,Medium,Completed,2026-05-28,2026-05-31,3,Teams,Yes,Yes,No Issue,5.0
+T0754,2026-08-15,Priyanka Roy,HR,Office Event,Internal Management,High,Completed,2026-08-20,2026-08-20,0,Zoom,No,Yes,No Issue,3.0
+T0755,2026-08-01,Arindam Sen,Administration,User Testing,India Client G,Medium,Pending,2026-08-04,,0,WhatsApp,No,Yes,Test Failure,
+T0756,2026-08-29,Soham Das,QA,Follow-up,India Client G,High,Completed,2026-08-31,2026-09-02,2,In-person,No,Yes,Schedule Conflict,4.0
+T0757,2026-03-23,Sneha Mukherjee,Business Support,Issue Tracking,India Client G,Urgent,Completed,2026-03-24,2026-03-22,0,Teams,No,Yes,Test Failure,5.0
+T0758,2026-06-11,Arindam Sen,Administration,Office Event,Internal Management,High,Pending,2026-06-16,,0,Email,No,No,No Issue,
+T0759,2026-05-01,Kunal Ghosh,Administration,Issue Tracking,UK Client B,Low,Completed,2026-05-06,2026-05-04,0,WhatsApp,No,No,No Issue,4.0
+T0760,2026-05-04,Debarati Das,HR,Office Supplies,Internal Management,Medium,Completed,2026-05-09,2026-05-09,0,Teams,No,Yes,Approval Pending,4.0
+T0761,2026-04-19,Abhishek Paul,Development,Documentation,Australia Client C,Urgent,Completed,2026-04-24,2026-04-24,0,Zoom,No,No,No Issue,5.0
+T0762,2026-04-30,Arindam Sen,Administration,Follow-up,Singapore Client F,Medium,Completed,2026-05-04,2026-05-03,0,Phone,No,Yes,No Issue,5.0
+T0763,2026-03-01,Moumita Saha,Administration,Office Event,Internal Management,Medium,Completed,2026-03-02,2026-02-28,0,Email,No,Yes,Schedule Conflict,5.0
+T0764,2026-01-10,Sneha Mukherjee,Business Support,Follow-up,Canada Client D,Medium,In Progress,2026-01-13,,0,WhatsApp,No,Yes,No Issue,
+T0765,2026-03-12,Poulomi Roy,Business Support,Screencast Creation,Australia Client C,Urgent,In Progress,2026-03-17,,0,Teams,No,No,No Issue,
+T0766,2026-03-14,Abhishek Paul,Development,Management Support,India Client G,Urgent,In Progress,2026-03-15,,0,Teams,Yes,Yes,No Issue,
+T0767,2026-04-12,Poulomi Roy,Business Support,Screencast Creation,Canada Client D,High,Completed,2026-04-14,2026-04-12,0,Teams,No,No,Approval Pending,5.0
+T0768,2026-03-22,Riya Ghosh,Administration,Screencast Creation,India Client G,High,In Progress,2026-03-24,,0,Teams,No,No,No Issue,
+T0769,2026-01-08,Rahul Banerjee,Development,Management Support,Australia Client C,Medium,Completed,2026-01-09,2026-01-07,0,Phone,No,Yes,No Issue,4.0
+T0770,2026-04-14,Kunal Ghosh,Administration,Follow-up,Japan Client E,Medium,Completed,2026-04-15,2026-04-17,2,In-person,No,Yes,Test Failure,4.0
+T0771,2026-08-22,Ishita Chakraborty,Business Support,Issue Tracking,India Client G,Urgent,Completed,2026-08-26,2026-08-25,0,Zoom,No,Yes,No Issue,4.0
+T0772,2026-06-13,Moumita Saha,Administration,Office Event,Internal Management,Low,Completed,2026-06-18,2026-06-16,0,Teams,No,No,No Issue,5.0
+T0773,2026-03-14,Ankit Dutta,QA,Screencast Creation,Canada Client D,Medium,Completed,2026-03-18,2026-03-16,0,Teams,No,Yes,No Issue,3.0
+T0774,2026-04-11,Ankit Dutta,QA,User Testing,UK Client B,Low,Completed,2026-04-12,2026-04-12,0,Teams,No,Yes,Test Failure,4.0
+T0775,2026-05-31,Abhishek Paul,Development,Screencast Creation,Internal Management,Medium,Completed,2026-06-02,2026-06-01,0,Teams,No,Yes,No Issue,3.0
+T0776,2026-05-06,Amitava Nandi,Development,Office Supplies,Internal Management,Medium,Completed,2026-05-07,2026-05-06,0,Zoom,No,No,Documentation Update,4.0
+T0777,2026-07-27,Poulomi Roy,Business Support,User Testing,India Client G,Medium,Pending,2026-07-31,,0,WhatsApp,No,No,No Issue,
+T0778,2026-01-25,Ishita Chakraborty,Business Support,Documentation,US Client A,Medium,Pending,2026-01-28,,0,Email,No,No,No Issue,
+T0779,2026-07-05,Debarati Das,HR,Screencast Creation,Internal Management,Medium,In Progress,2026-07-06,,0,Teams,No,No,No Issue,
+T0780,2026-05-10,Riya Ghosh,Administration,Management Support,India Client G,Medium,Completed,2026-05-15,2026-05-15,0,Phone,Yes,Yes,Documentation Update,4.0
+T0781,2026-04-13,Debarati Das,HR,Screencast Creation,India Client G,Low,Completed,2026-04-15,2026-04-13,0,Teams,No,No,No Issue,5.0
+T0782,2026-06-18,Rahul Banerjee,Development,Screencast Creation,Internal Management,Low,In Progress,2026-06-20,,0,Teams,No,Yes,Resource Unavailable,
+T0783,2026-02-15,Riya Ghosh,Administration,Office Event,Internal Management,Low,In Progress,2026-02-17,,0,Email,No,Yes,No Issue,
+T0784,2026-03-11,Sayan Bose,QA,User Testing,Internal Management,Medium,Completed,2026-03-12,2026-03-14,2,WhatsApp,No,No,Documentation Update,4.0
+T0785,2026-08-18,Sayan Bose,QA,Meeting Coordination,India Client G,High,Completed,2026-08-23,2026-08-22,0,Teams,No,Yes,Test Failure,5.0
+T0786,2026-04-18,Arindam Sen,Administration,Client Communication,US Client A,Medium,Completed,2026-04-19,2026-04-19,0,WhatsApp,No,Yes,Schedule Conflict,5.0
+T0787,2026-05-12,Ankit Dutta,QA,Meeting Coordination,Singapore Client F,Medium,Completed,2026-05-17,2026-05-15,0,Teams,Yes,Yes,No Issue,5.0
+T0788,2026-03-24,Sneha Mukherjee,Business Support,User Testing,US Client A,Medium,Completed,2026-03-28,2026-03-28,0,Email,No,Yes,Test Failure,5.0
+T0789,2026-04-16,Priyanka Roy,HR,Office Event,Internal Management,High,Completed,2026-04-17,2026-04-15,0,Email,No,Yes,No Issue,4.0
+T0790,2026-06-28,Sayan Bose,QA,Documentation,Australia Client C,Medium,In Progress,2026-07-01,,0,Email,No,No,No Issue,
+T0791,2026-08-22,Ishita Chakraborty,Business Support,Issue Tracking,Internal Management,Medium,In Progress,2026-08-24,,0,In-person,No,Yes,No Issue,
+T0792,2026-08-18,Kunal Ghosh,Administration,Meeting Coordination,Japan Client E,Medium,Completed,2026-08-20,2026-08-20,0,Teams,Yes,Yes,No Issue,5.0
+T0793,2026-06-14,Priyanka Roy,HR,Client Communication,Canada Client D,High,Completed,2026-06-18,2026-06-17,0,Email,Yes,Yes,No Issue,4.0
+T0794,2026-06-15,Ankit Dutta,QA,Office Event,Internal Management,High,Completed,2026-06-18,2026-06-18,0,Teams,No,Yes,Documentation Update,3.0
+T0795,2026-07-04,Debarati Das,HR,Screencast Creation,India Client G,Medium,Completed,2026-07-05,2026-07-04,0,Teams,No,Yes,Client Response Pending,4.0
+T0796,2026-08-29,Soham Das,QA,Screencast Creation,Australia Client C,Low,Completed,2026-08-31,2026-08-31,0,Teams,No,No,Test Failure,5.0
+T0797,2026-03-04,Priyanka Roy,HR,Documentation,Australia Client C,Medium,Completed,2026-03-09,2026-03-07,0,Phone,No,Yes,No Issue,5.0
+T0798,2026-04-12,Sneha Mukherjee,Business Support,Documentation,Australia Client C,Medium,Completed,2026-04-17,2026-04-17,0,Phone,No,No,No Issue,4.0
+T0799,2026-07-14,Riya Ghosh,Administration,Office Event,Internal Management,Medium,Completed,2026-07-16,2026-07-15,0,Phone,No,No,No Issue,4.0
+T0800,2026-01-19,Moumita Saha,Administration,Management Support,Australia Client C,High,Completed,2026-01-21,2026-01-19,0,Phone,No,Yes,No Issue,3.0
+T0801,2026-07-10,Ankit Dutta,QA,Management Support,India Client G,Medium,In Progress,2026-07-15,,0,Phone,Yes,Yes,Client Response Pending,
+T0802,2026-05-25,Amitava Nandi,Development,User Testing,Canada Client D,High,Pending,2026-05-28,,0,WhatsApp,No,No,No Issue,
+T0803,2026-08-26,Ankit Dutta,QA,Documentation,Canada Client D,Medium,Completed,2026-08-29,2026-08-27,0,Teams,No,Yes,Documentation Update,5.0
+T0804,2026-08-30,Moumita Saha,Administration,User Testing,Japan Client E,Medium,Completed,2026-09-01,2026-09-01,0,Email,No,No,No Issue,4.0
+T0805,2026-08-13,Priyanka Roy,HR,Documentation,Australia Client C,High,Completed,2026-08-16,2026-08-14,0,WhatsApp,No,No,No Issue,4.0
+T0806,2026-08-25,Amitava Nandi,Development,Meeting Coordination,UK Client B,Medium,In Progress,2026-08-28,,0,Teams,No,Yes,No Issue,
+T0807,2026-07-11,Amitava Nandi,Development,Documentation,Japan Client E,Low,Completed,2026-07-15,2026-07-15,0,WhatsApp,No,No,No Issue,5.0
+T0808,2026-02-13,Ankit Dutta,QA,User Testing,Singapore Client F,Medium,Completed,2026-02-17,2026-02-17,0,Email,No,No,No Issue,4.0
+T0809,2026-07-14,Kunal Ghosh,Administration,Screencast Creation,Japan Client E,Urgent,Pending,2026-07-18,,0,Teams,No,Yes,Schedule Conflict,
+T0810,2026-03-17,Riya Ghosh,Administration,Meeting Coordination,India Client G,Low,Completed,2026-03-18,2026-03-17,0,Email,Yes,Yes,Client Response Pending,5.0
+T0811,2026-06-20,Arindam Sen,Administration,Issue Tracking,US Client A,Low,Completed,2026-06-21,2026-06-19,0,Zoom,No,No,Approval Pending,4.0
+T0812,2026-04-05,Sneha Mukherjee,Business Support,Management Support,Singapore Client F,High,Pending,2026-04-09,,0,Zoom,Yes,Yes,No Issue,
+T0813,2026-03-26,Poulomi Roy,Business Support,Meeting Coordination,US Client A,Medium,In Progress,2026-03-28,,0,In-person,Yes,Yes,No Issue,
+T0814,2026-06-29,Abhishek Paul,Development,Screencast Creation,Singapore Client F,Medium,In Progress,2026-07-03,,0,Teams,No,No,No Issue,
+T0815,2026-06-13,Arindam Sen,Administration,Management Support,US Client A,Medium,Pending,2026-06-16,,0,Phone,No,Yes,No Issue,
+T0816,2026-07-09,Ankit Dutta,QA,Issue Tracking,UK Client B,Medium,Pending,2026-07-13,,0,In-person,No,Yes,Test Failure,
+T0817,2026-07-02,Priyanka Roy,HR,User Testing,US Client A,Low,In Progress,2026-07-05,,0,Phone,No,No,No Issue,
+T0818,2026-05-19,Sayan Bose,QA,Screencast Creation,Canada Client D,Medium,In Progress,2026-05-20,,0,Teams,No,Yes,No Issue,
+T0819,2026-01-08,Debarati Das,HR,User Testing,Singapore Client F,High,In Progress,2026-01-10,,0,WhatsApp,No,No,No Issue,
+T0820,2026-06-20,Riya Ghosh,Administration,User Testing,Internal Management,Low,In Progress,2026-06-22,,0,WhatsApp,No,Yes,Test Failure,
+T0821,2026-07-20,Sayan Bose,QA,Follow-up,India Client G,High,Completed,2026-07-21,2026-07-21,0,WhatsApp,No,Yes,No Issue,4.0
+T0822,2026-07-10,Priyanka Roy,HR,Meeting Coordination,Singapore Client F,Low,Completed,2026-07-14,2026-07-14,0,Teams,Yes,Yes,No Issue,3.0
+T0823,2026-03-23,Ankit Dutta,QA,Management Support,Australia Client C,Medium,Completed,2026-03-25,2026-03-25,0,Teams,Yes,Yes,No Issue,3.0
+T0824,2026-08-03,Abhishek Paul,Development,Screencast Creation,Internal Management,Medium,Completed,2026-08-06,2026-08-04,0,Teams,No,Yes,No Issue,5.0
+T0825,2026-02-01,Debarati Das,HR,Office Event,Internal Management,Urgent,In Progress,2026-02-05,,0,WhatsApp,No,Yes,No Issue,
+T0826,2026-01-16,Ankit Dutta,QA,Management Support,Australia Client C,High,Completed,2026-01-18,2026-01-18,0,WhatsApp,No,Yes,Approval Pending,4.0
+T0827,2026-06-18,Poulomi Roy,Business Support,User Testing,US Client A,Medium,Completed,2026-06-22,2026-06-26,4,Zoom,No,No,No Issue,4.0
+T0828,2026-06-29,Priyanka Roy,HR,Follow-up,India Client G,Low,Completed,2026-07-04,2026-07-05,1,Zoom,No,Yes,Documentation Update,4.0
+T0829,2026-05-28,Soham Das,QA,User Testing,Internal Management,High,Completed,2026-05-30,2026-05-28,0,WhatsApp,No,Yes,No Issue,4.0
+T0830,2026-02-07,Poulomi Roy,Business Support,Documentation,India Client G,Medium,Completed,2026-02-08,2026-02-07,0,In-person,No,Yes,Client Response Pending,4.0
+T0831,2026-04-22,Ishita Chakraborty,Business Support,User Testing,India Client G,Medium,Completed,2026-04-26,2026-04-24,0,Phone,No,Yes,No Issue,3.0
+T0832,2026-04-08,Sayan Bose,QA,Office Event,Internal Management,Medium,Completed,2026-04-09,2026-04-09,0,WhatsApp,No,Yes,No Issue,3.0
+T0833,2026-01-06,Priyanka Roy,HR,Issue Tracking,Internal Management,Medium,In Progress,2026-01-11,,0,WhatsApp,No,Yes,No Issue,
+T0834,2026-04-22,Debarati Das,HR,Office Event,Internal Management,Medium,Completed,2026-04-23,2026-04-21,0,WhatsApp,No,Yes,No Issue,5.0
+T0835,2026-07-29,Rahul Banerjee,Development,Follow-up,Internal Management,Low,Pending,2026-08-03,,0,Email,No,Yes,Documentation Update,
+T0836,2026-07-12,Kunal Ghosh,Administration,Screencast Creation,UK Client B,Medium,Completed,2026-07-14,2026-07-13,0,Teams,No,No,No Issue,5.0
+T0837,2026-06-17,Priyanka Roy,HR,User Testing,UK Client B,Medium,Pending,2026-06-18,,0,Phone,No,Yes,No Issue,
+T0838,2026-01-01,Sayan Bose,QA,Screencast Creation,Japan Client E,Low,Pending,2026-01-04,,0,Teams,No,No,No Issue,
+T0839,2026-06-27,Moumita Saha,Administration,Management Support,Singapore Client F,Medium,Completed,2026-06-28,2026-06-28,0,Zoom,Yes,Yes,No Issue,3.0
+T0840,2026-02-04,Priyanka Roy,HR,Issue Tracking,Canada Client D,Medium,Completed,2026-02-09,2026-02-07,0,WhatsApp,No,No,No Issue,3.0
+T0841,2026-04-27,Ankit Dutta,QA,Meeting Coordination,Japan Client E,Medium,Pending,2026-04-29,,0,WhatsApp,Yes,Yes,No Issue,
+T0842,2026-06-12,Abhishek Paul,Development,Screencast Creation,Singapore Client F,Medium,In Progress,2026-06-17,,0,Teams,No,Yes,No Issue,
+T0843,2026-03-22,Soham Das,QA,Documentation,India Client G,Low,Completed,2026-03-23,2026-03-21,0,Email,No,Yes,Approval Pending,5.0
+T0844,2026-04-03,Riya Ghosh,Administration,Management Support,Japan Client E,Low,In Progress,2026-04-06,,0,Teams,Yes,Yes,No Issue,
+T0845,2026-01-27,Ankit Dutta,QA,Meeting Coordination,Australia Client C,Medium,Pending,2026-02-01,,0,In-person,No,Yes,No Issue,
+T0846,2026-06-29,Sneha Mukherjee,Business Support,Issue Tracking,Japan Client E,Medium,Completed,2026-06-30,2026-06-29,0,WhatsApp,No,Yes,No Issue,4.0
+T0847,2026-05-17,Kunal Ghosh,Administration,Follow-up,India Client G,Medium,Completed,2026-05-18,2026-05-16,0,Teams,No,Yes,No Issue,5.0
+T0848,2026-07-08,Ishita Chakraborty,Business Support,Office Event,Internal Management,Low,In Progress,2026-07-11,,0,Phone,No,Yes,No Issue,
+T0849,2026-04-28,Debarati Das,HR,User Testing,Internal Management,Urgent,In Progress,2026-05-03,,0,Zoom,No,No,No Issue,
+T0850,2026-08-08,Sayan Bose,QA,Meeting Coordination,Japan Client E,Medium,Completed,2026-08-09,2026-08-09,0,In-person,No,Yes,Schedule Conflict,5.0
+T0851,2026-03-15,Debarati Das,HR,Follow-up,Internal Management,High,Completed,2026-03-19,2026-03-17,0,Phone,No,Yes,No Issue,4.0
+T0852,2026-08-16,Sayan Bose,QA,Follow-up,UK Client B,Medium,Completed,2026-08-17,2026-08-15,0,Zoom,No,Yes,No Issue,5.0
+T0853,2026-06-19,Debarati Das,HR,Follow-up,US Client A,Medium,Pending,2026-06-24,,0,Email,No,Yes,Schedule Conflict,
+T0854,2026-08-03,Sneha Mukherjee,Business Support,User Testing,Singapore Client F,Urgent,Completed,2026-08-07,2026-08-07,0,Email,No,No,Schedule Conflict,5.0
+T0855,2026-03-17,Moumita Saha,Administration,Office Event,Internal Management,Medium,In Progress,2026-03-22,,0,Zoom,No,No,No Issue,
+T0856,2026-08-27,Amitava Nandi,Development,Follow-up,US Client A,Urgent,Pending,2026-08-31,,0,Email,No,Yes,No Issue,
+T0857,2026-04-28,Ishita Chakraborty,Business Support,Management Support,Japan Client E,Medium,Completed,2026-04-30,2026-04-30,0,Email,Yes,Yes,No Issue,4.0
+T0858,2026-02-09,Amitava Nandi,Development,Documentation,UK Client B,High,Completed,2026-02-12,2026-02-11,0,Phone,No,No,No Issue,3.0
+T0859,2026-07-27,Rahul Banerjee,Development,Office Event,Internal Management,Low,Completed,2026-07-31,2026-07-30,0,WhatsApp,No,No,No Issue,5.0
+T0860,2026-03-14,Priyanka Roy,HR,Client Communication,Australia Client C,Medium,In Progress,2026-03-15,,0,Phone,Yes,Yes,No Issue,
+T0861,2026-03-10,Sayan Bose,QA,Meeting Coordination,India Client G,Medium,Completed,2026-03-12,2026-03-11,0,Teams,Yes,Yes,Approval Pending,5.0
+T0862,2026-07-22,Riya Ghosh,Administration,Client Communication,Australia Client C,Low,Completed,2026-07-24,2026-07-23,0,Email,Yes,Yes,No Issue,4.0
+T0863,2026-03-14,Abhishek Paul,Development,Office Supplies,Internal Management,Low,Completed,2026-03-19,2026-03-17,0,Email,No,Yes,No Issue,3.0
+T0864,2026-03-05,Debarati Das,HR,Documentation,Canada Client D,Medium,In Progress,2026-03-06,,0,In-person,No,Yes,No Issue,
+T0865,2026-06-12,Sayan Bose,QA,User Testing,Canada Client D,Low,Completed,2026-06-15,2026-06-17,2,Phone,No,No,No Issue,4.0
+T0866,2026-06-29,Abhishek Paul,Development,Screencast Creation,Canada Client D,Medium,Completed,2026-07-04,2026-07-04,0,Teams,No,No,No Issue,4.0
+T0867,2026-07-02,Sneha Mukherjee,Business Support,Documentation,Canada Client D,Medium,Completed,2026-07-03,2026-07-01,0,Phone,No,No,No Issue,5.0
+T0868,2026-01-26,Ishita Chakraborty,Business Support,Documentation,Australia Client C,Medium,Completed,2026-01-29,2026-01-29,0,Zoom,No,Yes,Schedule Conflict,4.0
+T0869,2026-04-03,Kunal Ghosh,Administration,Issue Tracking,Singapore Client F,Medium,Completed,2026-04-08,2026-04-08,0,In-person,No,Yes,No Issue,5.0
+T0870,2026-08-22,Ishita Chakraborty,Business Support,Screencast Creation,Canada Client D,High,Pending,2026-08-23,,0,Teams,No,No,No Issue,
+T0871,2026-07-14,Moumita Saha,Administration,Screencast Creation,Australia Client C,Low,Completed,2026-07-19,2026-07-17,0,Teams,No,No,Approval Pending,4.0
+T0872,2026-08-22,Riya Ghosh,Administration,Documentation,UK Client B,Medium,Completed,2026-08-27,2026-08-27,0,Zoom,No,No,Schedule Conflict,5.0
+T0873,2026-01-16,Ishita Chakraborty,Business Support,Screencast Creation,India Client G,Medium,Completed,2026-01-21,2026-01-23,2,Teams,No,No,Approval Pending,4.0
+T0874,2026-04-13,Ankit Dutta,QA,Issue Tracking,Japan Client E,Medium,Completed,2026-04-18,2026-04-16,0,Phone,No,Yes,Resource Unavailable,4.0
+T0875,2026-05-15,Debarati Das,HR,Office Event,Internal Management,Medium,Completed,2026-05-18,2026-05-18,0,Teams,No,Yes,No Issue,5.0
+T0876,2026-02-07,Sayan Bose,QA,Office Event,Internal Management,High,Completed,2026-02-08,2026-02-08,0,Email,No,Yes,No Issue,4.0
+T0877,2026-06-04,Sayan Bose,QA,Management Support,Singapore Client F,Low,In Progress,2026-06-09,,0,In-person,Yes,Yes,No Issue,
+T0878,2026-03-25,Abhishek Paul,Development,Client Communication,US Client A,High,Completed,2026-03-28,2026-03-28,0,Email,Yes,Yes,Resource Unavailable,4.0
+T0879,2026-04-08,Debarati Das,HR,Office Event,Internal Management,High,In Progress,2026-04-13,,0,Zoom,No,Yes,Schedule Conflict,
+T0880,2026-02-22,Abhishek Paul,Development,Issue Tracking,India Client G,Low,Completed,2026-02-26,2026-02-25,0,Phone,No,Yes,No Issue,5.0
+T0881,2026-02-15,Poulomi Roy,Business Support,Screencast Creation,Internal Management,Urgent,Completed,2026-02-18,2026-02-18,0,Teams,No,Yes,Documentation Update,4.0
+T0882,2026-02-06,Riya Ghosh,Administration,Meeting Coordination,India Client G,Medium,Pending,2026-02-10,,0,WhatsApp,Yes,Yes,No Issue,
+T0883,2026-07-26,Kunal Ghosh,Administration,Client Communication,UK Client B,Medium,Completed,2026-07-27,2026-07-25,0,Email,No,Yes,No Issue,5.0
+T0884,2026-06-03,Sayan Bose,QA,Client Communication,US Client A,Urgent,Completed,2026-06-06,2026-06-07,1,In-person,Yes,Yes,No Issue,3.0
+T0885,2026-02-11,Poulomi Roy,Business Support,Office Event,Internal Management,Medium,Completed,2026-02-12,2026-02-11,0,Email,No,Yes,No Issue,5.0
+T0886,2026-01-27,Abhishek Paul,Development,Follow-up,India Client G,Low,Pending,2026-01-28,,0,Phone,No,Yes,No Issue,
+T0887,2026-04-01,Soham Das,QA,Office Event,Internal Management,Medium,Pending,2026-04-05,,0,Email,No,Yes,No Issue,
+T0888,2026-01-27,Priyanka Roy,HR,Office Event,Internal Management,Medium,Completed,2026-01-28,2026-01-28,0,Teams,No,Yes,No Issue,4.0
+T0889,2026-06-03,Sneha Mukherjee,Business Support,User Testing,India Client G,Low,In Progress,2026-06-06,,0,WhatsApp,No,No,Test Failure,
+T0890,2026-08-27,Sneha Mukherjee,Business Support,Office Event,Internal Management,High,In Progress,2026-08-28,,0,WhatsApp,No,Yes,Schedule Conflict,
+T0891,2026-03-23,Soham Das,QA,User Testing,India Client G,Medium,In Progress,2026-03-27,,0,Teams,No,Yes,Test Failure,
+T0892,2026-03-24,Riya Ghosh,Administration,User Testing,Australia Client C,High,Completed,2026-03-28,2026-03-26,0,Teams,No,No,No Issue,3.0
+T0893,2026-08-24,Sayan Bose,QA,Screencast Creation,India Client G,Medium,Completed,2026-08-29,2026-08-27,0,Teams,No,Yes,No Issue,4.0
+T0894,2026-05-15,Ankit Dutta,QA,Issue Tracking,Canada Client D,High,Completed,2026-05-16,2026-05-16,0,Teams,No,No,No Issue,3.0
+T0895,2026-08-22,Arindam Sen,Administration,Management Support,Singapore Client F,High,Pending,2026-08-24,,0,In-person,Yes,Yes,No Issue,
+T0896,2026-08-22,Amitava Nandi,Development,Documentation,Canada Client D,Medium,Completed,2026-08-24,2026-08-22,0,Email,No,Yes,No Issue,4.0
+T0897,2026-04-06,Ankit Dutta,QA,Client Communication,UK Client B,Medium,Completed,2026-04-11,2026-04-12,1,Teams,Yes,Yes,No Issue,5.0
+T0898,2026-08-01,Ishita Chakraborty,Business Support,Documentation,Australia Client C,High,Completed,2026-08-03,2026-08-01,0,WhatsApp,No,No,No Issue,5.0
+T0899,2026-06-15,Kunal Ghosh,Administration,Client Communication,Japan Client E,Low,Completed,2026-06-16,2026-06-16,0,Phone,Yes,Yes,No Issue,4.0
+T0900,2026-04-27,Amitava Nandi,Development,Follow-up,Japan Client E,High,Completed,2026-04-29,2026-04-29,0,Email,No,Yes,No Issue,4.0
+T0901,2026-07-10,Soham Das,QA,Screencast Creation,India Client G,Medium,Completed,2026-07-12,2026-07-10,0,Teams,No,Yes,Approval Pending,4.0
+T0902,2026-06-14,Sayan Bose,QA,Documentation,India Client G,Low,In Progress,2026-06-18,,0,Email,No,Yes,No Issue,
+T0903,2026-04-03,Riya Ghosh,Administration,Issue Tracking,Singapore Client F,Low,Completed,2026-04-08,2026-04-08,0,Teams,No,Yes,Test Failure,4.0
+T0904,2026-08-26,Sayan Bose,QA,Client Communication,Canada Client D,Medium,Cancelled,2026-08-31,,0,Email,Yes,Yes,Approval Pending,
+T0905,2026-03-22,Arindam Sen,Administration,Meeting Coordination,Japan Client E,Low,Completed,2026-03-25,2026-03-27,2,Zoom,Yes,Yes,No Issue,2.0
+T0906,2026-06-22,Debarati Das,HR,Meeting Coordination,Singapore Client F,Medium,In Progress,2026-06-23,,0,In-person,Yes,Yes,Client Response Pending,
+T0907,2026-04-08,Kunal Ghosh,Administration,Office Supplies,Internal Management,Medium,Pending,2026-04-11,,0,Phone,No,Yes,No Issue,
+T0908,2026-08-15,Riya Ghosh,Administration,Meeting Coordination,Canada Client D,High,In Progress,2026-08-17,,0,In-person,No,Yes,No Issue,
+T0909,2026-07-06,Rahul Banerjee,Development,Issue Tracking,Singapore Client F,Medium,Completed,2026-07-09,2026-07-08,0,Phone,No,Yes,Documentation Update,5.0
+T0910,2026-06-05,Ishita Chakraborty,Business Support,Meeting Coordination,Australia Client C,Medium,Cancelled,2026-06-06,,0,Zoom,No,Yes,No Issue,
+T0911,2026-08-11,Rahul Banerjee,Development,Meeting Coordination,Internal Management,Low,Completed,2026-08-14,2026-08-13,0,Email,Yes,Yes,No Issue,5.0
+T0912,2026-04-28,Kunal Ghosh,Administration,Office Event,Internal Management,Urgent,Cancelled,2026-05-02,,0,Phone,No,Yes,Resource Unavailable,
+T0913,2026-04-04,Arindam Sen,Administration,Office Event,Internal Management,Medium,Pending,2026-04-06,,0,In-person,No,No,No Issue,
+T0914,2026-04-06,Sneha Mukherjee,Business Support,Meeting Coordination,India Client G,Medium,Completed,2026-04-07,2026-04-05,0,In-person,Yes,Yes,Documentation Update,5.0
+T0915,2026-01-27,Poulomi Roy,Business Support,Office Event,Internal Management,Medium,Completed,2026-01-28,2026-01-27,0,Phone,No,Yes,No Issue,4.0
+T0916,2026-07-29,Amitava Nandi,Development,Office Supplies,Internal Management,Low,Completed,2026-07-30,2026-08-03,4,Zoom,No,No,No Issue,5.0
+T0917,2026-06-04,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,Medium,In Progress,2026-06-05,,0,In-person,No,No,No Issue,
+T0918,2026-08-31,Soham Das,QA,Office Supplies,Internal Management,Low,Completed,2026-09-05,2026-09-03,0,Zoom,No,No,No Issue,4.0
+T0919,2026-02-24,Moumita Saha,Administration,Client Communication,Canada Client D,High,Pending,2026-02-28,,0,Email,Yes,Yes,No Issue,
+T0920,2026-01-18,Soham Das,QA,Office Event,Internal Management,Medium,Completed,2026-01-22,2026-01-24,2,Email,No,No,No Issue,5.0
+T0921,2026-04-20,Amitava Nandi,Development,Management Support,Japan Client E,Low,Completed,2026-04-24,2026-04-22,0,WhatsApp,No,Yes,No Issue,4.0
+T0922,2026-06-27,Amitava Nandi,Development,Issue Tracking,India Client G,High,Completed,2026-07-02,2026-06-30,0,WhatsApp,No,Yes,No Issue,4.0
+T0923,2026-07-07,Debarati Das,HR,Management Support,US Client A,Low,Completed,2026-07-09,2026-07-08,0,Zoom,Yes,Yes,Approval Pending,4.0
+T0924,2026-04-26,Arindam Sen,Administration,User Testing,Internal Management,Medium,Completed,2026-04-27,2026-04-27,0,Teams,No,No,Schedule Conflict,5.0
+T0925,2026-06-23,Priyanka Roy,HR,Issue Tracking,US Client A,Medium,Completed,2026-06-26,2026-06-27,1,Phone,No,No,No Issue,4.0
+T0926,2026-04-01,Sneha Mukherjee,Business Support,Follow-up,India Client G,Medium,In Progress,2026-04-02,,0,Phone,No,Yes,Approval Pending,
+T0927,2026-02-15,Sneha Mukherjee,Business Support,Follow-up,Australia Client C,Medium,Completed,2026-02-19,2026-02-17,0,Email,No,Yes,No Issue,2.0
+T0928,2026-08-03,Kunal Ghosh,Administration,Meeting Coordination,UK Client B,Medium,Completed,2026-08-07,2026-08-05,0,WhatsApp,No,Yes,Client Response Pending,4.0
+T0929,2026-07-26,Ishita Chakraborty,Business Support,Client Communication,Japan Client E,High,Completed,2026-07-30,2026-07-30,0,Email,Yes,Yes,No Issue,4.0
+T0930,2026-08-22,Kunal Ghosh,Administration,Office Supplies,Internal Management,Medium,In Progress,2026-08-26,,0,In-person,No,Yes,Schedule Conflict,
+T0931,2026-03-10,Abhishek Paul,Development,Office Event,Internal Management,Medium,Pending,2026-03-14,,0,Phone,No,Yes,No Issue,
+T0932,2026-01-04,Arindam Sen,Administration,Client Communication,Australia Client C,High,Pending,2026-01-09,,0,Zoom,No,Yes,No Issue,
+T0933,2026-05-27,Soham Das,QA,Documentation,Canada Client D,Medium,Completed,2026-06-01,2026-06-01,0,WhatsApp,No,No,No Issue,4.0
+T0934,2026-02-14,Debarati Das,HR,Documentation,Singapore Client F,Medium,Completed,2026-02-15,2026-02-15,0,Phone,No,Yes,No Issue,3.0
+T0935,2026-08-23,Sayan Bose,QA,Office Event,Internal Management,High,Completed,2026-08-26,2026-08-26,0,WhatsApp,No,Yes,No Issue,4.0
+T0936,2026-01-08,Soham Das,QA,Issue Tracking,UK Client B,Medium,Completed,2026-01-10,2026-01-13,3,Teams,No,Yes,No Issue,5.0
+T0937,2026-08-04,Rahul Banerjee,Development,Screencast Creation,India Client G,High,In Progress,2026-08-07,,0,Teams,No,Yes,Documentation Update,
+T0938,2026-06-13,Arindam Sen,Administration,Issue Tracking,UK Client B,Low,Pending,2026-06-14,,0,Zoom,No,Yes,No Issue,
+T0939,2026-02-16,Amitava Nandi,Development,Meeting Coordination,UK Client B,Medium,Completed,2026-02-18,2026-02-17,0,Phone,No,Yes,No Issue,3.0
+T0940,2026-02-23,Riya Ghosh,Administration,Documentation,India Client G,High,In Progress,2026-02-27,,0,Email,No,Yes,No Issue,
+T0941,2026-02-15,Amitava Nandi,Development,Issue Tracking,US Client A,Low,Completed,2026-02-18,2026-02-16,0,WhatsApp,No,Yes,No Issue,5.0
+T0942,2026-02-19,Riya Ghosh,Administration,Issue Tracking,US Client A,Medium,Completed,2026-02-21,2026-02-20,0,Zoom,No,Yes,Client Response Pending,5.0
+T0943,2026-07-06,Riya Ghosh,Administration,User Testing,Japan Client E,Medium,Completed,2026-07-07,2026-07-05,0,Phone,No,No,No Issue,4.0
+T0944,2026-08-25,Ankit Dutta,QA,Screencast Creation,Japan Client E,Low,In Progress,2026-08-28,,0,Teams,No,No,No Issue,
+T0945,2026-07-16,Kunal Ghosh,Administration,Issue Tracking,Japan Client E,Low,Completed,2026-07-20,2026-07-19,0,Zoom,No,No,No Issue,3.0
+T0946,2026-01-28,Ishita Chakraborty,Business Support,Issue Tracking,India Client G,Medium,Completed,2026-01-31,2026-02-01,1,Email,No,No,No Issue,3.0
+T0947,2026-05-31,Abhishek Paul,Development,Documentation,Japan Client E,Medium,Pending,2026-06-05,,0,Email,No,No,No Issue,
+T0948,2026-07-27,Soham Das,QA,Management Support,India Client G,High,Completed,2026-07-28,2026-07-27,0,Email,Yes,Yes,Client Response Pending,5.0
+T0949,2026-07-03,Arindam Sen,Administration,Management Support,Canada Client D,Medium,In Progress,2026-07-05,,0,In-person,Yes,Yes,No Issue,
+T0950,2026-05-15,Priyanka Roy,HR,Screencast Creation,UK Client B,Medium,In Progress,2026-05-16,,0,Teams,No,No,Approval Pending,
+T0951,2026-07-28,Sneha Mukherjee,Business Support,Management Support,Canada Client D,Medium,In Progress,2026-08-01,,0,Email,Yes,Yes,No Issue,
+T0952,2026-04-26,Riya Ghosh,Administration,User Testing,Singapore Client F,Medium,Completed,2026-04-27,2026-04-25,0,Email,No,Yes,Test Failure,3.0
+T0953,2026-05-16,Amitava Nandi,Development,Client Communication,Singapore Client F,Medium,Completed,2026-05-17,2026-05-16,0,Zoom,No,Yes,No Issue,4.0
+T0954,2026-07-18,Rahul Banerjee,Development,Management Support,Internal Management,Medium,Completed,2026-07-22,2026-07-20,0,Zoom,No,Yes,No Issue,3.0
+T0955,2026-01-08,Riya Ghosh,Administration,Screencast Creation,US Client A,High,Completed,2026-01-11,2026-01-15,4,Teams,No,Yes,No Issue,5.0
+T0956,2026-07-27,Amitava Nandi,Development,Management Support,US Client A,Urgent,Pending,2026-07-30,,0,Email,No,Yes,No Issue,
+T0957,2026-01-20,Abhishek Paul,Development,Office Event,Internal Management,Medium,Completed,2026-01-24,2026-01-24,0,Email,No,Yes,No Issue,5.0
+T0958,2026-02-07,Poulomi Roy,Business Support,Issue Tracking,India Client G,Medium,In Progress,2026-02-12,,0,WhatsApp,No,Yes,No Issue,
+T0959,2026-03-13,Moumita Saha,Administration,Management Support,Internal Management,Medium,Completed,2026-03-16,2026-03-15,0,WhatsApp,Yes,Yes,Documentation Update,4.0
+T0960,2026-06-27,Priyanka Roy,HR,Meeting Coordination,UK Client B,Urgent,Completed,2026-06-28,2026-06-27,0,Email,No,Yes,No Issue,5.0
+T0961,2026-06-01,Poulomi Roy,Business Support,Follow-up,Singapore Client F,High,Completed,2026-06-05,2026-06-03,0,Teams,No,Yes,No Issue,5.0
+T0962,2026-04-09,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,High,Completed,2026-04-13,2026-04-12,0,Zoom,No,No,No Issue,3.0
+T0963,2026-06-15,Ishita Chakraborty,Business Support,Meeting Coordination,Australia Client C,Medium,Completed,2026-06-16,2026-06-15,0,WhatsApp,Yes,Yes,No Issue,4.0
+T0964,2026-03-09,Sneha Mukherjee,Business Support,Meeting Coordination,UK Client B,Medium,Completed,2026-03-13,2026-03-11,0,Zoom,Yes,Yes,No Issue,5.0
+T0965,2026-04-08,Sayan Bose,QA,Documentation,Canada Client D,Medium,Completed,2026-04-13,2026-04-11,0,Email,No,No,No Issue,4.0
+T0966,2026-03-05,Sayan Bose,QA,Meeting Coordination,Canada Client D,Low,Pending,2026-03-10,,0,Email,Yes,Yes,No Issue,
+T0967,2026-02-27,Abhishek Paul,Development,Issue Tracking,India Client G,Medium,Completed,2026-03-02,2026-03-02,0,Zoom,No,Yes,No Issue,4.0
+T0968,2026-07-07,Abhishek Paul,Development,Client Communication,UK Client B,Medium,Pending,2026-07-12,,0,WhatsApp,Yes,Yes,No Issue,
+T0969,2026-02-13,Priyanka Roy,HR,Management Support,UK Client B,Low,Completed,2026-02-17,2026-02-17,0,Email,No,Yes,No Issue,5.0
+T0970,2026-08-14,Abhishek Paul,Development,Meeting Coordination,Australia Client C,Medium,Pending,2026-08-19,,0,Email,Yes,Yes,No Issue,
+T0971,2026-08-12,Moumita Saha,Administration,Screencast Creation,Internal Management,Low,In Progress,2026-08-17,,0,Teams,No,No,Resource Unavailable,
+T0972,2026-02-12,Rahul Banerjee,Development,User Testing,UK Client B,Low,In Progress,2026-02-15,,0,WhatsApp,No,No,Test Failure,
+T0973,2026-03-06,Moumita Saha,Administration,Management Support,Internal Management,Low,Completed,2026-03-09,2026-03-13,4,WhatsApp,Yes,Yes,Documentation Update,5.0
+T0974,2026-08-08,Ankit Dutta,QA,Screencast Creation,Australia Client C,Medium,Completed,2026-08-13,2026-08-12,0,Teams,No,No,No Issue,5.0
+T0975,2026-04-07,Amitava Nandi,Development,Meeting Coordination,Japan Client E,High,In Progress,2026-04-11,,0,Zoom,No,Yes,Schedule Conflict,
+T0976,2026-06-23,Amitava Nandi,Development,Management Support,Singapore Client F,Medium,Completed,2026-06-26,2026-06-26,0,Email,Yes,Yes,Resource Unavailable,4.0
+T0977,2026-05-26,Moumita Saha,Administration,Management Support,Japan Client E,Low,Completed,2026-05-28,2026-05-28,0,In-person,Yes,Yes,No Issue,4.0
+T0978,2026-05-05,Abhishek Paul,Development,Office Event,Internal Management,Low,Completed,2026-05-09,2026-05-08,0,Zoom,No,Yes,No Issue,5.0
+T0979,2026-06-19,Sneha Mukherjee,Business Support,Client Communication,US Client A,Medium,Completed,2026-06-22,2026-06-20,0,Email,No,Yes,Schedule Conflict,4.0
+T0980,2026-07-07,Soham Das,QA,Screencast Creation,India Client G,Medium,Completed,2026-07-09,2026-07-08,0,Teams,No,Yes,Documentation Update,4.0
+T0981,2026-08-20,Ankit Dutta,QA,Meeting Coordination,Japan Client E,High,Completed,2026-08-22,2026-08-20,0,WhatsApp,No,Yes,Schedule Conflict,4.0
+T0982,2026-02-04,Abhishek Paul,Development,Documentation,Canada Client D,Medium,Completed,2026-02-09,2026-02-13,4,Phone,No,Yes,No Issue,5.0
+T0983,2026-04-24,Rahul Banerjee,Development,Management Support,Singapore Client F,Medium,Completed,2026-04-28,2026-05-02,4,Phone,Yes,Yes,No Issue,5.0
+T0984,2026-06-07,Soham Das,QA,Office Event,Internal Management,High,Completed,2026-06-10,2026-06-08,0,Phone,No,No,No Issue,5.0
+T0985,2026-01-02,Sayan Bose,QA,Office Supplies,Internal Management,High,Pending,2026-01-06,,0,Zoom,No,Yes,No Issue,
+T0986,2026-06-16,Poulomi Roy,Business Support,Meeting Coordination,Singapore Client F,Medium,In Progress,2026-06-21,,0,Email,Yes,Yes,No Issue,
+T0987,2026-07-09,Riya Ghosh,Administration,Issue Tracking,US Client A,High,Completed,2026-07-14,2026-07-13,0,WhatsApp,No,Yes,No Issue,4.0
+T0988,2026-03-19,Soham Das,QA,Office Event,Internal Management,High,Pending,2026-03-23,,0,Email,No,Yes,No Issue,
+T0989,2026-06-04,Soham Das,QA,Meeting Coordination,UK Client B,Medium,Completed,2026-06-05,2026-06-04,0,Phone,Yes,Yes,Test Failure,4.0
+T0990,2026-07-29,Soham Das,QA,Screencast Creation,Japan Client E,High,In Progress,2026-08-03,,0,Teams,No,Yes,No Issue,
+T0991,2026-01-06,Sayan Bose,QA,User Testing,Australia Client C,High,In Progress,2026-01-08,,0,In-person,No,Yes,No Issue,
+T0992,2026-04-05,Moumita Saha,Administration,Office Event,Internal Management,Medium,In Progress,2026-04-06,,0,Phone,No,No,No Issue,
+T0993,2026-01-08,Soham Das,QA,Office Event,Internal Management,Medium,Completed,2026-01-09,2026-01-09,0,Zoom,No,No,No Issue,3.0
+T0994,2026-08-14,Moumita Saha,Administration,Office Supplies,Internal Management,Medium,Cancelled,2026-08-17,,0,WhatsApp,No,Yes,No Issue,
+T0995,2026-04-10,Rahul Banerjee,Development,Follow-up,UK Client B,Low,Completed,2026-04-15,2026-04-13,0,Zoom,No,Yes,Schedule Conflict,4.0
+T0996,2026-03-19,Sayan Bose,QA,Documentation,UK Client B,High,In Progress,2026-03-23,,0,Teams,No,No,No Issue,
+T0997,2026-07-01,Ishita Chakraborty,Business Support,Follow-up,Japan Client E,Low,Completed,2026-07-06,2026-07-04,0,Email,No,Yes,Client Response Pending,5.0
+T0998,2026-02-10,Debarati Das,HR,Screencast Creation,UK Client B,Medium,Completed,2026-02-14,2026-02-14,0,Teams,No,Yes,No Issue,3.0
+T0999,2026-08-17,Debarati Das,HR,Documentation,India Client G,High,Completed,2026-08-20,2026-08-18,0,Zoom,No,Yes,No Issue,4.0
+T1000,2026-01-08,Poulomi Roy,Business Support,User Testing,Singapore Client F,Low,Completed,2026-01-10,2026-01-12,2,Teams,No,Yes,Test Failure,5.0
+T1001,2026-04-22,Soham Das,QA,Follow-up,Canada Client D,Low,Completed,2026-04-23,2026-04-23,0,Phone,No,Yes,Test Failure,4.0
+T1002,2026-01-19,Poulomi Roy,Business Support,Management Support,Australia Client C,High,Pending,2026-01-24,,0,Phone,Yes,Yes,Resource Unavailable,
+T1003,2026-04-01,Rahul Banerjee,Development,Management Support,Australia Client C,High,Completed,2026-04-05,2026-04-06,1,Email,Yes,Yes,No Issue,5.0
+T1004,2026-01-14,Priyanka Roy,HR,Issue Tracking,Singapore Client F,Low,In Progress,2026-01-17,,0,Zoom,No,No,No Issue,
+T1005,2026-08-12,Riya Ghosh,Administration,User Testing,Japan Client E,Low,Completed,2026-08-17,2026-08-20,3,Email,No,No,No Issue,4.0
+T1006,2026-08-23,Amitava Nandi,Development,Office Event,Internal Management,Medium,Completed,2026-08-27,2026-08-26,0,In-person,No,Yes,No Issue,3.0
+T1007,2026-08-25,Sneha Mukherjee,Business Support,Client Communication,Canada Client D,Medium,In Progress,2026-08-30,,0,Zoom,No,Yes,Client Response Pending,
+T1008,2026-04-17,Riya Ghosh,Administration,Issue Tracking,UK Client B,High,Completed,2026-04-19,2026-04-19,0,In-person,No,Yes,No Issue,5.0
+T1009,2026-04-21,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,Medium,Pending,2026-04-23,,0,Teams,No,Yes,Client Response Pending,
+T1010,2026-06-05,Rahul Banerjee,Development,Documentation,US Client A,Medium,Completed,2026-06-09,2026-06-08,0,Email,No,No,No Issue,4.0
+T1011,2026-06-07,Amitava Nandi,Development,Management Support,Singapore Client F,Medium,Completed,2026-06-08,2026-06-08,0,WhatsApp,Yes,Yes,No Issue,4.0
+T1012,2026-07-23,Kunal Ghosh,Administration,Follow-up,US Client A,Urgent,Completed,2026-07-25,2026-07-25,0,Phone,No,Yes,No Issue,5.0
+T1013,2026-03-22,Arindam Sen,Administration,Management Support,Canada Client D,Urgent,Completed,2026-03-26,2026-03-26,0,In-person,No,Yes,No Issue,5.0
+T1014,2026-07-08,Debarati Das,HR,Management Support,Canada Client D,Medium,Completed,2026-07-11,2026-07-10,0,Zoom,No,Yes,No Issue,5.0
+T1015,2026-05-09,Rahul Banerjee,Development,Meeting Coordination,US Client A,Medium,Completed,2026-05-14,2026-05-14,0,In-person,Yes,Yes,No Issue,5.0
+T1016,2026-05-22,Debarati Das,HR,Screencast Creation,UK Client B,Medium,In Progress,2026-05-24,,0,Teams,No,Yes,Documentation Update,
+T1017,2026-06-16,Moumita Saha,Administration,Office Supplies,Internal Management,Urgent,Completed,2026-06-17,2026-06-15,0,Email,No,No,No Issue,5.0
+T1018,2026-06-06,Poulomi Roy,Business Support,Documentation,Internal Management,Low,Completed,2026-06-10,2026-06-10,0,Phone,No,No,No Issue,4.0
+T1019,2026-03-20,Sayan Bose,QA,Client Communication,Singapore Client F,Urgent,Pending,2026-03-23,,0,Teams,No,Yes,Resource Unavailable,
+T1020,2026-01-08,Kunal Ghosh,Administration,Management Support,India Client G,High,In Progress,2026-01-09,,0,WhatsApp,No,Yes,No Issue,
+T1021,2026-06-23,Amitava Nandi,Development,Office Event,Internal Management,High,Pending,2026-06-27,,0,In-person,No,No,No Issue,
+T1022,2026-05-13,Kunal Ghosh,Administration,Office Event,Internal Management,Low,Completed,2026-05-15,2026-05-15,0,Email,No,No,Test Failure,2.0
+T1023,2026-05-19,Kunal Ghosh,Administration,Office Event,Internal Management,Medium,Completed,2026-05-24,2026-05-23,0,Email,No,No,Resource Unavailable,5.0
+T1024,2026-06-19,Ishita Chakraborty,Business Support,Management Support,Japan Client E,High,Completed,2026-06-20,2026-06-19,0,WhatsApp,Yes,Yes,No Issue,3.0
+T1025,2026-04-15,Priyanka Roy,HR,Client Communication,UK Client B,Medium,Completed,2026-04-18,2026-04-22,4,Zoom,Yes,Yes,Test Failure,3.0
+T1026,2026-02-28,Soham Das,QA,User Testing,Australia Client C,High,In Progress,2026-03-02,,0,In-person,No,Yes,Test Failure,
+T1027,2026-01-11,Sneha Mukherjee,Business Support,Follow-up,Canada Client D,Low,In Progress,2026-01-14,,0,WhatsApp,No,Yes,Client Response Pending,
+T1028,2026-08-08,Poulomi Roy,Business Support,Management Support,US Client A,Medium,Completed,2026-08-09,2026-08-09,0,Zoom,Yes,Yes,No Issue,4.0
+T1029,2026-07-30,Poulomi Roy,Business Support,Documentation,UK Client B,Medium,Pending,2026-08-01,,0,Zoom,No,Yes,No Issue,
+T1030,2026-04-15,Sneha Mukherjee,Business Support,Management Support,Internal Management,Urgent,Completed,2026-04-16,2026-04-16,0,In-person,Yes,Yes,No Issue,5.0
+T1031,2026-02-24,Ishita Chakraborty,Business Support,Management Support,Singapore Client F,Urgent,Completed,2026-03-01,2026-02-27,0,Email,Yes,Yes,Documentation Update,3.0
+T1032,2026-02-27,Amitava Nandi,Development,Issue Tracking,India Client G,Medium,Completed,2026-03-04,2026-03-02,0,In-person,No,No,No Issue,4.0
+T1033,2026-02-19,Abhishek Paul,Development,Issue Tracking,Japan Client E,High,Completed,2026-02-22,2026-02-21,0,WhatsApp,No,Yes,Approval Pending,3.0
+T1034,2026-04-03,Ankit Dutta,QA,Meeting Coordination,Singapore Client F,Medium,Completed,2026-04-06,2026-04-04,0,In-person,Yes,Yes,Schedule Conflict,3.0
+T1035,2026-08-25,Soham Das,QA,Follow-up,Canada Client D,High,Completed,2026-08-30,2026-08-28,0,Zoom,No,Yes,No Issue,5.0
+T1036,2026-01-21,Riya Ghosh,Administration,Documentation,India Client G,Medium,Completed,2026-01-25,2026-01-25,0,Teams,No,Yes,Client Response Pending,5.0
+T1037,2026-07-15,Abhishek Paul,Development,Follow-up,Internal Management,High,Completed,2026-07-16,2026-07-16,0,Teams,No,Yes,Client Response Pending,4.0
+T1038,2026-08-24,Rahul Banerjee,Development,Documentation,India Client G,Medium,Completed,2026-08-29,2026-08-28,0,Zoom,No,Yes,No Issue,4.0
+T1039,2026-01-28,Ishita Chakraborty,Business Support,Client Communication,UK Client B,High,Completed,2026-02-01,2026-02-05,4,Phone,No,Yes,No Issue,4.0
+T1040,2026-02-16,Debarati Das,HR,Issue Tracking,UK Client B,Low,Completed,2026-02-21,2026-02-19,0,Phone,No,No,No Issue,5.0
+T1041,2026-05-31,Debarati Das,HR,Office Event,Internal Management,Urgent,Completed,2026-06-03,2026-06-03,0,Phone,No,No,No Issue,5.0
+T1042,2026-02-06,Soham Das,QA,Client Communication,Canada Client D,Medium,Completed,2026-02-11,2026-02-10,0,Zoom,Yes,Yes,No Issue,4.0
+T1043,2026-08-15,Priyanka Roy,HR,User Testing,Japan Client E,Urgent,Completed,2026-08-20,2026-08-20,0,Email,No,No,No Issue,4.0
+T1044,2026-08-17,Arindam Sen,Administration,Follow-up,Canada Client D,Low,Pending,2026-08-18,,0,Zoom,No,Yes,No Issue,
+T1045,2026-04-20,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,Medium,Pending,2026-04-23,,0,Phone,No,Yes,Client Response Pending,
+T1046,2026-04-21,Amitava Nandi,Development,Office Supplies,Internal Management,Medium,Pending,2026-04-24,,0,WhatsApp,No,Yes,Client Response Pending,
+T1047,2026-02-26,Kunal Ghosh,Administration,Meeting Coordination,Singapore Client F,Low,Completed,2026-03-02,2026-02-28,0,WhatsApp,No,Yes,No Issue,5.0
+T1048,2026-01-10,Amitava Nandi,Development,Documentation,UK Client B,Urgent,In Progress,2026-01-13,,0,WhatsApp,No,Yes,Documentation Update,
+T1049,2026-08-31,Arindam Sen,Administration,Client Communication,Canada Client D,Low,Completed,2026-09-02,2026-09-01,0,Teams,Yes,Yes,No Issue,4.0
+T1050,2026-02-03,Abhishek Paul,Development,Screencast Creation,UK Client B,Urgent,Pending,2026-02-05,,0,Teams,No,Yes,No Issue,
+T1051,2026-05-23,Moumita Saha,Administration,Issue Tracking,Canada Client D,High,Completed,2026-05-26,2026-05-24,0,Phone,No,Yes,No Issue,4.0
+T1052,2026-08-13,Soham Das,QA,Office Event,Internal Management,High,Pending,2026-08-17,,0,In-person,No,No,Approval Pending,
+T1053,2026-05-20,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,Medium,Completed,2026-05-23,2026-05-22,0,Phone,No,No,No Issue,5.0
+T1054,2026-03-23,Moumita Saha,Administration,Meeting Coordination,Singapore Client F,High,In Progress,2026-03-27,,0,Phone,No,Yes,Resource Unavailable,
+T1055,2026-03-02,Sayan Bose,QA,Client Communication,Japan Client E,Medium,Completed,2026-03-06,2026-03-05,0,Phone,Yes,Yes,No Issue,3.0
+T1056,2026-04-13,Ankit Dutta,QA,Office Event,Internal Management,High,Completed,2026-04-15,2026-04-15,0,Teams,No,No,No Issue,4.0
+T1057,2026-05-18,Soham Das,QA,Screencast Creation,UK Client B,Urgent,Completed,2026-05-21,2026-05-19,0,Teams,No,Yes,Client Response Pending,3.0
+T1058,2026-07-19,Riya Ghosh,Administration,Management Support,Singapore Client F,High,Completed,2026-07-20,2026-07-19,0,Phone,Yes,Yes,Resource Unavailable,3.0
+T1059,2026-03-16,Priyanka Roy,HR,User Testing,Singapore Client F,Medium,Completed,2026-03-18,2026-03-19,1,Phone,No,Yes,Test Failure,5.0
+T1060,2026-03-19,Abhishek Paul,Development,Client Communication,Canada Client D,Medium,In Progress,2026-03-20,,0,Phone,Yes,Yes,No Issue,
+T1061,2026-04-13,Sayan Bose,QA,User Testing,Japan Client E,High,Completed,2026-04-18,2026-04-16,0,In-person,No,No,No Issue,4.0
+T1062,2026-01-25,Soham Das,QA,Issue Tracking,India Client G,Medium,Completed,2026-01-28,2026-01-27,0,Phone,No,Yes,No Issue,5.0
+T1063,2026-06-17,Abhishek Paul,Development,Issue Tracking,Internal Management,Medium,Completed,2026-06-19,2026-06-22,3,WhatsApp,No,No,No Issue,4.0
+T1064,2026-04-08,Priyanka Roy,HR,Client Communication,Internal Management,High,Pending,2026-04-13,,0,In-person,No,Yes,No Issue,
+T1065,2026-04-12,Arindam Sen,Administration,Screencast Creation,Internal Management,Medium,Completed,2026-04-15,2026-04-13,0,Teams,No,Yes,No Issue,5.0
+T1066,2026-08-30,Poulomi Roy,Business Support,Office Supplies,Internal Management,Medium,Completed,2026-09-03,2026-09-02,0,Phone,No,Yes,No Issue,5.0
+T1067,2026-07-09,Abhishek Paul,Development,Management Support,Australia Client C,Low,In Progress,2026-07-14,,0,WhatsApp,Yes,Yes,No Issue,
+T1068,2026-07-13,Priyanka Roy,HR,Follow-up,Internal Management,Medium,Completed,2026-07-15,2026-07-13,0,In-person,No,Yes,No Issue,3.0
+T1069,2026-01-21,Debarati Das,HR,Meeting Coordination,India Client G,High,Completed,2026-01-22,2026-01-20,0,Email,Yes,Yes,No Issue,5.0
+T1070,2026-05-07,Ankit Dutta,QA,User Testing,Internal Management,Low,Pending,2026-05-11,,0,WhatsApp,No,No,Test Failure,
+T1071,2026-08-14,Amitava Nandi,Development,Office Event,Internal Management,Medium,Completed,2026-08-17,2026-08-17,0,WhatsApp,No,Yes,No Issue,5.0
+T1072,2026-07-02,Ishita Chakraborty,Business Support,Management Support,Japan Client E,Medium,Completed,2026-07-05,2026-07-07,2,Email,Yes,Yes,Approval Pending,5.0
+T1073,2026-02-08,Soham Das,QA,Office Supplies,Internal Management,Low,Cancelled,2026-02-11,,0,Email,No,Yes,No Issue,
+T1074,2026-04-28,Rahul Banerjee,Development,Management Support,UK Client B,Low,Completed,2026-04-30,2026-04-28,0,WhatsApp,Yes,Yes,No Issue,5.0
+T1075,2026-03-12,Priyanka Roy,HR,Office Event,Internal Management,High,Pending,2026-03-17,,0,Phone,No,No,No Issue,
+T1076,2026-03-07,Amitava Nandi,Development,Follow-up,Canada Client D,Low,Completed,2026-03-09,2026-03-08,0,Teams,No,Yes,No Issue,4.0
+T1077,2026-06-15,Ishita Chakraborty,Business Support,Documentation,Singapore Client F,Medium,Pending,2026-06-20,,0,In-person,No,No,Documentation Update,
+T1078,2026-08-21,Sayan Bose,QA,Office Supplies,Internal Management,Medium,Completed,2026-08-23,2026-08-24,1,Phone,No,Yes,No Issue,3.0
+T1079,2026-01-20,Sneha Mukherjee,Business Support,Client Communication,Australia Client C,Medium,Completed,2026-01-24,2026-01-22,0,Phone,No,Yes,No Issue,4.0
+T1080,2026-06-30,Ankit Dutta,QA,Office Supplies,Internal Management,Medium,Pending,2026-07-03,,0,Teams,No,Yes,Schedule Conflict,
+T1081,2026-08-02,Sayan Bose,QA,Office Event,Internal Management,High,Pending,2026-08-07,,0,Zoom,No,No,No Issue,
+T1082,2026-01-31,Sayan Bose,QA,Follow-up,India Client G,Medium,Completed,2026-02-03,2026-02-06,3,In-person,No,Yes,Schedule Conflict,4.0
+T1083,2026-08-29,Amitava Nandi,Development,Screencast Creation,India Client G,Medium,Pending,2026-08-30,,0,Teams,No,Yes,No Issue,
+T1084,2026-02-19,Rahul Banerjee,Development,Client Communication,Japan Client E,Medium,Pending,2026-02-22,,0,Zoom,Yes,Yes,No Issue,
+T1085,2026-06-15,Arindam Sen,Administration,Office Event,Internal Management,Medium,Completed,2026-06-18,2026-06-18,0,In-person,No,Yes,Approval Pending,4.0
+T1086,2026-02-14,Moumita Saha,Administration,Office Supplies,Internal Management,High,In Progress,2026-02-19,,0,Email,No,Yes,No Issue,
+T1087,2026-08-17,Ishita Chakraborty,Business Support,User Testing,Australia Client C,High,Completed,2026-08-21,2026-08-21,0,Zoom,No,Yes,No Issue,5.0
+T1088,2026-03-13,Rahul Banerjee,Development,Screencast Creation,US Client A,Medium,In Progress,2026-03-16,,0,Teams,No,Yes,Resource Unavailable,
+T1089,2026-08-30,Debarati Das,HR,Management Support,US Client A,Urgent,Completed,2026-08-31,2026-08-29,0,Teams,Yes,Yes,No Issue,4.0
+T1090,2026-06-05,Abhishek Paul,Development,Screencast Creation,India Client G,Low,In Progress,2026-06-06,,0,Teams,No,No,No Issue,
+T1091,2026-01-31,Sneha Mukherjee,Business Support,Management Support,Internal Management,Medium,In Progress,2026-02-05,,0,Email,No,Yes,No Issue,
+T1092,2026-07-06,Soham Das,QA,Meeting Coordination,Australia Client C,Medium,Completed,2026-07-07,2026-07-07,0,Email,Yes,Yes,No Issue,3.0
+T1093,2026-03-20,Priyanka Roy,HR,Screencast Creation,Australia Client C,Medium,Completed,2026-03-23,2026-03-23,0,Teams,No,No,No Issue,3.0
+T1094,2026-08-15,Abhishek Paul,Development,Screencast Creation,Australia Client C,Urgent,Completed,2026-08-19,2026-08-18,0,Teams,No,No,No Issue,5.0
+T1095,2026-05-14,Sayan Bose,QA,Office Supplies,Internal Management,High,In Progress,2026-05-16,,0,Phone,No,Yes,Resource Unavailable,
+T1096,2026-05-18,Soham Das,QA,Issue Tracking,Canada Client D,Urgent,Completed,2026-05-21,2026-05-19,0,Teams,No,No,No Issue,5.0
+T1097,2026-03-08,Moumita Saha,Administration,Client Communication,UK Client B,Medium,In Progress,2026-03-12,,0,Zoom,Yes,Yes,No Issue,
+T1098,2026-04-07,Ishita Chakraborty,Business Support,Issue Tracking,US Client A,Medium,Completed,2026-04-10,2026-04-11,1,Zoom,No,Yes,No Issue,5.0
+T1099,2026-01-26,Amitava Nandi,Development,User Testing,Singapore Client F,Medium,Completed,2026-01-28,2026-01-27,0,WhatsApp,No,No,No Issue,4.0
+T1100,2026-03-04,Poulomi Roy,Business Support,Office Event,Internal Management,High,Completed,2026-03-08,2026-03-07,0,In-person,No,Yes,Schedule Conflict,5.0
+T1101,2026-07-18,Ankit Dutta,QA,Office Event,Internal Management,Urgent,Completed,2026-07-19,2026-07-19,0,In-person,No,No,Documentation Update,5.0
+T1102,2026-07-12,Ishita Chakraborty,Business Support,User Testing,Australia Client C,Medium,In Progress,2026-07-13,,0,Zoom,No,Yes,No Issue,
+T1103,2026-04-12,Moumita Saha,Administration,User Testing,Internal Management,Low,Completed,2026-04-14,2026-04-14,0,WhatsApp,No,Yes,No Issue,5.0
+T1104,2026-05-23,Sayan Bose,QA,Management Support,US Client A,Medium,Completed,2026-05-27,2026-05-26,0,Phone,No,Yes,Documentation Update,3.0
+T1105,2026-03-04,Debarati Das,HR,Meeting Coordination,India Client G,Low,In Progress,2026-03-06,,0,Zoom,Yes,Yes,No Issue,
+T1106,2026-06-22,Poulomi Roy,Business Support,Documentation,India Client G,Medium,Completed,2026-06-27,2026-06-25,0,Zoom,No,Yes,Test Failure,5.0
+T1107,2026-01-01,Poulomi Roy,Business Support,Issue Tracking,India Client G,High,In Progress,2026-01-03,,0,Teams,No,No,No Issue,
+T1108,2026-04-22,Abhishek Paul,Development,Meeting Coordination,Singapore Client F,Medium,Completed,2026-04-24,2026-04-23,0,Zoom,No,Yes,No Issue,3.0
+T1109,2026-02-15,Ankit Dutta,QA,User Testing,India Client G,High,Pending,2026-02-19,,0,WhatsApp,No,Yes,No Issue,
+T1110,2026-04-14,Poulomi Roy,Business Support,Client Communication,Australia Client C,Medium,Completed,2026-04-18,2026-04-18,0,Phone,Yes,Yes,Approval Pending,4.0
+T1111,2026-04-19,Abhishek Paul,Development,Office Event,Internal Management,High,Completed,2026-04-23,2026-04-22,0,Email,No,No,Test Failure,4.0
+T1112,2026-05-17,Ankit Dutta,QA,Documentation,UK Client B,Low,Completed,2026-05-22,2026-05-20,0,Phone,No,No,No Issue,5.0
+T1113,2026-08-11,Riya Ghosh,Administration,Office Supplies,Internal Management,Medium,Completed,2026-08-16,2026-08-15,0,Zoom,No,No,No Issue,4.0
+T1114,2026-05-19,Arindam Sen,Administration,Office Event,Internal Management,Low,Completed,2026-05-20,2026-05-19,0,Zoom,No,Yes,No Issue,4.0
+T1115,2026-07-09,Rahul Banerjee,Development,Documentation,Canada Client D,Low,Completed,2026-07-11,2026-07-09,0,Zoom,No,No,No Issue,5.0
+T1116,2026-06-26,Moumita Saha,Administration,Issue Tracking,Canada Client D,High,Pending,2026-07-01,,0,Zoom,No,No,No Issue,
+T1117,2026-01-10,Sneha Mukherjee,Business Support,User Testing,UK Client B,Medium,Cancelled,2026-01-11,,0,Email,No,No,Test Failure,
+T1118,2026-07-11,Soham Das,QA,Office Event,Internal Management,High,In Progress,2026-07-12,,0,In-person,No,No,Schedule Conflict,
+T1119,2026-03-19,Abhishek Paul,Development,Issue Tracking,Canada Client D,High,Completed,2026-03-24,2026-03-23,0,Zoom,No,No,Schedule Conflict,4.0
+T1120,2026-06-04,Arindam Sen,Administration,Documentation,Australia Client C,Medium,Completed,2026-06-08,2026-06-07,0,Phone,No,Yes,No Issue,4.0
+T1121,2026-03-23,Sayan Bose,QA,Meeting Coordination,Canada Client D,Medium,In Progress,2026-03-25,,0,WhatsApp,Yes,Yes,No Issue,
+T1122,2026-07-31,Ishita Chakraborty,Business Support,Office Supplies,Internal Management,Medium,In Progress,2026-08-03,,0,In-person,No,No,No Issue,
+T1123,2026-03-29,Arindam Sen,Administration,Management Support,Singapore Client F,Medium,Completed,2026-04-02,2026-04-06,4,Phone,Yes,Yes,Documentation Update,5.0
+T1124,2026-06-19,Arindam Sen,Administration,Issue Tracking,UK Client B,Medium,Completed,2026-06-22,2026-06-20,0,Zoom,No,No,No Issue,4.0
+T1125,2026-01-08,Moumita Saha,Administration,User Testing,Australia Client C,Medium,Completed,2026-01-12,2026-01-13,1,Teams,No,No,No Issue,4.0
+T1126,2026-02-03,Rahul Banerjee,Development,Documentation,UK Client B,Low,Completed,2026-02-04,2026-02-04,0,Phone,No,Yes,Documentation Update,4.0
+T1127,2026-07-12,Sneha Mukherjee,Business Support,Screencast Creation,India Client G,High,Completed,2026-07-15,2026-07-13,0,Teams,No,No,No Issue,4.0
+T1128,2026-08-08,Priyanka Roy,HR,Documentation,Internal Management,High,Completed,2026-08-12,2026-08-12,0,In-person,No,No,No Issue,3.0
+T1129,2026-04-29,Kunal Ghosh,Administration,User Testing,UK Client B,Medium,In Progress,2026-05-03,,0,Teams,No,No,No Issue,
+T1130,2026-06-08,Ishita Chakraborty,Business Support,Follow-up,UK Client B,Medium,In Progress,2026-06-09,,0,Teams,No,Yes,No Issue,
+T1131,2026-05-26,Soham Das,QA,Office Supplies,Internal Management,High,Pending,2026-05-27,,0,Teams,No,No,No Issue,
+T1132,2026-08-22,Poulomi Roy,Business Support,User Testing,Internal Management,Medium,Pending,2026-08-24,,0,Email,No,No,Test Failure,
+T1133,2026-01-08,Amitava Nandi,Development,Screencast Creation,Internal Management,Medium,In Progress,2026-01-12,,0,Teams,No,Yes,Approval Pending,
+T1134,2026-06-14,Rahul Banerjee,Development,Meeting Coordination,Singapore Client F,High,Pending,2026-06-16,,0,WhatsApp,Yes,Yes,Client Response Pending,
+T1135,2026-06-24,Arindam Sen,Administration,Documentation,Internal Management,High,Completed,2026-06-28,2026-06-29,1,WhatsApp,No,Yes,No Issue,5.0
+T1136,2026-04-12,Kunal Ghosh,Administration,Client Communication,Singapore Client F,Medium,Pending,2026-04-16,,0,Teams,Yes,Yes,No Issue,
+T1137,2026-03-09,Poulomi Roy,Business Support,Issue Tracking,UK Client B,High,Completed,2026-03-12,2026-03-12,0,Email,No,No,No Issue,5.0
+T1138,2026-01-19,Debarati Das,HR,Office Supplies,Internal Management,High,Completed,2026-01-21,2026-01-20,0,Phone,No,No,Test Failure,4.0
+T1139,2026-03-12,Ishita Chakraborty,Business Support,Issue Tracking,US Client A,High,Completed,2026-03-15,2026-03-14,0,WhatsApp,No,No,Test Failure,5.0
+T1140,2026-03-20,Sayan Bose,QA,Office Supplies,Internal Management,High,In Progress,2026-03-22,,0,Zoom,No,Yes,No Issue,
+T1141,2026-04-09,Poulomi Roy,Business Support,Office Event,Internal Management,Medium,Completed,2026-04-11,2026-04-11,0,WhatsApp,No,Yes,No Issue,4.0
+T1142,2026-05-13,Poulomi Roy,Business Support,Documentation,Internal Management,Medium,Completed,2026-05-16,2026-05-14,0,Phone,No,No,No Issue,3.0
+T1143,2026-06-15,Moumita Saha,Administration,User Testing,Internal Management,Low,Pending,2026-06-16,,0,Teams,No,Yes,No Issue,
+T1144,2026-06-05,Abhishek Paul,Development,Meeting Coordination,Canada Client D,Medium,Completed,2026-06-06,2026-06-04,0,WhatsApp,No,Yes,Test Failure,5.0
+T1145,2026-01-26,Sayan Bose,QA,Management Support,UK Client B,Medium,Pending,2026-01-31,,0,Phone,No,Yes,Client Response Pending,
+T1146,2026-05-14,Ishita Chakraborty,Business Support,Screencast Creation,Canada Client D,Medium,In Progress,2026-05-16,,0,Teams,No,Yes,Approval Pending,
+T1147,2026-01-11,Soham Das,QA,Issue Tracking,Japan Client E,Medium,Completed,2026-01-13,2026-01-13,0,Email,No,Yes,No Issue,5.0
+T1148,2026-05-30,Priyanka Roy,HR,Issue Tracking,Internal Management,Medium,Completed,2026-05-31,2026-05-29,0,Email,No,Yes,No Issue,4.0
+T1149,2026-02-20,Moumita Saha,Administration,Meeting Coordination,Canada Client D,Medium,Completed,2026-02-21,2026-02-21,0,WhatsApp,No,Yes,No Issue,5.0
+T1150,2026-06-12,Kunal Ghosh,Administration,Issue Tracking,Internal Management,Urgent,Completed,2026-06-16,2026-06-15,0,Phone,No,Yes,No Issue,4.0
+T1151,2026-03-18,Sayan Bose,QA,Office Event,Internal Management,High,Completed,2026-03-21,2026-03-19,0,Email,No,No,No Issue,2.0
+T1152,2026-05-05,Soham Das,QA,Client Communication,Singapore Client F,High,Completed,2026-05-09,2026-05-09,0,Email,No,Yes,No Issue,3.0
+T1153,2026-03-29,Moumita Saha,Administration,Follow-up,Australia Client C,Medium,Completed,2026-03-31,2026-03-29,0,In-person,No,Yes,No Issue,4.0
+T1154,2026-03-18,Sayan Bose,QA,Issue Tracking,Canada Client D,Medium,Completed,2026-03-20,2026-03-19,0,WhatsApp,No,Yes,Resource Unavailable,5.0
+T1155,2026-05-02,Rahul Banerjee,Development,Issue Tracking,India Client G,High,Completed,2026-05-05,2026-05-04,0,Zoom,No,No,No Issue,4.0
+T1156,2026-07-10,Poulomi Roy,Business Support,Management Support,Internal Management,Medium,Completed,2026-07-14,2026-07-13,0,WhatsApp,Yes,Yes,No Issue,3.0
+T1157,2026-07-16,Moumita Saha,Administration,Office Event,Internal Management,Low,In Progress,2026-07-18,,0,Zoom,No,No,No Issue,
+T1158,2026-03-24,Arindam Sen,Administration,Documentation,India Client G,Medium,Completed,2026-03-26,2026-03-24,0,Email,No,No,Client Response Pending,5.0
+T1159,2026-07-05,Sneha Mukherjee,Business Support,Office Supplies,Internal Management,Urgent,Completed,2026-07-06,2026-07-05,0,In-person,No,No,No Issue,4.0
+T1160,2026-01-26,Arindam Sen,Administration,Client Communication,Singapore Client F,Medium,Completed,2026-01-29,2026-01-29,0,WhatsApp,No,Yes,No Issue,4.0
+T1161,2026-08-12,Soham Das,QA,User Testing,Japan Client E,Medium,Completed,2026-08-16,2026-08-14,0,WhatsApp,No,No,No Issue,5.0
+T1162,2026-07-17,Kunal Ghosh,Administration,Meeting Coordination,Singapore Client F,Urgent,Completed,2026-07-21,2026-07-21,0,Phone,Yes,Yes,No Issue,4.0
+T1163,2026-06-23,Priyanka Roy,HR,Office Event,Internal Management,Medium,In Progress,2026-06-24,,0,Phone,No,Yes,No Issue,
+T1164,2026-04-12,Ankit Dutta,QA,Office Supplies,Internal Management,High,Pending,2026-04-13,,0,Phone,No,No,No Issue,
+T1165,2026-05-10,Arindam Sen,Administration,Management Support,Internal Management,Medium,Completed,2026-05-11,2026-05-09,0,Email,Yes,Yes,No Issue,4.0
+T1166,2026-05-12,Kunal Ghosh,Administration,Meeting Coordination,Internal Management,Medium,Cancelled,2026-05-13,,0,Zoom,No,Yes,No Issue,
+T1167,2026-04-26,Moumita Saha,Administration,User Testing,Singapore Client F,Low,In Progress,2026-04-29,,0,Phone,No,No,No Issue,
+T1168,2026-01-06,Amitava Nandi,Development,Documentation,Japan Client E,Low,In Progress,2026-01-07,,0,Phone,No,Yes,No Issue,
+T1169,2026-03-08,Soham Das,QA,Screencast Creation,Singapore Client F,Medium,In Progress,2026-03-10,,0,Teams,No,No,Documentation Update,
+T1170,2026-05-28,Poulomi Roy,Business Support,User Testing,Canada Client D,High,Completed,2026-05-30,2026-05-28,0,Zoom,No,Yes,No Issue,3.0
+T1171,2026-02-28,Amitava Nandi,Development,Screencast Creation,Canada Client D,Medium,Completed,2026-03-03,2026-03-03,0,Teams,No,No,No Issue,3.0
+T1172,2026-02-01,Moumita Saha,Administration,Documentation,US Client A,Medium,In Progress,2026-02-03,,0,Phone,No,No,No Issue,
+T1173,2026-02-20,Ankit Dutta,QA,Screencast Creation,India Client G,Medium,Completed,2026-02-22,2026-02-20,0,Teams,No,Yes,No Issue,5.0
+T1174,2026-07-09,Moumita Saha,Administration,Issue Tracking,Singapore Client F,High,Completed,2026-07-11,2026-07-11,0,In-person,No,No,No Issue,5.0
+T1175,2026-01-05,Moumita Saha,Administration,Client Communication,India Client G,High,Completed,2026-01-06,2026-01-05,0,WhatsApp,No,Yes,No Issue,5.0
+T1176,2026-01-22,Debarati Das,HR,Documentation,Internal Management,Low,Pending,2026-01-25,,0,Teams,No,Yes,No Issue,
+T1177,2026-05-25,Soham Das,QA,Client Communication,Australia Client C,Medium,Completed,2026-05-29,2026-05-29,0,WhatsApp,Yes,Yes,No Issue,4.0
+T1178,2026-06-08,Sneha Mukherjee,Business Support,Documentation,Australia Client C,Medium,Completed,2026-06-13,2026-06-15,2,Teams,No,No,Client Response Pending,5.0
+T1179,2026-03-20,Priyanka Roy,HR,Documentation,Singapore Client F,High,Completed,2026-03-23,2026-03-23,0,Phone,No,No,No Issue,5.0
+T1180,2026-02-06,Poulomi Roy,Business Support,Documentation,US Client A,Medium,In Progress,2026-02-11,,0,Email,No,Yes,No Issue,
+T1181,2026-08-18,Sneha Mukherjee,Business Support,Screencast Creation,UK Client B,Medium,Completed,2026-08-22,2026-08-21,0,Teams,No,No,No Issue,4.0
+T1182,2026-01-01,Sayan Bose,QA,Office Event,Internal Management,Medium,Pending,2026-01-04,,0,In-person,No,Yes,No Issue,
+T1183,2026-06-07,Sneha Mukherjee,Business Support,Meeting Coordination,Internal Management,Medium,Pending,2026-06-12,,0,Teams,Yes,Yes,No Issue,
+T1184,2026-08-30,Kunal Ghosh,Administration,User Testing,Canada Client D,Medium,In Progress,2026-09-03,,0,Teams,No,No,Test Failure,
+T1185,2026-06-18,Debarati Das,HR,Office Event,Internal Management,Medium,Cancelled,2026-06-23,,0,Zoom,No,No,Schedule Conflict,
+T1186,2026-04-06,Ankit Dutta,QA,User Testing,US Client A,High,In Progress,2026-04-07,,0,Teams,No,Yes,No Issue,
+T1187,2026-04-12,Soham Das,QA,Management Support,US Client A,Medium,Completed,2026-04-15,2026-04-13,0,In-person,Yes,Yes,Approval Pending,5.0
+T1188,2026-01-31,Moumita Saha,Administration,Office Event,Internal Management,Medium,Completed,2026-02-03,2026-02-03,0,Phone,No,No,No Issue,4.0
+T1189,2026-06-19,Moumita Saha,Administration,Meeting Coordination,Singapore Client F,High,Completed,2026-06-22,2026-06-22,0,Teams,No,Yes,No Issue,2.0
+T1190,2026-01-29,Poulomi Roy,Business Support,Meeting Coordination,Japan Client E,Low,Completed,2026-02-02,2026-02-02,0,Phone,No,Yes,Schedule Conflict,3.0
+T1191,2026-05-11,Amitava Nandi,Development,Screencast Creation,Australia Client C,High,Completed,2026-05-12,2026-05-10,0,Teams,No,No,No Issue,4.0
+T1192,2026-08-09,Ishita Chakraborty,Business Support,Follow-up,US Client A,High,Completed,2026-08-11,2026-08-09,0,Teams,No,Yes,No Issue,5.0
+T1193,2026-06-12,Soham Das,QA,Issue Tracking,Canada Client D,High,In Progress,2026-06-14,,0,Email,No,No,Test Failure,
+T1194,2026-03-17,Ankit Dutta,QA,Documentation,India Client G,High,Completed,2026-03-19,2026-03-18,0,WhatsApp,No,Yes,No Issue,4.0
+T1195,2026-02-23,Abhishek Paul,Development,Issue Tracking,UK Client B,Low,Completed,2026-02-25,2026-02-25,0,Teams,No,Yes,No Issue,4.0
+T1196,2026-06-01,Ankit Dutta,QA,Screencast Creation,Canada Client D,High,Completed,2026-06-04,2026-06-03,0,Teams,No,Yes,Resource Unavailable,3.0
+T1197,2026-02-22,Soham Das,QA,Office Supplies,Internal Management,Low,Completed,2026-02-25,2026-02-25,0,WhatsApp,No,No,No Issue,4.0
+T1198,2026-06-19,Priyanka Roy,HR,Office Supplies,Internal Management,Medium,Completed,2026-06-24,2026-06-24,0,Phone,No,No,Client Response Pending,3.0
+T1199,2026-01-29,Abhishek Paul,Development,Office Supplies,Internal Management,Medium,Completed,2026-02-02,2026-02-02,0,WhatsApp,No,Yes,No Issue,4.0
+T1200,2026-08-10,Ishita Chakraborty,Business Support,Management Support,Canada Client D,High,In Progress,2026-08-14,,0,Zoom,Yes,Yes,No Issue,

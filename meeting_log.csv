@@ -1,0 +1,261 @@
+Meeting_ID,Meeting_Date,Meeting_Type,Organizer,Client_or_Stakeholder,Planned_Participants,Attended,Duration_Minutes,Meeting_Status
+M0001,2026-08-04,Management Review,Amitava Nandi,Internal Management,7,6,60,Completed
+M0002,2026-06-20,Management Review,Sneha Mukherjee,Internal Management,4,2,30,Completed
+M0003,2026-07-02,Project Sync,Priyanka Roy,Internal Management,12,12,30,Completed
+M0004,2026-06-01,Project Sync,Sayan Bose,Internal Management,7,4,90,Completed
+M0005,2026-05-05,HR/Admin Meeting,Ishita Chakraborty,Internal Management,12,12,60,Completed
+M0006,2026-05-13,Project Sync,Arindam Sen,Internal Management,12,9,60,Completed
+M0007,2026-08-03,Client Meeting,Ishita Chakraborty,UK Client B,4,2,45,Completed
+M0008,2026-05-29,HR/Admin Meeting,Ankit Dutta,Internal Management,9,6,45,Completed
+M0009,2026-06-15,Project Sync,Poulomi Roy,Internal Management,10,7,60,Completed
+M0010,2026-07-28,Project Sync,Sayan Bose,Internal Management,3,2,60,Completed
+M0011,2026-02-16,Client Meeting,Sayan Bose,Singapore Client F,4,3,60,Completed
+M0012,2026-07-25,Client Meeting,Debarati Das,Internal Management,7,6,90,Completed
+M0013,2026-03-30,Management Review,Priyanka Roy,Internal Management,7,7,30,Completed
+M0014,2026-03-25,Project Sync,Debarati Das,Internal Management,13,12,30,Completed
+M0015,2026-02-23,HR/Admin Meeting,Kunal Ghosh,Internal Management,11,10,90,Completed
+M0016,2026-04-13,Management Review,Kunal Ghosh,Internal Management,5,5,30,Completed
+M0017,2026-03-27,Management Review,Ishita Chakraborty,Internal Management,11,9,45,Completed
+M0018,2026-08-01,Management Review,Riya Ghosh,Internal Management,14,11,90,Completed
+M0019,2026-04-14,Management Review,Ishita Chakraborty,Internal Management,10,8,60,Completed
+M0020,2026-02-21,Management Review,Poulomi Roy,Internal Management,14,14,45,Completed
+M0021,2026-03-28,Project Sync,Amitava Nandi,Internal Management,8,6,30,Completed
+M0022,2026-03-24,Client Meeting,Riya Ghosh,Canada Client D,12,11,60,Completed
+M0023,2026-06-29,HR/Admin Meeting,Abhishek Paul,Internal Management,11,9,60,Completed
+M0024,2026-06-08,Client Meeting,Priyanka Roy,UK Client B,4,4,60,Completed
+M0025,2026-08-23,Project Sync,Poulomi Roy,Internal Management,7,5,90,Completed
+M0026,2026-03-29,HR/Admin Meeting,Sneha Mukherjee,Internal Management,9,7,60,Completed
+M0027,2026-01-27,Management Review,Ishita Chakraborty,Internal Management,12,9,45,Completed
+M0028,2026-02-27,Project Sync,Poulomi Roy,Internal Management,3,2,60,Completed
+M0029,2026-02-09,Management Review,Arindam Sen,Internal Management,10,8,90,Completed
+M0030,2026-02-26,Internal Review,Amitava Nandi,Internal Management,6,6,90,Completed
+M0031,2026-07-27,Internal Review,Soham Das,Internal Management,3,3,30,Completed
+M0032,2026-01-06,HR/Admin Meeting,Moumita Saha,Internal Management,10,10,60,Completed
+M0033,2026-05-22,HR/Admin Meeting,Priyanka Roy,Internal Management,9,7,60,Completed
+M0034,2026-05-29,Project Sync,Sayan Bose,Internal Management,12,12,90,Completed
+M0035,2026-03-08,Management Review,Kunal Ghosh,Internal Management,7,7,45,Completed
+M0036,2026-04-04,Internal Review,Sneha Mukherjee,Internal Management,11,10,30,Completed
+M0037,2026-06-27,Internal Review,Sneha Mukherjee,Internal Management,14,12,60,Completed
+M0038,2026-05-29,Internal Review,Riya Ghosh,Internal Management,11,11,60,Completed
+M0039,2026-03-22,Client Meeting,Kunal Ghosh,Canada Client D,14,13,90,Completed
+M0040,2026-06-29,HR/Admin Meeting,Poulomi Roy,Internal Management,6,6,45,Completed
+M0041,2026-05-28,Client Meeting,Moumita Saha,Internal Management,10,10,30,Completed
+M0042,2026-02-13,Client Meeting,Rahul Banerjee,Internal Management,11,8,45,Completed
+M0043,2026-05-03,Internal Review,Riya Ghosh,Internal Management,13,12,30,Completed
+M0044,2026-07-04,Management Review,Ishita Chakraborty,Internal Management,7,4,90,Completed
+M0045,2026-06-03,Project Sync,Ankit Dutta,Internal Management,14,12,60,Completed
+M0046,2026-02-25,Project Sync,Abhishek Paul,Internal Management,11,10,45,Completed
+M0047,2026-03-01,HR/Admin Meeting,Kunal Ghosh,Internal Management,11,11,30,Completed
+M0048,2026-07-16,HR/Admin Meeting,Sayan Bose,Internal Management,12,11,30,Completed
+M0049,2026-06-06,Client Meeting,Debarati Das,Singapore Client F,12,9,30,Completed
+M0050,2026-06-07,Client Meeting,Rahul Banerjee,India Client G,14,12,90,Completed
+M0051,2026-02-19,Internal Review,Ishita Chakraborty,Internal Management,5,3,30,Completed
+M0052,2026-06-16,Project Sync,Debarati Das,Internal Management,4,3,30,Completed
+M0053,2026-01-25,Project Sync,Ishita Chakraborty,Internal Management,14,14,60,Completed
+M0054,2026-04-08,Project Sync,Soham Das,Internal Management,8,6,30,Completed
+M0055,2026-03-21,Management Review,Soham Das,Internal Management,14,14,45,Completed
+M0056,2026-05-08,Client Meeting,Soham Das,Japan Client E,9,7,30,Completed
+M0057,2026-03-31,Client Meeting,Sneha Mukherjee,Internal Management,4,4,45,Completed
+M0058,2026-01-06,HR/Admin Meeting,Arindam Sen,Internal Management,11,8,90,Completed
+M0059,2026-04-06,Client Meeting,Soham Das,US Client A,11,8,30,Completed
+M0060,2026-03-25,Project Sync,Abhishek Paul,Internal Management,3,3,30,Completed
+M0061,2026-02-14,Internal Review,Sayan Bose,Internal Management,12,12,30,Completed
+M0062,2026-05-18,Internal Review,Sneha Mukherjee,Internal Management,4,4,30,Completed
+M0063,2026-06-03,Management Review,Ishita Chakraborty,Internal Management,5,5,90,Completed
+M0064,2026-08-05,Internal Review,Rahul Banerjee,Internal Management,5,5,30,Completed
+M0065,2026-06-09,Client Meeting,Amitava Nandi,UK Client B,7,6,30,Completed
+M0066,2026-03-31,Internal Review,Ishita Chakraborty,Internal Management,11,9,30,Completed
+M0067,2026-05-08,Internal Review,Ishita Chakraborty,Internal Management,5,4,60,Completed
+M0068,2026-08-26,HR/Admin Meeting,Poulomi Roy,Internal Management,9,9,30,Completed
+M0069,2026-06-21,HR/Admin Meeting,Riya Ghosh,Internal Management,8,6,45,Completed
+M0070,2026-02-06,Internal Review,Poulomi Roy,Internal Management,10,8,60,Completed
+M0071,2026-01-11,Management Review,Arindam Sen,Internal Management,10,7,60,Completed
+M0072,2026-01-24,Management Review,Amitava Nandi,Internal Management,11,11,60,Completed
+M0073,2026-06-14,Internal Review,Abhishek Paul,Internal Management,8,6,60,Completed
+M0074,2026-07-15,Internal Review,Abhishek Paul,Internal Management,13,13,60,Completed
+M0075,2026-04-22,Project Sync,Riya Ghosh,Internal Management,10,7,60,Completed
+M0076,2026-01-27,Management Review,Rahul Banerjee,Internal Management,10,10,45,Completed
+M0077,2026-05-08,Management Review,Kunal Ghosh,Internal Management,13,10,60,Completed
+M0078,2026-08-01,Client Meeting,Priyanka Roy,UK Client B,7,5,90,Completed
+M0079,2026-03-22,Client Meeting,Rahul Banerjee,US Client A,3,3,60,Completed
+M0080,2026-02-18,Management Review,Rahul Banerjee,Internal Management,3,3,90,Completed
+M0081,2026-05-11,HR/Admin Meeting,Poulomi Roy,Internal Management,5,4,90,Completed
+M0082,2026-06-28,Client Meeting,Amitava Nandi,Canada Client D,4,3,30,Completed
+M0083,2026-08-17,Internal Review,Debarati Das,Internal Management,8,5,90,Completed
+M0084,2026-02-22,Project Sync,Priyanka Roy,Internal Management,12,9,30,Completed
+M0085,2026-08-25,Project Sync,Priyanka Roy,Internal Management,14,11,45,Completed
+M0086,2026-01-02,Internal Review,Sayan Bose,Internal Management,8,6,60,Completed
+M0087,2026-07-31,Internal Review,Sneha Mukherjee,Internal Management,9,6,30,Completed
+M0088,2026-02-06,HR/Admin Meeting,Priyanka Roy,Internal Management,12,11,60,Completed
+M0089,2026-06-24,HR/Admin Meeting,Debarati Das,Internal Management,13,12,30,Completed
+M0090,2026-08-29,Management Review,Ankit Dutta,Internal Management,14,11,60,Completed
+M0091,2026-07-30,Project Sync,Ankit Dutta,Internal Management,7,5,60,Completed
+M0092,2026-03-06,HR/Admin Meeting,Arindam Sen,Internal Management,13,13,30,Completed
+M0093,2026-06-28,Project Sync,Soham Das,Internal Management,13,11,30,Completed
+M0094,2026-06-13,Client Meeting,Riya Ghosh,Australia Client C,10,7,30,Completed
+M0095,2026-05-18,Management Review,Soham Das,Internal Management,14,13,90,Completed
+M0096,2026-07-03,Project Sync,Abhishek Paul,Internal Management,11,10,45,Completed
+M0097,2026-08-08,HR/Admin Meeting,Abhishek Paul,Internal Management,4,2,60,Completed
+M0098,2026-07-30,Internal Review,Riya Ghosh,Internal Management,11,11,30,Completed
+M0099,2026-02-02,HR/Admin Meeting,Arindam Sen,Internal Management,10,10,30,Completed
+M0100,2026-01-29,Internal Review,Arindam Sen,Internal Management,9,7,30,Completed
+M0101,2026-07-15,Client Meeting,Priyanka Roy,India Client G,12,11,60,Completed
+M0102,2026-07-09,Internal Review,Moumita Saha,Internal Management,12,9,90,Completed
+M0103,2026-08-28,HR/Admin Meeting,Kunal Ghosh,Internal Management,6,4,90,Completed
+M0104,2026-03-23,Client Meeting,Ishita Chakraborty,US Client A,5,4,45,Completed
+M0105,2026-08-24,Internal Review,Sneha Mukherjee,Internal Management,10,8,90,Completed
+M0106,2026-01-15,Project Sync,Ankit Dutta,Internal Management,5,4,60,Completed
+M0107,2026-01-17,Internal Review,Soham Das,Internal Management,13,11,45,Completed
+M0108,2026-06-18,Project Sync,Arindam Sen,Internal Management,10,7,30,Completed
+M0109,2026-06-04,HR/Admin Meeting,Abhishek Paul,Internal Management,11,9,30,Completed
+M0110,2026-05-21,Management Review,Arindam Sen,Internal Management,4,4,30,Completed
+M0111,2026-04-15,HR/Admin Meeting,Rahul Banerjee,Internal Management,3,2,90,Completed
+M0112,2026-08-27,Management Review,Sneha Mukherjee,Internal Management,3,2,30,Completed
+M0113,2026-06-25,Internal Review,Arindam Sen,Internal Management,9,6,60,Completed
+M0114,2026-01-15,Project Sync,Kunal Ghosh,Internal Management,12,9,30,Completed
+M0115,2026-07-15,Client Meeting,Ishita Chakraborty,UK Client B,3,3,60,Completed
+M0116,2026-06-15,Project Sync,Abhishek Paul,Internal Management,13,13,60,Completed
+M0117,2026-08-22,Internal Review,Sayan Bose,Internal Management,10,9,45,Completed
+M0118,2026-06-12,Project Sync,Moumita Saha,Internal Management,5,5,60,Completed
+M0119,2026-08-14,Management Review,Priyanka Roy,Internal Management,5,4,90,Completed
+M0120,2026-07-07,Internal Review,Ankit Dutta,Internal Management,7,5,45,Completed
+M0121,2026-07-09,Client Meeting,Ankit Dutta,Japan Client E,5,2,60,Completed
+M0122,2026-04-16,HR/Admin Meeting,Poulomi Roy,Internal Management,6,6,30,Completed
+M0123,2026-08-04,Management Review,Priyanka Roy,Internal Management,9,9,60,Completed
+M0124,2026-04-28,Project Sync,Moumita Saha,Internal Management,9,9,45,Completed
+M0125,2026-03-28,Management Review,Sayan Bose,Internal Management,9,7,90,Completed
+M0126,2026-05-16,Internal Review,Priyanka Roy,Internal Management,6,4,60,Completed
+M0127,2026-02-19,HR/Admin Meeting,Sneha Mukherjee,Internal Management,10,10,45,Completed
+M0128,2026-06-14,Management Review,Priyanka Roy,Internal Management,9,7,60,Completed
+M0129,2026-01-28,HR/Admin Meeting,Sayan Bose,Internal Management,10,9,60,Completed
+M0130,2026-04-16,Client Meeting,Priyanka Roy,Canada Client D,8,6,90,Completed
+M0131,2026-04-09,HR/Admin Meeting,Ankit Dutta,Internal Management,5,5,30,Completed
+M0132,2026-06-27,Internal Review,Ankit Dutta,Internal Management,12,10,45,Completed
+M0133,2026-07-10,HR/Admin Meeting,Kunal Ghosh,Internal Management,5,5,60,Completed
+M0134,2026-07-20,Internal Review,Soham Das,Internal Management,9,8,60,Completed
+M0135,2026-03-04,Internal Review,Kunal Ghosh,Internal Management,10,9,60,Completed
+M0136,2026-08-27,HR/Admin Meeting,Rahul Banerjee,Internal Management,14,11,90,Completed
+M0137,2026-01-25,Client Meeting,Riya Ghosh,US Client A,3,2,45,Completed
+M0138,2026-08-07,Client Meeting,Sneha Mukherjee,Singapore Client F,6,4,30,Completed
+M0139,2026-03-20,Client Meeting,Sneha Mukherjee,Singapore Client F,12,12,60,Completed
+M0140,2026-03-28,Internal Review,Abhishek Paul,Internal Management,7,4,60,Completed
+M0141,2026-02-10,Internal Review,Soham Das,Internal Management,9,6,60,Completed
+M0142,2026-08-22,HR/Admin Meeting,Ankit Dutta,Internal Management,5,5,90,Completed
+M0143,2026-03-13,Internal Review,Riya Ghosh,Internal Management,13,11,60,Completed
+M0144,2026-01-25,Client Meeting,Soham Das,India Client G,10,10,60,Completed
+M0145,2026-02-13,Client Meeting,Ishita Chakraborty,Singapore Client F,10,8,60,Completed
+M0146,2026-08-17,Client Meeting,Moumita Saha,Singapore Client F,8,5,45,Completed
+M0147,2026-01-18,Internal Review,Soham Das,Internal Management,12,11,90,Completed
+M0148,2026-04-11,Internal Review,Riya Ghosh,Internal Management,13,11,90,Completed
+M0149,2026-03-24,Management Review,Debarati Das,Internal Management,4,3,60,Completed
+M0150,2026-07-24,Project Sync,Arindam Sen,Internal Management,12,12,30,Completed
+M0151,2026-04-04,Management Review,Priyanka Roy,Internal Management,11,10,60,Completed
+M0152,2026-08-20,Client Meeting,Moumita Saha,Singapore Client F,5,2,90,Completed
+M0153,2026-03-03,Management Review,Abhishek Paul,Internal Management,10,10,45,Completed
+M0154,2026-01-11,Management Review,Debarati Das,Internal Management,13,13,90,Completed
+M0155,2026-01-21,Management Review,Rahul Banerjee,Internal Management,3,2,60,Completed
+M0156,2026-01-03,HR/Admin Meeting,Arindam Sen,Internal Management,7,7,30,Completed
+M0157,2026-08-20,Project Sync,Ankit Dutta,Internal Management,9,6,90,Completed
+M0158,2026-06-22,Management Review,Debarati Das,Internal Management,9,8,45,Completed
+M0159,2026-07-25,HR/Admin Meeting,Poulomi Roy,Internal Management,9,9,90,Completed
+M0160,2026-03-29,Internal Review,Sneha Mukherjee,Internal Management,14,13,60,Completed
+M0161,2026-02-19,Project Sync,Abhishek Paul,Internal Management,7,4,60,Completed
+M0162,2026-08-24,Client Meeting,Kunal Ghosh,Singapore Client F,11,8,30,Completed
+M0163,2026-07-27,Internal Review,Kunal Ghosh,Internal Management,4,2,30,Completed
+M0164,2026-02-15,Management Review,Riya Ghosh,Internal Management,5,3,30,Completed
+M0165,2026-08-10,Client Meeting,Arindam Sen,US Client A,14,13,60,Completed
+M0166,2026-01-19,Internal Review,Ishita Chakraborty,Internal Management,13,13,90,Completed
+M0167,2026-08-12,Management Review,Kunal Ghosh,Internal Management,13,10,60,Completed
+M0168,2026-02-01,Client Meeting,Debarati Das,Australia Client C,6,3,30,Completed
+M0169,2026-01-24,Client Meeting,Arindam Sen,India Client G,13,11,30,Completed
+M0170,2026-01-13,Client Meeting,Ankit Dutta,Singapore Client F,13,11,60,Completed
+M0171,2026-07-29,Internal Review,Debarati Das,Internal Management,10,8,60,Completed
+M0172,2026-03-15,HR/Admin Meeting,Poulomi Roy,Internal Management,3,3,30,Completed
+M0173,2026-05-10,Client Meeting,Riya Ghosh,Australia Client C,6,5,30,Completed
+M0174,2026-08-13,HR/Admin Meeting,Ishita Chakraborty,Internal Management,6,3,90,Completed
+M0175,2026-07-14,Client Meeting,Priyanka Roy,Australia Client C,8,6,30,Completed
+M0176,2026-04-12,HR/Admin Meeting,Abhishek Paul,Internal Management,12,12,60,Completed
+M0177,2026-06-13,Management Review,Priyanka Roy,Internal Management,9,8,45,Completed
+M0178,2026-07-08,Internal Review,Rahul Banerjee,Internal Management,3,3,45,Completed
+M0179,2026-07-13,Internal Review,Riya Ghosh,Internal Management,3,2,60,Completed
+M0180,2026-03-30,Client Meeting,Ishita Chakraborty,India Client G,4,4,90,Completed
+M0181,2026-04-25,Client Meeting,Debarati Das,UK Client B,8,7,90,Completed
+M0182,2026-06-24,HR/Admin Meeting,Sayan Bose,Internal Management,4,4,45,Completed
+M0183,2026-07-06,Management Review,Moumita Saha,Internal Management,8,8,45,Completed
+M0184,2026-05-08,Management Review,Kunal Ghosh,Internal Management,10,9,60,Completed
+M0185,2026-07-10,Internal Review,Priyanka Roy,Internal Management,12,10,30,Completed
+M0186,2026-06-26,Management Review,Ankit Dutta,Internal Management,10,10,45,Completed
+M0187,2026-08-25,Project Sync,Moumita Saha,Internal Management,10,10,30,Completed
+M0188,2026-02-06,Project Sync,Ankit Dutta,Internal Management,3,2,45,Completed
+M0189,2026-04-08,Internal Review,Ankit Dutta,Internal Management,8,5,60,Completed
+M0190,2026-07-22,Internal Review,Soham Das,Internal Management,12,10,30,Completed
+M0191,2026-01-25,Client Meeting,Ankit Dutta,Internal Management,5,4,45,Completed
+M0192,2026-02-20,Client Meeting,Moumita Saha,India Client G,5,4,60,Completed
+M0193,2026-03-13,Internal Review,Priyanka Roy,Internal Management,10,10,60,Completed
+M0194,2026-04-22,Internal Review,Moumita Saha,Internal Management,13,10,45,Completed
+M0195,2026-01-28,Client Meeting,Sneha Mukherjee,Internal Management,12,11,30,Completed
+M0196,2026-03-02,HR/Admin Meeting,Moumita Saha,Internal Management,6,6,60,Completed
+M0197,2026-01-04,Management Review,Sayan Bose,Internal Management,5,4,90,Completed
+M0198,2026-03-21,HR/Admin Meeting,Ankit Dutta,Internal Management,12,9,60,Completed
+M0199,2026-02-03,HR/Admin Meeting,Abhishek Paul,Internal Management,8,7,90,Completed
+M0200,2026-08-10,Internal Review,Sneha Mukherjee,Internal Management,12,12,30,Completed
+M0201,2026-01-05,Project Sync,Sneha Mukherjee,Internal Management,9,7,30,Completed
+M0202,2026-08-30,Management Review,Debarati Das,Internal Management,6,5,90,Completed
+M0203,2026-08-23,Project Sync,Kunal Ghosh,Internal Management,7,6,60,Completed
+M0204,2026-07-23,Management Review,Debarati Das,Internal Management,6,4,45,Completed
+M0205,2026-07-20,HR/Admin Meeting,Amitava Nandi,Internal Management,6,4,30,Completed
+M0206,2026-05-06,HR/Admin Meeting,Moumita Saha,Internal Management,3,3,60,Completed
+M0207,2026-08-14,Client Meeting,Ankit Dutta,Australia Client C,12,11,30,Completed
+M0208,2026-05-16,Project Sync,Moumita Saha,Internal Management,12,11,30,Completed
+M0209,2026-04-26,Project Sync,Kunal Ghosh,Internal Management,6,5,90,Completed
+M0210,2026-02-06,Management Review,Poulomi Roy,Internal Management,3,3,30,Completed
+M0211,2026-02-27,Client Meeting,Sneha Mukherjee,Singapore Client F,12,12,60,Completed
+M0212,2026-02-07,Management Review,Sneha Mukherjee,Internal Management,10,9,60,Completed
+M0213,2026-08-15,HR/Admin Meeting,Priyanka Roy,Internal Management,13,11,60,Completed
+M0214,2026-06-04,Client Meeting,Abhishek Paul,US Client A,14,12,60,Completed
+M0215,2026-07-24,HR/Admin Meeting,Abhishek Paul,Internal Management,6,6,60,Completed
+M0216,2026-06-29,Client Meeting,Abhishek Paul,Japan Client E,6,4,45,Completed
+M0217,2026-01-07,Client Meeting,Sayan Bose,India Client G,4,3,60,Completed
+M0218,2026-07-18,Internal Review,Moumita Saha,Internal Management,13,13,60,Completed
+M0219,2026-02-10,HR/Admin Meeting,Moumita Saha,Internal Management,8,5,45,Completed
+M0220,2026-04-27,Management Review,Priyanka Roy,Internal Management,14,14,45,Completed
+M0221,2026-02-11,HR/Admin Meeting,Soham Das,Internal Management,8,5,30,Completed
+M0222,2026-01-14,Management Review,Rahul Banerjee,Internal Management,10,9,30,Completed
+M0223,2026-03-22,Project Sync,Rahul Banerjee,Internal Management,3,3,90,Completed
+M0224,2026-03-24,Project Sync,Soham Das,Internal Management,8,5,90,Completed
+M0225,2026-03-14,Management Review,Ishita Chakraborty,Internal Management,12,9,60,Completed
+M0226,2026-01-15,Internal Review,Moumita Saha,Internal Management,4,2,30,Completed
+M0227,2026-02-08,Client Meeting,Rahul Banerjee,Australia Client C,14,12,30,Completed
+M0228,2026-07-13,Management Review,Sneha Mukherjee,Internal Management,8,5,60,Completed
+M0229,2026-03-29,Client Meeting,Moumita Saha,India Client G,11,8,60,Completed
+M0230,2026-04-17,Project Sync,Debarati Das,Internal Management,5,2,30,Completed
+M0231,2026-04-25,Internal Review,Riya Ghosh,Internal Management,7,5,30,Completed
+M0232,2026-01-15,HR/Admin Meeting,Arindam Sen,Internal Management,3,2,60,Completed
+M0233,2026-01-11,Client Meeting,Priyanka Roy,Canada Client D,5,3,60,Completed
+M0234,2026-03-23,Management Review,Ankit Dutta,Internal Management,13,13,30,Completed
+M0235,2026-05-11,Management Review,Moumita Saha,Internal Management,3,3,60,Completed
+M0236,2026-01-18,Client Meeting,Priyanka Roy,US Client A,6,4,60,Completed
+M0237,2026-05-06,Client Meeting,Sneha Mukherjee,UK Client B,12,11,60,Completed
+M0238,2026-08-19,Internal Review,Ankit Dutta,Internal Management,6,4,60,Completed
+M0239,2026-01-02,HR/Admin Meeting,Abhishek Paul,Internal Management,7,6,60,Completed
+M0240,2026-04-10,Internal Review,Poulomi Roy,Internal Management,6,5,45,Completed
+M0241,2026-02-20,Management Review,Amitava Nandi,Internal Management,7,7,30,Completed
+M0242,2026-06-16,Management Review,Moumita Saha,Internal Management,3,3,60,Completed
+M0243,2026-06-16,HR/Admin Meeting,Kunal Ghosh,Internal Management,9,7,30,Completed
+M0244,2026-01-29,Client Meeting,Ankit Dutta,UK Client B,14,12,30,Completed
+M0245,2026-07-14,HR/Admin Meeting,Debarati Das,Internal Management,14,13,90,Completed
+M0246,2026-06-22,Internal Review,Amitava Nandi,Internal Management,12,11,45,Completed
+M0247,2026-04-29,Client Meeting,Sayan Bose,Canada Client D,12,11,30,Completed
+M0248,2026-05-11,Client Meeting,Abhishek Paul,US Client A,6,4,45,Completed
+M0249,2026-02-22,Project Sync,Debarati Das,Internal Management,9,8,60,Completed
+M0250,2026-04-11,HR/Admin Meeting,Kunal Ghosh,Internal Management,5,5,60,Completed
+M0251,2026-05-24,HR/Admin Meeting,Abhishek Paul,Internal Management,13,11,30,Completed
+M0252,2026-06-07,Client Meeting,Amitava Nandi,US Client A,3,2,30,Completed
+M0253,2026-08-31,Management Review,Amitava Nandi,Internal Management,3,3,60,Completed
+M0254,2026-04-08,HR/Admin Meeting,Soham Das,Internal Management,4,2,45,Completed
+M0255,2026-02-25,Internal Review,Ankit Dutta,Internal Management,14,13,30,Completed
+M0256,2026-03-13,Project Sync,Sayan Bose,Internal Management,3,3,30,Completed
+M0257,2026-08-19,Client Meeting,Abhishek Paul,Australia Client C,7,7,30,Completed
+M0258,2026-01-31,Client Meeting,Amitava Nandi,Internal Management,5,2,30,Completed
+M0259,2026-01-23,Internal Review,Moumita Saha,Internal Management,12,11,45,Completed
+M0260,2026-01-06,HR/Admin Meeting,Moumita Saha,Internal Management,4,4,90,Completed
